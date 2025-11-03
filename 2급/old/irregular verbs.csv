@@ -1,0 +1,105 @@
+Index|Word|Definition|Frequency|Example|Translation|Word In Sentence Form|Grammar Notes|Stem Unchanged|Irregular Change|Action/Descriptive Distinction|Second Irregular|Random|IDK
+I001|어떻다|how|9|어떤 음식을 좋아해요?|What kind of food do you like?|어떤|Uses -ㄴ ending with irregular form: 어떻- becomes 어떤- (descriptive verb)|0|1|0|0|0.383150388137437|9.95787597034359
+I002|알다|to know|9|그 이야기를 들은 지 일주일 됐어요.|It has been one week since I heard that story.|은|ㄹ irregular: 알- becomes 아- before consonant endings like -ㄴ|0|1|1|0|0.818368685781024|11.0459217144526
+I003|크다|to be big|8|방이 크고 깨끗해요.|The room is large and clean.|크고|Uses -고 ending with regular stem 크- (descriptive verb)|1|0|0|0|0.399290689616464|8.99822672404116
+I004|쓰다|to write/use|8|편지를 써서 친구에게 보냈어요.|I wrote a letter and sent it to my friend.|써서|ㅡ irregular: 쓰- becomes 써- before vowel ending -어|0|1|1|0|0.18642590532545|8.46606476331363
+I005|이렇다|to be like this|8|일이 이래서 걱정돼요.|I'm worried because things are like this.|이래서|ㅎ irregular: 이렇- becomes 이래- before vowel ending -어 (descriptive verb distinction)|0|1|1|0|0.743624842143618|9.85906210535904
+I006|살다|to live|8|저는 기숙사에 사는데 방이 크고 깨끗해요.|I live in the dormitory and my room is large and clean.|사는데|Uses -는데 ending showing continuous action (action verb distinction)|1|0|1|0|0.935342433745973|10.3383560843649
+I007|듣다|to listen|8|제가 좋아하는 가수의 노래를 한번 들어 보세요.|Try listening to a song by a singer that I like.|들어|Uses -어 보다 ending with regular stem 듣- (action verb)|1|0|1|0|0.103146605542861|8.25786651385715
+I008|바쁘다|to be busy|8|흐엉 씨는 아르바이트를 시작해서 좀 바빠졌어요.|Huang has become somewhat busier since she started her part-time job.|바빠졌어요|ㅡ irregular with -어지다: 바쁘- becomes 바빠- (descriptive verb distinction)|0|1|1|0|0.0138500231551006|8.03462505788775
+I009|예쁘다|to be pretty|8|더 예뻐졌어요.|She has become prettier.|예뻐졌어요|ㅡ irregular with -어지다: 예쁘- becomes 예뻐- (descriptive verb)|0|1|0|0|0.322785080526955|8.80696270131739
+I010|모르다|to not know|9|그 사람이 누구인지 몰라요.|I don't know who that person is.|몰라요|Uses present tense with regular stem 모르-|1|0|0|0|0.73900699953083|10.8475174988271
+I011|크다|to be big|8|집이 커져서 좋아요.|It's good that the house has gotten bigger.|커져서|ㅡ irregular with -어지다: 크- becomes 커- (descriptive verb distinction)|0|1|1|0|0.532835647347383|9.33208911836846
+I012|그렇다|to be like that|9|일이 그래서 못 갔어요.|Things were like that so I couldn't go.|그래서|ㅎ irregular: 그렇- becomes 그래- before vowel ending -어 (descriptive verb distinction)|0|1|1|0|0.319058693596162|9.79764673399041
+I013|그렇다|to be like that|9|그런 일은 자주 없어요.|Such things don't happen often.|그런|Uses -ㄴ ending with irregular form: 그렇- becomes 그런- (descriptive verb)|0|1|0|0|0.705169801716693|10.7629245042917
+I014|알다|to know|9|저는 그 사람을 잘 아네요.|I know that person well.|아네요|Uses -네요 ending with regular stem 알-|1|0|0|0|0.0876084772171453|9.21902119304286
+I015|어떻다|how|9|어제 만난 사람은 어땠어요?|How was that person you met yesterday?|어땠어요|ㅎ irregular: 어떻- becomes 어때- before vowel ending -어 (descriptive verb distinction)|0|1|1|0|0.868705002474599|11.1717625061865
+I016|아프다|to be sick/hurt|7|머리가 아파서 약을 먹어야겠어요.|My head hurts so I should take some medicine.|아파서|ㅡ irregular: 아프- becomes 아파- before vowel ending -어 (descriptive verb distinction)|0|1|1|0|0.648107463843189|8.62026865960797
+I017|묻다|to ask|7|길을 묻려고 했어요.|I tried to ask for directions.|묻려고|Uses -으려고 ending with regular stem 묻-|1|0|0|0|0.629349389695562|8.57337347423891
+I018|즐겁다|to be enjoyable|7|파티가 즐겁겠어요.|The party will be enjoyable.|즐겁겠어요|Uses -겠다 ending with regular stem 즐겁- (descriptive verb)|1|0|0|0|0.836498735356145|9.09124683839036
+I019|씻다|to wash|7|손을 씻으려고 화장실에 갔어요.|I went to the bathroom to wash my hands.|씻으려고|Uses -으려고 ending with regular stem 씻-|1|0|0|0|0.414838442928158|8.03709610732039
+I020|길다|to be long|7|이 길이 아주 길네요.|This road is very long.|길네요|Uses -네요 ending with regular stem 길- (descriptive verb)|1|0|0|0|0.492024514940567|8.23006128735142
+I021|닫다|to close|7|문을 닫으려고 해요.|I'm going to close the door.|닫으려고|Uses -으려고 ending with regular stem 닫-|1|0|0|0|0.21319973107893|7.53299932769733
+I022|받다|to receive|8|편지를 받아서 기뻤어요.|I was happy because I received a letter.|받아서|Regular conjugation with -어서 (action verb)|0|0|1|0|0.873492490616627|10.1837312265416
+I023|열다|to open|7|창문을 열었다가 바람이 많이 불어서 닫았다.|I opened the windows but because the wind was blowing too hard I closed them again.|열었다가|Uses -었다가 ending with regular stem 열-|1|0|0|0|0.135496142902412|7.33874035725603
+I024|모르다|to not know|9|답을 몰라서 친구에게 물어봤어요.|I didn't know the answer so I asked my friend.|몰라서|ㅡ pattern: 모르- becomes 몰라- before vowel ending -어|0|1|1|0|0.246311536873691|9.61577884218423
+I025|바쁘다|to be busy|8|저는 오늘 바쁘기 때문에 친구를 만날 수 없습니다.|I cannot meet my friend today because I am busy.|바쁘기|Uses -기 때문에 ending with regular stem 바쁘- (descriptive verb)|1|0|0|0|0.439453704399057|9.09863426099764
+I026|살다|to live|8|리타오 씨, 기숙사에 산 지 얼마나 됐어요?|Letao, how long has it been since you have lived in the dorms?|산|ㄹ irregular: 살- becomes 사- before consonant ending -ㄴ|0|1|0|0|0.8420273802476|10.105068450619
+I027|만들다|to make|8|레오 씨는 불고기를 만들려고 소고기를 샀어요.|Leo bought some beef to make bulgogi.|만들려고|Uses -으려고 ending with regular stem 만들-|1|0|0|0|0.611041799536906|9.52760449884227
+I028|만들다|to make|8|한국 음식을 만든 적이 있어요.|I have tried making Korean food before.|만든|ㄹ irregular: 만들- becomes 만드- before consonant ending -ㄴ|0|1|1|0|0.446699141408317|9.11674785352079
+I029|돕다|to help|7|일을 도와서 빨리 끝났어요.|I helped with the work so it finished quickly.|도와서|ㅂ irregular: 돕- becomes 도와- before vowel ending -어 (action verb distinction)|0|1|1|0|0.859719094238244|9.14929773559561
+I030|멀다|to be far|7|먼 곳에서 온 친구들이 있어요.|There are friends who came from far places.|먼|ㄹ irregular: 멀- becomes 머- before consonant ending -ㄴ (descriptive verb)|0|1|1|0|0.573793714982458|8.43448428745614
+I031|씻다|to wash|7|설거지를 씻어서 깨끗하게 했어요.|I washed the dishes and made them clean.|씻어서|Regular conjugation showing action verb with -어서|0|0|1|0|0.251067128381692|7.62766782095423
+I032|걷다|to walk|7|천천히 걸어서 갔어요.|I walked slowly and went.|걸어서|ㄷ irregular: 걷- becomes 걸- before vowel ending -어|0|1|0|0|0.224532214575447|7.56133053643862
+I033|쓰다|to write/use|8|주앙 씨, 공책에 이름을 크게 쓰십시오.|Juang, please write your name on the notebook in large letters.|쓰십시오|Uses honorific ending with regular stem 쓰-|1|0|0|0|0.652753089903854|9.63188272475964
+I034|돕다|to help|7|친구를 도우려고 해요.|I'm going to help my friend.|도우려고|Uses -으려고 ending with regular stem 돕- but shows irregular ㅂ→우|1|0|0|0|0.228717495570891|7.57179373892723
+I035|듣다|to listen|8|그 이야기를 들은 지 일주일 됐어요.|It has been one week since I heard that story.|들은|ㄷ irregular: 듣- becomes 들- before vowel endings, but 드- before consonant -ㄴ|0|1|0|0|0.335642926045693|8.83910731511423
+I036|아름답다|to be beautiful|7|제주도의 경치가 아름다워요.|The scenery of Jeju Island is beautiful.|아름다워요|Uses basic present ending with regular stem 아름답- (descriptive verb)|1|0|0|0|0.957213166286238|9.39303291571559
+I037|예쁘다|to be pretty|8|윤아 씨, 오늘 입은 옷이 참 예쁘네요.|Yuna, your outfit today is very pretty.|예쁘네요|Uses -네요 ending with regular stem 예쁘- (descriptive verb)|1|0|0|0|0.25534467806574|8.63836169516435
+I038|웃다|to laugh|7|친구들과 웃으려고 모였어요.|We gathered to laugh with friends.|웃으려고|Uses -으려고 ending with regular stem 웃-|1|0|0|0|0.840063847252168|9.10015961813042
+I039|아름답다|to be beautiful|7|더 아름다워졌어요.|It has become more beautiful.|아름다워졌어요|ㅂ irregular + -어지다: 아름답- becomes 아름다워- (descriptive verb distinction)|0|1|1|0|0.748638239572756|8.87159559893189
+I040|열다|to open|7|문을 연 지 얼마나 됐어요?|How long has it been since the door was opened?|연|ㄹ irregular: 열- becomes 여- before consonant ending -ㄴ|0|1|1|0|0.1609707652824|7.402426913206
+I041|부르다|to call|7|친구를 부르려고 했어요.|I tried to call my friend.|부르려고|Uses -으려고 ending with regular stem 부르-|1|0|0|0|0.0324414785718545|7.08110369642964
+I042|닫다|to close|7|창문을 닫아서 추위를 막았어요.|I closed the window and blocked the cold.|닫아서|ㄷ irregular: 닫- becomes 닫아- before vowel ending -어 (actually stays 닫아)|0|1|1|0|0.318252834840678|7.79563208710169
+I043|까맣다|to be black|6|아이의 눈이 까매서 아주 예뻐요.|The child's eyes are so beautiful because they are dark.|까매서|ㅎ irregular: 까맣- becomes 까매- before vowel ending -어 (descriptive verb distinction)|0|1|1|0|0.782405879464932|7.95601469866233
+I044|벗다|to take off|6|코트를 벗어서 걸었어요.|I took off my coat and hung it up.|벗어서|Regular conjugation showing action verb with -어서|0|0|1|0|0.689501362270676|7.72375340567669
+I045|빨갛다|to be red|6|매운 음식을 먹고 에릭 씨 얼굴이 빨개졌어요.|Eric's face reddened after eating spicy food.|빨개졌어요|ㅎ irregular + -어지다: shows second pattern with state change|0|0|0|1|0.990704489522614|8.47676122380653
+I046|이렇다|to be like this|8|이런 곳에는 가지 않는 게 좋아요.|It's a good idea not to go to places like this.|이런|Uses -ㄴ ending with irregular form: 이렇- becomes 이런- (descriptive verb)|0|1|0|0|0.186586778960191|8.46646694740048
+I047|다르다|to be different|7|색깔이 달라서 구별할 수 있어요.|The colors are different so I can distinguish them.|달라서|ㅡ irregular: 다르- becomes 달라- before vowel ending -어 (descriptive verb distinction)|0|1|1|0|0.170691218343563|7.42672804585891
+I048|받다|to receive|8|선물을 받으려고 기다렸어요.|I waited to receive a gift.|받으려고|Uses -으려고 ending with regular stem 받-|1|0|0|0|0.58659755194094|9.46649387985235
+I049|예쁘다|to be pretty|8|친구가 옷을 예쁘게 입었어요.|My friend is dressed nicely.|예쁘게|Uses -게 ending with regular stem, but shows descriptive verb nature|1|0|1|0|0.921115103526972|10.3027877588174
+I050|맵다|to be spicy|6|김치가 조금 매운데 삼계탕은 맵지 않아요.|Kimchi is a bit spicy but samgyetang is not.|매운데|Uses -은데 ending with regular stem 맵- (descriptive verb)|1|0|0|0|0.820080223144032|8.05020055786008
+I051|춥다|to be cold|6|날씨가 추워서 코트를 입었어요.|The weather was cold so I wore a coat.|추워서|ㅂ irregular: 춥- becomes 추워- before vowel ending -어 (descriptive verb distinction)|0|1|1|0|0.148103512241505|6.37025878060376
+I052|아프다|to be sick/hurt|7|배가 아플 때 이 약을 드세요.|Take this medicine when your stomach hurts.|아플|Uses -을 때 ending with regular stem 아프- (descriptive verb)|1|0|0|0|0.0929808908840641|7.23245222721016
+I053|고맙다|to be thankful|6|도와주셔서 고맙습니다.|Thank you for helping.|고맙습니다|Uses formal ending with regular stem 고맙- (descriptive verb)|1|0|0|0|0.567403724999167|7.41850931249792
+I054|멀다|to be far|7|학교가 집에서 멀어서 버스를 타고 가요.|The school is far from home so I take the bus.|멀어서|Uses -어서 ending with regular stem 멀- (descriptive verb)|1|0|0|0|0.971791133168154|9.42947783292038
+I055|하얗다|to be white|6|치아가 하얘서 예뻐요.|The teeth are pretty because they are white.|하얘서|ㅎ irregular: 하얗- becomes 하얘- before vowel ending -어 (descriptive verb distinction)|0|1|1|0|0.00194931321311742|6.00487328303279
+I056|팔다|to sell|6|존 씨가 시장에서 가방을 싸게 팔았어요.|John sold the bag at the market for a good price.|팔았어요|Regular past tense form showing stem unchanged|1|0|1|0|0.0522823609644547|6.13070590241114
+I057|덥다|to be hot|6|날씨가 더워서 에어컨을 켰어요.|The weather was hot so I turned on the air conditioner.|더워서|ㅂ irregular: 덥- becomes 더워- before vowel ending -어 (descriptive verb distinction)|0|1|1|0|0.787583602010272|7.96895900502568
+I058|고르다|to choose|6|예쁜 옷을 고르려고 쇼핑을 했어요.|I went shopping to choose pretty clothes.|고르려고|Uses -으려고 ending with regular stem 고르-|1|0|0|0|0.532193172373809|7.33048293093452
+I059|팔다|to sell|6|시장에서 파는 청바지는 그렇게 비싸지 않을 거예요.|I don't think the jeans sold at the market will be that expensive.|파는|ㄹ irregular: 팔- becomes 파- before consonant ending -ㄴ|0|1|0|0|0.445695086498745|7.11423771624686
+I060|벗다|to take off|6|신발을 벗으려고 해요.|I'm going to take off my shoes.|벗으려고|Uses -으려고 ending with regular stem 벗-|1|0|0|0|0.812403828487732|8.03100957121933
+I061|묻다|to ask|7|친구에게 물어서 알았어요.|I found out by asking my friend.|물어서|ㄷ irregular: 묻- becomes 물- before vowel ending -어|0|1|1|0|0.983002374065109|9.45750593516277
+I062|걷다|to walk|7|공원에서 걷고 있어요.|I'm walking in the park.|걷고|Uses -고 있다 ending with regular stem 걷- (action verb)|1|0|1|0|0.283375496626832|7.70843874156708
+I063|잇다|to connect|5|전선을 잇으려고 해요.|I'm going to connect the wires.|잇으려고|Uses -으려고 ending with regular stem 잇-|1|0|0|0|0.53220926981885|6.33052317454713
+I064|저렇다|to be like that|7|상황이 저래서 힘들어요.|The situation is like that so it's difficult.|저래서|ㅎ irregular: 저렇- becomes 저래- before vowel ending -어 (descriptive verb distinction)|0|1|1|0|0.779920698725618|8.94980174681405
+I065|저렇다|to be like that|7|저런 사람은 만나기 어려워요.|It's hard to meet people like that.|저런|Uses -ㄴ ending with irregular form: 저렇- becomes 저런- (descriptive verb)|0|1|0|0|0.735553519218229|8.83888379804557
+I066|다르다|to be different|7|이것과 저것이 다르네요.|This and that are different.|다르네요|Uses -네요 ending with regular stem 다르- (descriptive verb)|1|0|0|0|0.087188737350516|7.21797184337629
+I067|웃다|to laugh|7|재미있는 이야기를 들어서 웃었어요.|I heard a funny story and laughed.|웃었어요|Regular conjugation showing action verb with past tense|0|0|1|0|0.113992724451236|7.28498181112809
+I068|춥다|to be cold|6|오늘 날씨가 좀 춥네요.|The weather is slightly cold today.|춥네요|Uses -네요 ending with regular stem 춥- (descriptive verb)|1|0|0|0|0.438976709381677|7.09744177345419
+I069|잇다|to connect|5|줄을 이어서 길게 만들었어요.|I connected the rope and made it long.|이어서|ㅅ irregular: 잇- becomes 이- before vowel ending -어|0|1|1|0|0.704242330160923|6.76060582540231
+I070|즐겁다|to be enjoyable|7|시간을 즐거워했어요.|They enjoyed the time.|즐거워했어요|ㅂ irregular + -어하다: 즐겁- becomes 즐거워- (descriptive verb distinction)|0|1|1|0|0.757607690640725|8.89401922660181
+I071|부르다|to call|7|이름을 불러서 확인했어요.|I called the name to confirm.|불러서|ㅡ pattern: 부르- becomes 불러- before vowel ending -어|0|1|1|0|0.0801021178485826|7.20025529462146
+I072|맵다|to be spicy|6|음식이 매워서 물을 많이 마셨어요.|The food was spicy so I drank a lot of water.|매워서|ㅂ irregular: 맵- becomes 매워- before vowel ending -어 (descriptive verb distinction)|0|1|1|0|0.516109448042698|7.29027362010675
+I073|길다|to be long|7|긴 머리가 예뻐 보여요.|Long hair looks pretty.|긴|ㄹ irregular: 길- becomes 기- before consonant ending -ㄴ (descriptive verb)|0|1|1|0|0.508646177244373|8.27161544311093
+I074|싣다|to load|5|짐을 차에 싣으려고 해요.|I'm going to load the luggage in the car.|싣으려고|Uses -으려고 ending with regular stem 싣-|1|0|0|0|0.107481805724092|5.26870451431023
+I075|걸다|to hang|6|그림을 벽에 걸려고 해요.|I'm thinking about hanging the picture on the wall.|걸려고|Uses -으려고 ending with regular stem 걸-|1|0|0|0|0.942969643627293|8.35742410906823
+I076|노랗다|to be yellow|6|꽃이 노란색이에요.|The flower is yellow.|노란|Uses -ㄴ ending with irregular form: 노랗- becomes 노란- (descriptive verb)|0|1|0|0|0.87639550503809|8.19098876259523
+I077|파랗다|to be blue|6|바다가 파래서 참 아름답네요.|The ocean is very beautiful because it is so blue.|파래서|ㅎ irregular: 파랗- becomes 파래- before vowel ending -어 (descriptive verb distinction)|0|1|1|0|0.982405052171089|8.45601263042772
+I078|낫다|to recover|6|감기가 나으려면 약을 먹어야 해요.|To recover from a cold, you need to take medicine.|나으려면|Uses -으려면 ending with regular stem 낫-|1|0|0|0|0.832832303713076|8.08208075928269
+I079|곱다|to be fine/beautiful|5|손이 곱네요.|Your hands are beautiful.|곱네요|Uses -네요 ending with regular stem 곱- (descriptive verb)|1|0|0|0|0.671546676545404|6.67886669136351
+I080|곱다|to be fine/beautiful|5|피부가 고와서 부러워요.|I'm envious because her skin is beautiful.|고와서|ㅂ irregular: 곱- becomes 고와- before vowel ending -어 (descriptive verb distinction)|0|1|1|0|0.246112436638214|5.61528109159553
+I081|노랗다|to be yellow|6|저 노란 원피스 좀 입어 봐도 돼요?|May I try on that yellow one-piece dress?|노란|ㅎ irregular in modifier form: 노랗- becomes 노란- (descriptive verb distinction)|0|1|1|0|0.716388706234284|7.79097176558571
+I082|젓다|to row/stir|5|국을 젓으려고 숟가락을 찾았어요.|I looked for a spoon to stir the soup.|젓으려고|Uses -으려고 ending with regular stem 젓-|1|0|0|0|0.593297224142589|6.48324306035647
+I083|파랗다|to be blue|6|하늘이 파란색이에요.|The sky is blue.|파란|Uses -ㄴ ending with irregular form: 파랗- becomes 파란- (descriptive verb)|0|1|0|0|0.297435972956009|6.74358993239002
+I084|짓다|to build|6|새 건물을 지어서 이사했어요.|I built a new building and moved.|지어서|ㅅ irregular: 짓- becomes 지- before vowel ending -어|0|1|1|0|0.686137166456319|7.7153429161408
+I085|붓다|to pour/swell|6|물을 붓으려고 해요.|I'm going to pour water.|붓으려고|Uses -으려고 ending with regular stem 붓-|1|0|0|0|0.920849838876165|8.30212459719041
+I086|붓다|to pour/swell|6|차를 부어서 마셨어요.|I poured tea and drank it.|부어서|Regular conjugation showing action verb with -어서|0|0|1|0|0.982262861332856|8.45565715333214
+I087|긋다|to draw a line|5|종이에 그어서 나누었어요.|I drew on the paper and divided it.|그어서|ㅅ irregular: 긋- becomes 그- before vowel ending -어|0|1|1|0|0.340022097225301|5.85005524306325
+I088|걸다|to hang|6|벽에 건 그림이 아름다워요.|The picture hung on the wall is beautiful.|건|ㄹ irregular: 걸- becomes 거- before consonant ending -ㄴ|0|1|1|0|0.849356378079392|8.12339094519848
+I089|까맣다|to be black|6|머리카락이 까만색이에요.|The hair is black.|까만|Uses -ㄴ ending with irregular form: 까맣- becomes 까만- (descriptive verb)|0|1|0|0|0.977313788491301|8.44328447122825
+I090|긋다|to draw a line|5|선을 긋으려고 자를 준비했어요.|I prepared a ruler to draw a line.|긋으려고|Uses -으려고 ending with regular stem 긋-|1|0|0|0|0.251672793063335|5.62918198265834
+I091|자르다|to cut|6|머리를 잘라서 짧아졌어요.|I cut my hair so it became short.|잘라서|Regular conjugation showing action verb with -어서|0|0|1|0|0.0802752958843485|6.20068823971087
+I092|빨갛다|to be red|6|얼굴이 빨개서 부끄러워 보여요.|The face is red so it looks embarrassed.|빨개서|ㅎ irregular: 빨갛- becomes 빨개- before vowel ending -어 (descriptive verb distinction)|0|1|1|0|0.601836734567769|7.50459183641942
+I093|덥다|to be hot|6|오늘 날씨가 덥네요.|The weather is hot today.|덥네요|Uses -네요 ending with regular stem 덥- (descriptive verb)|1|0|0|0|0.163941510603763|6.40985377650941
+I094|짓다|to build|6|집을 짓으려고 계획을 세웠어요.|I made a plan to build a house.|짓으려고|Uses -으려고 ending with regular stem 짓-|1|0|0|0|0.362327925511636|6.90581981377909
+I095|하얗다|to be white|6|눈이 하얀색이에요.|The snow is white.|하얀|Uses -ㄴ ending with irregular form: 하얗- becomes 하얀- (descriptive verb)|0|1|0|0|0.584599773981609|7.46149943495402
+I096|낫다|to recover|6|빨리 나아서 다행이에요.|I'm glad I recovered quickly.|나아서|Shows action verb nature with -어서 ending|0|0|1|0|0.214442802942358|6.5361070073559
+I097|고맙다|to be thankful|6|정말 고마워요.|I'm really thankful.|고마워요|ㅂ irregular: 고맙- becomes 고마워- before vowel ending -어 (descriptive verb distinction)|0|1|1|0|0.254967108485289|6.63741777121322
+I098|고르다|to choose|6|좋은 것을 골라서 샀어요.|I chose the good one and bought it.|골라서|ㅡ pattern: 고르- becomes 골라- before vowel ending -어|0|1|1|0|0.0408001221949235|6.10200030548731
+I099|자르다|to cut|6|종이를 자르려고 가위를 찾았어요.|I looked for scissors to cut the paper.|자르려고|Uses -으려고 ending with regular stem 자르-|1|0|0|0|0.257790946518071|6.64447736629518
+I100|빨갛다|to be red|6|사과가 빨간색이에요.|The apple is red.|빨간|Uses -ㄴ ending with irregular form: 빨갛- becomes 빨간- (descriptive verb)|0|1|0|0|0.714323992258869|7.78580998064717
+I101|누르다|to press|5|버튼을 누르려고 해요.|I'm going to press the button.|누르려고|Uses -으려고 ending with regular stem 누르-|1|0|0|0|0.114333513542078|5.2858337838552
+I102|젓다|to row/stir|5|음식을 저어서 섞었어요.|I stirred the food and mixed it.|저어서|ㅅ irregular: 젓- becomes 저- before vowel ending -어|0|1|1|0|0.166935453540646|5.41733863385161
+I103|누르다|to press|5|스위치를 눌러서 켰어요.|I pressed the switch and turned it on.|눌러서|ㅡ pattern: 누르- becomes 눌러- before vowel ending -어|0|1|1|0|0.750302855041809|6.87575713760452
+I104|싣다|to load|5|물건을 실어서 운반했어요.|I loaded the goods and transported them.|실어서|ㄷ irregular: 싣- becomes 실- before vowel ending -어|0|1|1|0|0.245350783807226|5.61337695951806

@@ -1,0 +1,25 @@
+Indirect Long|Indirect Short|Example Sentence|Example Indirect Long|Example Indirect Short|Category
+Avst_는다고/ㄴ다고 해요|Avst_는대요/ㄴ대요|친구를 만나요.|친구를 만난다고 해요.|친구를 만난대요.|Declarative
+Avst_지 않는다고 해요|Avst_지 않는대요|공부를 하지 않아요.|공부를 하지 않는다고 해요.|공부를 하지 않는대요.|Declarative
+Dvst_다고 해요|Dvst_대요|바빠요.|바쁘다고 해요.|바쁘대요.|Declarative
+Dvst_지 않다고 해요|Dvst_지 않대요|힘들지 않아요.|힘들지 않다고 해요.|힘들지 않대요.|Declarative
+N___이라고/라고 해요|N___이래요/래요|생일이에요.|생일이라고 해요.|생일이래요.|Declarative
+N___이/가 아니라고 해요|N___이/가 아니래요|아는 사람이 아니에요.|아는 사람이 아니라고 해요.|아는 사람이 아니래요.|Declarative
+Vst_았다고/했다고/였다고 해요|Vst_았대요/했대요/였대요|숙제를 다 했어요.|숙제를 다 했다고 해요.|숙제를 다 했대요.|Declarative
+Vst_겠다고 해요|Vst_겠대요|일찍 자겠어요.|일찍 자겠다고 해요.|일찍 자겠대요.|Declarative
+Vst_을/ㄹ 거라고 해요|Vst_을/ㄹ 거래요|내일 비가 올 거예요.|내일 비가 올 거라고 해요.|내일 비가 올 거래요.|Declarative
+Vst_냐고 해요|Vst_냬요|지금 뭘 해요?|지금 뭘 하냐고 해요.|지금 뭘 하냬요.|Interrogative
+Vst_지 않냐고 해요|Vst_지 않냬요|공부를 안 해요?|공부를 안 하냐고 해요.|공부를 안 하냬요.|Interrogative
+N___이냐고/냐고 해요|N___이냬요/냬요|친구예요?|친구냐고 해요.|친구냬요.|Interrogative
+N___이/가 아니냐고 해요|N___이/가 아니냬요|어학당이 아니에요?|어학당이 아니냐고 해요.|어학당이 아니냬요.|Interrogative
+Vst_았냐고/했냐고/였냐고 해요|Vst_았냬요/했냬요/였냬요|밥 먹었어요?|밥 먹었냐고 해요.|밥 먹었냬요.|Interrogative
+Vst_겠냐고 해요|Vst_겠냬요|내일 가시겠어요?|내일 가시겠냐고 해요.|내일 가시겠냬요.|Interrogative
+Vst_을/ㄹ 거냐고 해요|Vst_을/ㄹ 거냬요|몇 시에 오실 거예요?|몇 시에 오실 거냐고 해요.|몇 시에 오실 거냬요.|Interrogative
+Avst_으라고/라고 해요|Avst_으래요/래요|빨리 오세요.|빨리 오라고 해요.|빨리 오래요.|Imperative & Propositive
+Avst_지 말라고 해요|Avst_지 말래요|밀지 마세요.|밀지 말라고 해요.|밀지 말래요.|Imperative & Propositive
+Avst_자고 해요|Avst_재요|같이 놀자.|같이 놀자고 해요.|같이 놀재요.|Imperative & Propositive
+Avst_지 말자고 해요|Avst_지 말재요|가지 맙시다.|가지 말자고 해요.|가지 말재요.|Imperative & Propositive
+N___을/를 달라고 해요|N___을/를 달래요|물 좀 주세요.|물 좀 달라고 해요.|물 좀 달래요.|Other
+Avst_어/아/여 달라고 해요|Avst_어/아/여 달래요|도와 주세요.|도와 달라고 해요.|도와 달래요.|Other
+N___을/를 주라고 해요|N___을/를 주래요|과자를 주어라.|과자를 주라고 해요.|과자를 주래요.|Other
+Avst_어/아/여 주라고 해요|Avst_어/아/여 주래요|도와 드리세요.|도와 주라고 해요.|도와 주래요.|Other
