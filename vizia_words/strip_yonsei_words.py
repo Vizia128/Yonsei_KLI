@@ -1,10 +1,14 @@
 import csv
 import re
 import random
+import os
 
-# === File paths ===
-input_file = "vizia_words/yonsei/1-1.csv"
-output_file = "vizia_words/yonsei/1-1_clean.csv"
+# === Folder paths ===
+input_folder = "vizia_words/yonsei/raw/"
+output_folder = "vizia_words/yonsei/clean/"
+
+# Make sure output folder exists
+os.makedirs(output_folder, exist_ok=True)
 
 # === Regex patterns ===
 patterns_to_remove = [
@@ -15,7 +19,7 @@ patterns_to_remove = [
 ]
 
 # Words to remove if they appear anywhere in a line
-words_to_remove = ["확장", "대화", "참고", "색인"]
+words_to_remove = ["색인", "확장", "대화", "참고", "색인"]
 
 # Hangul consonants only (no vowels)
 bare_consonants = {
@@ -57,25 +61,35 @@ def should_remove(line):
     return False
 
 
-# === Read CSV and filter rows ===
-filtered_rows = []
-with open(input_file, newline="", encoding="utf-8") as infile:
-    reader = csv.reader(infile)
-    for row in reader:
-        # Keep row only if at least one cell passes
-        if any(not should_remove(cell) for cell in row):
-            filtered_rows.append(row)
+# === Process all CSV files ===
+for filename in os.listdir(input_folder):
+    if not filename.lower().endswith(".csv"):
+        continue
 
-# === Remove duplicates ===
-# Convert each row to tuple for deduplication
-unique_rows = list({tuple(row) for row in filtered_rows})
+    input_path = os.path.join(input_folder, filename)
+    output_path = os.path.join(output_folder, filename)
 
-# === Randomize order ===
-random.shuffle(unique_rows)
+    filtered_rows = []
 
-# === Write cleaned CSV ===
-with open(output_file, "w", newline="", encoding="utf-8") as outfile:
-    writer = csv.writer(outfile)
-    writer.writerows(unique_rows)
+    # Read and filter CSV
+    with open(input_path, newline="", encoding="utf-8") as infile:
+        reader = csv.reader(infile)
+        for row in reader:
+            # Keep row only if at least one cell passes
+            if any(not should_remove(cell) for cell in row):
+                filtered_rows.append(row)
 
-print(f"✅ Cleaned, deduplicated, and shuffled CSV written to: {output_file}")
+    # Remove duplicates
+    unique_rows = list({tuple(row) for row in filtered_rows})
+
+    # Shuffle
+    random.shuffle(unique_rows)
+
+    # Write cleaned CSV
+    with open(output_path, "w", newline="", encoding="utf-8") as outfile:
+        writer = csv.writer(outfile)
+        writer.writerows(unique_rows)
+
+    print(f"✅ Cleaned, deduplicated, and shuffled: {filename}")
+
+print(f"\n🎉 All files processed! Cleaned CSVs saved in: {output_folder}")
