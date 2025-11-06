@@ -4,73 +4,91 @@ from pathlib import Path
 from collections import deque, defaultdict
 
 
+# =======================
+#  NORMALIZATION HELPERS
+# =======================
+
+
 def parse_word_number(word):
     """
-    Parse word into base and number.
-    Examples:
-    - '하다' -> ('하다', None)
-    - '하다1' -> ('하다', 1)
-    - '하다01' -> ('하다', 1)
-    - '하다02' -> ('하다', 2)
+    Parse a word into (base, num).
+    - '하다'    -> ('하다', None)
+    - '하다1'   -> ('하다', 1)
+    - '하다01'  -> ('하다', 1)
+    - '하다02'  -> ('하다', 2)
     """
-    match = re.match(r"^(.*?)0*(\d+)$", word)
-    if match:
-        base, num = match.groups()
-        if num == "1":
-            return (word, None)  # treat as unnumbered
-        return (base, int(num))
-    return (word, None)
+    m = re.match(r"^(.*?)(\d+)$", word)
+    if not m:
+        return (word, None)
+    base, num_str = m.groups()
+    num = int(num_str.lstrip("0") or "0")
+    if num == 0:
+        return (word, None)
+    return (base, num)
 
 
-def normalize_word(word):
+def build_topik_based_normalization_map(topik_list):
     """
-    Normalize word to standard form.
-    - '하다', '하다1', '하다01' all become '하다1'
-    - '하다2', '하다02' both become '하다2'
-    - '스케이트' stays '스케이트'
+    Build normalization map based *only* on the TOPIK list.
+    If TOPIK starts numbering at 02 or 03, that numbering is preserved.
     """
-    base, num = parse_word_number(word)
-    if num is None:
-        # Check if this is truly standalone or should be treated as #1
-        # We'll handle this in the grouping phase
-        return word
-    return f"{base}{num}"
-
-
-def group_words_by_base(word_list):
-    """
-    Group words by their base form to determine which should be numbered.
-    Returns a mapping from original word to normalized form.
-    """
-    # First pass: collect all words by base
-    base_groups = defaultdict(list)
-    for item in word_list:
+    base_to_nums = defaultdict(set)
+    for item in topik_list:
         word = item["word"]
         base, num = parse_word_number(word)
-        base_groups[base].append((word, num))
+        if num is not None:
+            base_to_nums[base].add(num)
 
-    # Second pass: determine normalization
     normalization_map = {}
-    for base, words in base_groups.items():
-        nums = [num for _, num in words if num is not None]
 
-        if nums:  # If any numbered version exists
-            # All versions of this base should be numbered
-            for word, num in words:
-                if num is None:
-                    normalization_map[word] = f"{base}1"
-                else:
-                    normalization_map[word] = f"{base}{num}"
+    # Build normalization for TOPIK itself
+    for item in topik_list:
+        w = item["word"]
+        base, num = parse_word_number(w)
+        if base in base_to_nums:
+            if num is not None:
+                normalization_map[w] = f"{base}{num}"
+            else:
+                # TOPIK has numbered versions but this one is unnumbered
+                # If the lowest existing number > 1 (e.g. only 수2), match the lowest
+                lowest = min(base_to_nums[base])
+                normalization_map[w] = f"{base}{lowest}"
         else:
-            # No numbered versions, keep as-is
-            for word, _ in words:
-                normalization_map[word] = word
+            normalization_map[w] = w
 
+    return base_to_nums, normalization_map
+
+
+def normalize_other_lists(other_lists, base_to_nums):
+    """
+    Normalize Kimchi/Yonsei words based on the numbering discovered in TOPIK.
+    """
+    normalization_map = {}
+    for word_list in other_lists:
+        for item in word_list:
+            w = item["word"]
+            base, num = parse_word_number(w)
+            if base in base_to_nums:
+                # Use the lowest number from TOPIK for unnumbered words
+                lowest = min(base_to_nums[base])
+                normalization_map[w] = f"{base}{num or lowest}"
+            else:
+                normalization_map[w] = w
     return normalization_map
 
 
+def build_normalization_maps(kimchi_list, topik_list, yonsei_list):
+    base_to_nums, topik_norm = build_topik_based_normalization_map(topik_list)
+    other_norm = normalize_other_lists([kimchi_list, yonsei_list], base_to_nums)
+    return {**topik_norm, **other_norm}
+
+
+# =======================
+#  CSV LOADERS
+# =======================
+
+
 def load_kimchi_words(filepath):
-    """Load kimchi_words.csv and return list of dicts."""
     words = []
     with open(filepath, "r", encoding="utf-8") as f:
         reader = csv.DictReader(f, delimiter="|")
@@ -80,7 +98,6 @@ def load_kimchi_words(filepath):
 
 
 def load_topik_words(filepath):
-    """Load topik_words.csv and return list of dicts."""
     words = []
     with open(filepath, "r", encoding="utf-8") as f:
         reader = csv.DictReader(f, delimiter="|")
@@ -97,7 +114,6 @@ def load_topik_words(filepath):
 
 
 def load_yonsei_words(filepath):
-    """Load yonsei_words.csv and return list of dicts."""
     words = []
     with open(filepath, "r", encoding="utf-8") as f:
         reader = csv.DictReader(f, delimiter="|")
@@ -108,148 +124,131 @@ def load_yonsei_words(filepath):
     return words
 
 
-def build_normalization_maps(kimchi_list, topik_list, yonsei_list):
-    """Build normalization maps for each list."""
-    all_words = kimchi_list + topik_list + yonsei_list
-    return group_words_by_base(all_words)
+# =======================
+#  LOOKUP + MERGE LOGIC
+# =======================
 
 
 def build_lookup_maps(kimchi_list, topik_list, yonsei_list, norm_map):
-    """Build hash maps for O(1) lookups by normalized word."""
-    kimchi_map = {}
-    topik_map = {}
-    yonsei_map = {}
+    kimchi_map, topik_map, yonsei_map = {}, {}, {}
 
     for item in kimchi_list:
         normalized = norm_map[item["word"]]
-        if normalized not in kimchi_map:
-            kimchi_map[normalized] = item
+        kimchi_map.setdefault(normalized, item)
 
     for item in topik_list:
         normalized = norm_map[item["word"]]
-        if normalized not in topik_map:
-            topik_map[normalized] = item
+        topik_map.setdefault(normalized, item)
 
     for item in yonsei_list:
         normalized = norm_map[item["word"]]
-        if normalized not in yonsei_map:
-            yonsei_map[normalized] = item
+        yonsei_map.setdefault(normalized, item)
 
     return kimchi_map, topik_map, yonsei_map
 
 
 def merge_vocabularies(kimchi_list, topik_list, yonsei_list, norm_map):
-    """
-    Merge three vocabulary lists using round-robin selection.
-    Stop when Yonsei list is exhausted.
-    """
     master_list = []
     seen_normalized = set()
 
-    # Use deques for O(1) pop from front
     kimchi = deque(kimchi_list)
     topik = deque(topik_list)
     yonsei = deque(yonsei_list)
 
-    # Build lookup maps for O(1) access
     kimchi_map, topik_map, yonsei_map = build_lookup_maps(
         kimchi_list, topik_list, yonsei_list, norm_map
     )
 
-    # Round-robin: Kimchi -> TOPIK -> Yonsei
     while yonsei:
-        # 1. Try Kimchi
+        # Kimchi
         while kimchi:
             word_data = kimchi.popleft()
             normalized = norm_map[word_data["word"]]
+            if normalized in seen_normalized:
+                continue
+            seen_normalized.add(normalized)
 
-            if normalized not in seen_normalized:
-                seen_normalized.add(normalized)
+            topik_match = topik_map.get(normalized)
+            yonsei_match = yonsei_map.get(normalized)
 
-                # O(1) lookups in maps
-                topik_match = topik_map.get(normalized)
-                yonsei_match = yonsei_map.get(normalized)
-
-                # Add to master list using the first-seen form
-                master_list.append(
-                    {
-                        "word": word_data["word"],
-                        "kimchi_rank": word_data["rank"],
-                        "topik_pos": topik_match["pos"] if topik_match else "",
-                        "topik_definition": (
-                            topik_match["definition"] if topik_match else ""
-                        ),
-                        "topik_level": topik_match["level"] if topik_match else "",
-                        "yonsei_book": yonsei_match["book"] if yonsei_match else "",
-                    }
-                )
-                break
+            master_list.append(
+                {
+                    "word": normalized,
+                    "kimchi_rank": word_data["rank"],
+                    "topik_pos": topik_match["pos"] if topik_match else "",
+                    "topik_definition": (
+                        topik_match["definition"] if topik_match else ""
+                    ),
+                    "topik_level": topik_match["level"] if topik_match else "",
+                    "yonsei_book": yonsei_match["book"] if yonsei_match else "",
+                }
+            )
+            break
 
         if not yonsei:
             break
 
-        # 2. Try TOPIK
+        # TOPIK
         while topik:
             word_data = topik.popleft()
             normalized = norm_map[word_data["word"]]
+            if normalized in seen_normalized:
+                continue
+            seen_normalized.add(normalized)
 
-            if normalized not in seen_normalized:
-                seen_normalized.add(normalized)
+            kimchi_match = kimchi_map.get(normalized)
+            yonsei_match = yonsei_map.get(normalized)
 
-                # O(1) lookups
-                kimchi_match = kimchi_map.get(normalized)
-                yonsei_match = yonsei_map.get(normalized)
-
-                # Add to master list
-                master_list.append(
-                    {
-                        "word": word_data["word"],
-                        "kimchi_rank": kimchi_match["rank"] if kimchi_match else "",
-                        "topik_pos": word_data["pos"],
-                        "topik_definition": word_data["definition"],
-                        "topik_level": word_data["level"],
-                        "yonsei_book": yonsei_match["book"] if yonsei_match else "",
-                    }
-                )
-                break
+            master_list.append(
+                {
+                    "word": normalized,
+                    "kimchi_rank": kimchi_match["rank"] if kimchi_match else "",
+                    "topik_pos": word_data["pos"],
+                    "topik_definition": word_data["definition"],
+                    "topik_level": word_data["level"],
+                    "yonsei_book": yonsei_match["book"] if yonsei_match else "",
+                }
+            )
+            break
 
         if not yonsei:
             break
 
-        # 3. Try Yonsei (this determines when to stop)
+        # Yonsei
         while yonsei:
             word_data = yonsei.popleft()
             normalized = norm_map[word_data["word"]]
+            if normalized in seen_normalized:
+                continue
+            seen_normalized.add(normalized)
 
-            if normalized not in seen_normalized:
-                seen_normalized.add(normalized)
+            kimchi_match = kimchi_map.get(normalized)
+            topik_match = topik_map.get(normalized)
 
-                # O(1) lookups
-                kimchi_match = kimchi_map.get(normalized)
-                topik_match = topik_map.get(normalized)
-
-                # Add to master list
-                master_list.append(
-                    {
-                        "word": word_data["word"],
-                        "kimchi_rank": kimchi_match["rank"] if kimchi_match else "",
-                        "topik_pos": topik_match["pos"] if topik_match else "",
-                        "topik_definition": (
-                            topik_match["definition"] if topik_match else ""
-                        ),
-                        "topik_level": topik_match["level"] if topik_match else "",
-                        "yonsei_book": word_data["book"],
-                    }
-                )
-                break
+            master_list.append(
+                {
+                    "word": normalized,
+                    "kimchi_rank": kimchi_match["rank"] if kimchi_match else "",
+                    "topik_pos": topik_match["pos"] if topik_match else "",
+                    "topik_definition": (
+                        topik_match["definition"] if topik_match else ""
+                    ),
+                    "topik_level": topik_match["level"] if topik_match else "",
+                    "yonsei_book": word_data["book"],
+                }
+            )
+            break
 
     return master_list
 
 
-def write_master_vocabulary(master_list, output_path):
-    """Write the master vocabulary list to CSV with pipe delimiter."""
-    output_path.parent.mkdir(parents=True, exist_ok=True)
+# =======================
+#  OUTPUT
+# =======================
 
+
+def write_master_vocabulary(master_list, output_path):
+    output_path.parent.mkdir(parents=True, exist_ok=True)
     with open(output_path, "w", encoding="utf-8", newline="") as f:
         fieldnames = [
             "Word",
@@ -260,8 +259,8 @@ def write_master_vocabulary(master_list, output_path):
             "Yonsei Book",
         ]
         writer = csv.DictWriter(f, fieldnames=fieldnames, delimiter="|")
-
         writer.writeheader()
+
         for entry in master_list:
             writer.writerow(
                 {
@@ -275,15 +274,18 @@ def write_master_vocabulary(master_list, output_path):
             )
 
 
+# =======================
+#  MAIN
+# =======================
+
+
 def main():
-    # Define input file paths
     base_path = Path("vizia_words")
     kimchi_path = base_path / "kimchi_words.csv"
     topik_path = base_path / "topik_words.csv"
     yonsei_path = base_path / "yonsei_words.csv"
     output_path = base_path / "vizia_words.csv"
 
-    # Load all vocabulary lists
     print("Loading vocabulary lists...")
     kimchi_words = load_kimchi_words(kimchi_path)
     topik_words = load_topik_words(topik_path)
@@ -293,18 +295,14 @@ def main():
     print(f"Loaded {len(topik_words)} TOPIK words")
     print(f"Loaded {len(yonsei_words)} Yonsei words")
 
-    # Build normalization map
-    print("\nBuilding normalization map...")
+    print("\nBuilding TOPIK-based normalization map...")
     norm_map = build_normalization_maps(kimchi_words, topik_words, yonsei_words)
 
-    # Merge vocabularies
     print("Merging vocabularies using round-robin method...")
     master_list = merge_vocabularies(kimchi_words, topik_words, yonsei_words, norm_map)
 
-    # Write output
     print(f"\nWriting {len(master_list)} unique words to {output_path}")
     write_master_vocabulary(master_list, output_path)
-
     print("Done!")
 
 
