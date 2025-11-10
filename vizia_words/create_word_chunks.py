@@ -50,9 +50,6 @@ Create TWO practical example phrases that:
 
 # Examples
 
-Input: 차다|동||
-Output: 차다|to kick|공을 차다|to kick a ball|제기를 차다|to kick the shuttlecock
-
 Input: 평화롭다|형||
 Output: 평화롭다|to be peaceful|평화로운 마을|peaceful village|평화롭게 지내다|to live peacefully
 
@@ -130,7 +127,7 @@ class VocabularyProcessor:
                 continue
 
             word = parts[0]
-            # Check for “empty between pipes” case like 아침을|||||
+            # Check for "empty between pipes" case like 아침을|||||
             if all(not p for p in parts[1:]):
                 print(f"⚠️ Empty output for word: {word}")
                 continue
@@ -201,6 +198,40 @@ class VocabularyProcessor:
                     print(f"  Failed after {retry_count} attempts")
                     return [None] * len(words_batch)
 
+    def append_results_to_csv(self, output_file: str, results: List[Dict]):
+        """Append results to CSV file (creates file with header if it doesn't exist)."""
+        output_path = Path(output_file)
+        file_exists = output_path.exists()
+
+        fieldnames = [
+            "Korean",
+            "English",
+            "Korean Chunk 1",
+            "English Chunk 1",
+            "Korean Chunk 2",
+            "English Chunk 2",
+        ]
+
+        with open(output_path, "a", encoding="utf-8", newline="") as f:
+            writer = csv.DictWriter(f, fieldnames=fieldnames, delimiter="|")
+
+            # Write header if file is new
+            if not file_exists:
+                writer.writeheader()
+
+            # Write all results
+            for result in results:
+                writer.writerow(
+                    {
+                        "Korean": result["korean"],
+                        "English": result["english"],
+                        "Korean Chunk 1": result["korean_chunk_1"],
+                        "English Chunk 1": result["english_chunk_1"],
+                        "Korean Chunk 2": result["korean_chunk_2"],
+                        "English Chunk 2": result["english_chunk_2"],
+                    }
+                )
+
     def process_file(
         self,
         input_file: str,
@@ -228,7 +259,8 @@ class VocabularyProcessor:
 
         print(f"Processing in batches of {batch_size}...\n")
 
-        all_results = []
+        total_processed = 0
+        total_failed = 0
         failed_words = []
         malformed_batch = []
 
@@ -249,12 +281,23 @@ class VocabularyProcessor:
 
             results = self.process_batch(batch)
 
+            # Separate successful and failed results
+            successful_results = []
             for j, result in enumerate(results):
                 if result and all(result.values()):
-                    all_results.append(result)
+                    successful_results.append(result)
                 else:
                     malformed_batch.append(batch[j])
                     failed_words.append(batch[j]["Word"])
+
+            # Write successful results immediately
+            if successful_results:
+                self.append_results_to_csv(output_file, successful_results)
+                total_processed += len(successful_results)
+                print(f"  ✓ Written {len(successful_results)} entries to {output_file}")
+
+            total_failed = len(failed_words)
+            print(f"  Progress: {total_processed} processed, {total_failed} failed")
 
             if i + batch_size < len(rows):
                 time.sleep(1)
@@ -263,38 +306,20 @@ class VocabularyProcessor:
         if malformed_batch:
             print(f"\nFinal retry for {len(malformed_batch)} malformed lines...")
             results = self.process_batch(malformed_batch)
+            successful_results = []
             for r in results:
                 if r and all(r.values()):
-                    all_results.append(r)
+                    successful_results.append(r)
 
-        print(f"\nWriting results to: {output_file}")
-        with open(output_path, "w", encoding="utf-8", newline="") as f:
-            fieldnames = [
-                "Korean",
-                "English",
-                "Korean Chunk 1",
-                "English Chunk 1",
-                "Korean Chunk 2",
-                "English Chunk 2",
-            ]
-            writer = csv.DictWriter(f, fieldnames=fieldnames, delimiter="|")
-            writer.writeheader()
-            for result in all_results:
-                writer.writerow(
-                    {
-                        "Korean": result["korean"],
-                        "English": result["english"],
-                        "Korean Chunk 1": result["korean_chunk_1"],
-                        "English Chunk 1": result["english_chunk_1"],
-                        "Korean Chunk 2": result["korean_chunk_2"],
-                        "English Chunk 2": result["english_chunk_2"],
-                    }
-                )
+            if successful_results:
+                self.append_results_to_csv(output_file, successful_results)
+                total_processed += len(successful_results)
+                print(f"  ✓ Written {len(successful_results)} entries from final retry")
 
         print(f"\n{'='*60}")
         print("Processing Complete!")
         print(f"{'='*60}")
-        print(f"Successfully processed: {len(all_results)}/{len(rows)} entries")
+        print(f"Successfully processed: {total_processed}/{len(rows)} entries")
         print(f"Failed: {len(failed_words)} entries")
 
         if failed_words:
@@ -314,8 +339,8 @@ def main():
     INPUT_FILE = "vizia_words/vizia_words.csv"
     OUTPUT_FILE = "vizia_words/vizia_words_enhanced.csv"
     BATCH_SIZE = 25
-    TEST_RANGE = (0, 1000)  # set to None for full run
-    # TEST_RANGE = None
+    # TEST_RANGE = (0, 1000)  # set to None for full run
+    TEST_RANGE = None
 
     api_key = os.environ.get("ANTHROPIC_API_KEY")
     if not api_key:
