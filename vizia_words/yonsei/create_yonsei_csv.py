@@ -4,7 +4,7 @@ import re
 
 # === Folder and output paths ===
 input_folder = "vizia_words/yonsei/clean/"
-output_file = "vizia_words/yonsei_words.csv"
+output_file = "vizia_words/yonsei/yonsei_words_nonlemma.csv"
 
 
 # === Helper: extract numeric order from filenames like 1-1.csv ===
