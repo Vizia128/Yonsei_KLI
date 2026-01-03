@@ -24,9 +24,6 @@ Where:
 Return EXACTLY ONE LINE per input entry, formatted as:
 Word|English|Korean Chunk 1|English Chunk 1|Korean Chunk 2|English Chunk 2
 
-If you cannot find a good answer, still return the Word followed by five empty fields, like:
-있다1|||||
-
 # Guidelines
 
 ## English Translation
