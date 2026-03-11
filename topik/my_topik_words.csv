@@ -141,3 +141,364 @@
 141|73|문화01|명|文化|B|culture|전통 *문화*|traditional culture|*문화* 차이|cultural difference|*문화* 생활|cultural life
 142|78|통하다|동|通-|B|to communicate / to pass|말이 *통하다*|to understand each other|공기가 *통하다*|to be well-ventilated|영어로 *통했다*|communicated in English
 143|86|정도11|명|程度|B|degree / about|어느 *정도*|to some degree|한 달 *정도*|about a month|심할 *정도*로|to an extreme degree
+144|110|의하다01|동|依-|B|to be due to / based on|법에 *의하다*|to be according to the law|소문에 *의하면*|according to rumors|조사에 *의한* 결과|results based on the survey
+145|111|시대02|명|時代|B|era / age|조선 *시대*|Joseon dynasty era|평화로운 *시대*|a peaceful era|*시대*가 변하다|the times are changing
+146|113|이러하다|형||B|to be like this|사정이 *이러하다*|the situation is like this|*이러한* 이유로|for this reason|세상은 *이러해요*|the world is like this
+147|126|자기04|대|自己|B|oneself|*자기* 소개|self-introduction|*자기* 주도|self-directed|*자기*밖에 모르다|to care only for oneself
+148|128|대통령|명|大統領|B|president|*대통령* 선거|presidential election|한국 *대통령*|South Korean president|*대통령*이 되다|to become president
+149|129|가지04|의|한 ~|B|kind / sort / type|여러 *가지*|various kinds|한 *가지* 일|one type of work|세 *가지* 색|three kinds of colors
+150|141|국가01|명|國家|B|nation / state|*국가* 안보|national security|선진 *국가*|developed nation|*국가* 대표|national representative
+151|146|여성01|명|女性|B|woman / female|*여성*복 매장|women's clothing store|현대 *여성*|modern woman|*여성*의 권리|women's rights
+152|152|관계05|명|關係|B|relationship / connection|인간 *관계*|human relations|상관 *관계*|correlation|*관계*가 깊다|to be deeply related
+153|160|나타나다|동||B|to appear / to emerge|효과가 *나타나다*|for effects to show|앞에 *나타나다*|to appear in front|증상이 *나타났다*|symptoms appeared
+154|162|지역03|명|地域|B|region / area|서울 *지역*|Seoul area|낙후된 *지역*|underdeveloped region|특수 *지역*|special area
+155|164|모습01|명||B|appearance / figure|옛 *모습*|old appearance|웃는 *모습*|the way (one) looks when laughing|*모습*을 드러내다|to reveal oneself
+156|177|뿐01|의||B|only / just|너*뿐*이야|it's only you|그*뿐*만 아니라|not only that|소문일 *뿐*이다|it's just a rumor
+157|198|교육|명|敎育|B|education|의무 *교육*|compulsory education|*교육* 제도|education system|아이를 *교육하다*|to educate a child
+158|200|경제04|명|經濟|B|economy|*경제* 성장|economic growth|가정 *경제*|household economy|*경제*가 어렵다|the economy is struggling
+159|211|결과02|명|結果|B|result / outcome|시험 *결과*|exam results|노력의 *결과*|result of effort|*결과*를 기다리다|to wait for the result
+160|230|밝히다|동||B|to reveal / to light up|사실을 *밝히다*|to reveal the truth|방을 환하게 *밝히다*|to light up a room|입장을 *밝혔다*|revealed one's position
+161|234|정치03|명|政治|B|politics|*정치* 경제|politics and economy|*정치*에 참여하다|to participate in politics|*정치*가 혼란스럽다|politics are chaotic
+162|235|국민|명|國民|B|citizen / the people|대한민국 *국민*|Korean citizen|*국민*의 의무|duty of the citizens|전 *국민*의 관심|interest of the whole nation
+163|239|연구03|명|硏究|B|research / study|학술 *연구*|academic research|*연구*를 진행하다|to conduct research|*연구* 결과|research results
+164|247|짓다01|동||B|to build / to make|집을 *짓다*|to build a house|미소를 *짓다*|to make a smile|밥을 *지었다*|made rice
+165|248|또한|부||B|also / furthermore|*또한* 기쁜 소식|also good news|가난하고 *또한* 아프다|to be poor and also sick|편리하며 *또한* 빠르다|convenient and also fast
+166|250|또는|부||B|or|연필 *또는* 볼펜|pencil or ballpoint pen|월요일 *또는* 화요일|Monday or Tuesday|사랑 *또는* 우정|love or friendship
+167|258|세상01|명|世上|B|world / society|*세상* 밖으로|out into the world|*세상*에 이런 일이|how can this happen in the world|힘든 *세상*|a difficult world
+168|267|즉01|부|卽|B|in other words / namely|일주일, *즉* 칠일|one week, namely seven days|*즉* 말하자면|in other words|*즉* 다시 말해|that is to say
+169|272|문학01|명|文學|B|literature|한국 *문학*|Korean literature|*문학* 소녀|literary girl|현대 *문학*|modern literature
+170|275|지방05|명|地方|B|region / countryside|*지방* 자치|local autonomy|*지방*으로 내려가다|to go down to the provinces|강원도 *지방*|Gangwon-do region
+171|281|환경02|명|環境|B|environment|자연 *환경*|natural environment|*환경* 보호|environmental protection|주거 *환경*|living environment
+172|286|자체02|명|自體|B|itself|문제 *자체*|the problem itself|*자체* 제작|produced in-house|그 *자체*로 아름답다|beautiful in itself
+173|294|변화|명|變化|B|change|심경의 *변화*|change of heart|*변화*를 시도하다|to try a change|날씨의 *변화*|change in weather
+174|301|관하다02|동|關-|B|to concern / related to|정치에 *관한* 책|book about politics|사건에 *관하여*|regarding the case|이에 *관해* 말하다|to speak about this
+175|304|나누다|동||B|to divide / to share|음식을 *나누다*|to share food|대화를 *나누었다*|exchanged conversation|반으로 *나누다*|to divide in half
+176|308|중심01|명|中心|B|center / core|마을 *중심*|village center|*중심* 인물|central figure|*중심*을 잡다|to find one's balance
+177|309|활동02|명|活動|B|activity|봉사 *활동*|volunteer activity|*활동*이 왕성하다|to be very active|경제 *활동*|economic activity
+178|312|관심01|명|關心|B|interest|*관심*을 끌다|to attract interest|*관심*이 없다|to have no interest|많은 *관심* 부탁드려요|please give us much interest
+179|313|역시01|부|亦是|B|as expected / also|*역시* 최고다|as expected, (it's) the best|너 *역시* 마찬가지야|you too are the same|*역시* 어렵네|it's difficult as expected
+180|315|애02|명|아이|B|kid / child|*애*가 울다|a kid is crying|우리 *애*|my kid|*애*를 키우다|to raise a child
+181|316|광고02|명|廣告|B|advertisement|TV *광고*|TV commercial|*광고*를 내다|to place an ad|과장 *광고*|exaggerated advertising
+182|317|나다01|보||B|to end up (aux)|죽고 *나다*|to have died|끝나고 *나서*|after it's over|다 먹고 *나면*|once I finish eating
+183|319|정신12|명|精神|B|spirit / mind|*정신* 건강|mental health|*정신*을 차리다|to collect one's senses|시대 *정신*|spirit of the times
+184|320|이르다01|동|도착하다|B|to reach / to arrive|정상에 *이르다*|to reach the summit|결론에 *이르렀다*|reached a conclusion|목적지에 *이르다*|to arrive at a destination
+185|322|이루다01|동||B|to achieve / to form|꿈을 *이루다*|to achieve a dream|가족을 *이루다*|to start a family|성공을 *이루었다*|achieved success
+186|326|두다01|보||B|to do (aux)|먹어 *두다*|to eat beforehand|알아 *두세요*|please keep in mind|적어 *두다*|to write down for later
+187|328|기술01|명|技術|B|technology / skill|과학 *기술*|science and technology|운전 *기술*|driving skill|*기술*을 배우다|to learn a technique
+188|329|전체01|명|全體|B|whole / entire|학급 *전체*|the whole class|*전체* 회의|full meeting|*전체*적인 분위기|overall atmosphere
+189|331|얻다01|동||B|to get / to gain|정보를 *얻다*|to get information|용기를 *얻었다*|gained courage|허락을 *얻다*|to get permission
+190|334|민족|명|民族|B|ethnic group / nation|한*민족*|the Korean people|*민족* 예술|folk art|*민족* 대이동|mass migration of the nation
+191|335|간10|의|間. 서울과 부산 ~|B|between / during|부부 *간*|between husband and wife|장기간 *간*|for a long period|서울과 부산 *간*|between Seoul and Busan
+192|336|조사30|명|調査|B|investigation / survey|실태 *조사*|investigation of the actual state|*조사*를 받다|to be under investigation|만족도 *조사*|satisfaction survey
+193|340|그대로|부||B|as it is|있는 *그대로*|just as it is|말한 *그대로*|exactly as said|*그대로* 멈춰라|stop right there
+194|343|줄04|의|방법|B|how to / way|할 *줄* 알다|to know how to do|갈 *줄* 몰랐어|didn't know (I) would go|수영할 *줄* 안다|knows how to swim
+195|345|년대|의|年代|B|era / the 's (years)|1990*년대*|the 1990s|80*년대* 패션|80s fashion|각 *년대*별|by each decade
+196|346|과학|명|과학|B|science|*과학* 기술|science and technology|*과학*적인 방법|scientific method|*과학* 잡지|science magazine
+197|359|이루어지다|동||B|to consist of / to be achieved|꿈이 *이루어지다*|dreams come true|삼위로 *이루어지다*|to consist of three parts|합의가 *이루어졌다*|an agreement was reached
+198|363|적03|의||B|time / occasion|어릴 *적*|when (I) was young|그럴 *적*마다|every time that happens|갈 *적*에|when going
+199|364|터02|의||B|plan / expectation|가려던 *터*에|was just about to go|먹을 *터*이지|must be going to eat|그럴 *터*이다|it is expected to be so
+200|387|바라보다|동||B|to look at / to watch|바다를 *바라보다*|to look out at the sea|물끄러미 *바라봤다*|stared blankly|희망을 *바라보다*|to look toward hope
+201|391|대부분|명|大部分|B|most / majority|학생 *대부분*|most of the students|*대부분*의 사람|most people|*대부분*이 찬성하다|the majority agrees
+202|396|표정03|명|表情|B|expression / look|밝은 *표정*|bright expression|*표정*이 어둡다|to have a dark look|무표정한 *표정*|blank expression
+203|398|일부02|명|一部|B|part / portion|주민의 *일부*|some of the residents|*일부* 지역|certain areas|금액의 *일부*|part of the amount
+204|403|고개01|명|~를 돌리다|B|head / neck|*고개*를 숙이다|to bow one's head|*고개*를 끄덕이다|to nod|*고개*를 돌리다|to turn one's head
+205|404|성격02|명|性格|B|personality / character|*성격*이 급하다|to be short-tempered|밝은 *성격*|bright personality|*성격* 차이|personality difference
+206|406|세기03|명|世紀|B|century|21*세기*|21st century|수*세기* 동안|for several centuries|*세기*의 대결|match of the century
+207|407|세우다01|동||B|to set up / to stop|계획을 *세우다*|to make a plan|차를 *세우다*|to stop the car|기록을 *세웠다*|set a record
+208|411|현재02|부|現在|B|currently|*현재* 진행 중|currently in progress|*현재*까지의 상황|situation until now|*현재* 살고 있는|currently living
+209|416|발전01|명|發展|B|development|경제 *발전*|economic development|기술의 *발전*|development of technology|*발전*을 거듭하다|to keep developing
+210|419|향하다|동|向-|B|to head toward|서울로 *향하다*|to head toward Seoul|남쪽을 *향해*|toward the south|성공을 *향한* 길|the road toward success
+211|420|관련|명|關聯|B|relation / connection|업무 *관련*|work-related|*관련*이 있다|to have a connection|*관련* 내용을 확인하다|to check related details
+212|422|각01|관|各|B|each / every|*각* 부서|each department|*각* 나라의 문화|culture of each country|*각* 가정에|to every household
+213|425|분위기|명|雰圍氣|B|atmosphere / mood|좋은 *분위기*|good atmosphere|*분위기*가 밝다|the mood is bright|카페 *분위기*|cafe atmosphere
+214|426|그러하다|형||B|to be so|사정이 *그러하다*|the situation is so|*그러한* 사실|such a fact|항상 *그러하지* 않다|it is not always so
+215|427|자기04|명|自己|B|oneself|*자기* 주관|one's own opinion|*자기* 발전을 위해|for self-development|*자기* 일을 하다|to do one's own work
+216|430|우선02|부|于先|B|first of all|*우선* 먹자|let's eat first|*우선* 급한 불|first, the urgent matter|무엇보다 *우선*|first of all
+217|433|낳다01|동||B|to give birth|아기를 *낳다*|to give birth to a baby|알을 *낳다*|to lay an egg|결과를 *낳다*|to produce a result
+218|435|정보06|명|情報|B|information|유익한 *정보*|useful information|*정보*를 얻다|to get information|개인 *정보*|personal information
+219|436|열리다02|동|문이 ~|B|to be opened|문이 *열리다*|the door opens|창문이 *열려* 있다|the window is open|행사가 *열리다*|the event is held
+220|443|역할|명|役割|B|role|중요한 *역할*|important role|*역할*을 맡다|to take on a role|주인공 *역할*|role of the protagonist
+221|447|국내02|명|國內|B|domestic / within the country|*국내* 시장|domestic market|*국내* 여행|domestic travel|*국내*외 정세|domestic and international situation
+222|452|예08|명|例|B|example|*예*를 들다|to give an example|*예*외적인 경우|exceptional case|좋은 *예*|a good example
+223|458|나서다|동||B|to step forward / to set out|앞에 *나서다*|to step forward|길을 *나서다*|to set out on a journey|문제를 해결하러 *나섰다*|stepped forward to solve the problem
+224|459|흐르다01|동||B|to flow / to pass|강물이 *흐르다*|river water flows|시간이 *흐르다*|time passes|눈물이 *흐르다*|tears flow
+225|468|조건02|명|條件|B|condition|계약 *조건*|contract conditions|필수 *조건*|essential condition|*조건*을 제시하다|to propose conditions
+226|476|넘다01|동||B|to cross over / to exceed|산을 *넘다*|to cross a mountain|백 명을 *넘다*|to exceed a hundred people|담을 *넘다*|to climb over a wall
+227|483|가능성|명|可能性|B|possibility|*가능성*이 있다|there is a possibility|희박한 *가능성*|slim possibility|성공 *가능성*|possibility of success
+228|484|방향01|명|方向|B|direction|*방향*을 돌리다|to turn direction|반대 *방향*|opposite direction|진행 *방향*|direction of progress
+229|485|대회02|명|大會|B|competition / meeting|운동 *대회*|sports competition|*대회*에 참가하다|to participate in a competition|전국 *대회*|national competition
+230|491|움직이다|동||B|to move|몸을 *움직이다*|to move one's body|천천히 *움직여요*|moving slowly|마음을 *움직이다*|to touch one's heart
+231|494|노력01|명|努力|B|effort|*노력*을 하다|to make an effort|끊임없는 *노력*|ceaseless effort|*노력*이 결실을 맺다|effort bears fruit
+232|496|전혀01|부|全-|B|not at all|*전혀* 모르다|to not know at all|*전혀* 다르다|to be completely different|*전혀* 상관없다|to not matter at all
+233|498|단체02|명|團體|B|group / organization|시민 *단체*|civic group|*단체* 행동|group action|*단체* 손님|group of guests
+234|500|알려지다|동||B|to become known|세상에 *알려지다*|to be known to the world|이름이 *알려지다*|the name became famous|잘 *알려진* 사실|well-known fact
+235|501|가능하다|형|可能-|B|to be possible|이용이 *가능하다*|use is possible|*가능한* 빨리|as soon as possible|실현 *가능한*|feasible
+236|502|능력02|명|能力|B|ability / capability|업무 *능력*|work ability|*능력*이 뛰어나다|to have great ability|*능력*을 발휘하다|to show one's capability
+237|503|주장하다01|동|主張-|B|to insist / to claim|권리를 *주장하다*|to claim rights|강력히 *주장했다*|strongly insisted|자기 의견을 *주장하다*|to assert one's opinion
+238|504|자식01|명|子息|B|children / offspring|*자식* 농사|raising children|*자식*을 기르다|to raise children|금쪽같은 *자식*|precious child
+239|505|돌리다04|동|팽이를 ~|B|to turn / to spin|고개를 *돌리다*|to turn one's head|팽이를 *돌리다*|to spin a top|시선을 *돌리다*|to turn one's gaze
+240|508|모으다|동||B|to gather / to collect|돈을 *모으다*|to save money|사람을 *모으다*|to gather people|우표를 *모으다*|to collect stamps
+241|509|자료03|명|資料|B|data / material|참고 *자료*|reference material|*자료*를 찾다|to look for data|조사 *자료*|survey data
+242|516|제품02|명|製品|B|product|신*제품* 출시|launch of new product|전자 *제품*|electronic products|*제품*을 홍보하다|to promote a product
+243|520|사업04|명|事業|B|business / enterprise|*사업*을 시작하다|to start a business|개인 *사업*|private business|*사업* 계획|business plan
+244|523|지난해|명||B|last year|*지난해* 여름|last year's summer|*지난해* 말|end of last year|*지난해*와 비교하다|to compare with last year
+245|524|표현|명|表現|B|expression|감정 *표현*|expression of emotion|*표현*을 잘하다|to be good at expressing|말이나 *표현*|words or expressions
+246|528|젊다|형||B|to be young|나이가 *젊다*|to be young|*젊은* 시절|youthful days|생각이 *젊다*|to have a young mindset
+247|529|동시02|명|同時|B|the same time|*동시* 상영|simultaneous screening|*동시*에 일어나다|to happen at the same time|*동시* 통역|simultaneous interpretation
+248|532|순간03|명|瞬間|B|moment / instant|결정적인 *순간*|decisive moment|그 *순간*에|at that moment|찰나의 *순간*|a split second
+249|533|전쟁|명|戰爭|B|war|*전쟁*이 나다|a war breaks out|말 *전쟁*|war of words|*전쟁*을 막다|to prevent war
+250|545|마찬가지|명||B|the same|나도 *마찬가지*야|I am the same|어디나 *마찬가지*다|it's the same everywhere|어제와 *마찬가지*로|same as yesterday
+251|549|과거03|명|過去|B|past|*과거*의 일|thing of the past|*과거*를 잊다|to forget the past|화려한 *과거*|glamorous past
+252|553|현대01|명|現代|B|modern times|*현대* 사회|modern society|*현대* 미술|modern art|*현대*적인 디자인|modern design
+253|555|살펴보다|동||B|to examine / to look around|꼼꼼히 *살펴보다*|to examine thoroughly|주위를 *살펴봤다*|looked around the surroundings|서류를 *살펴보다*|to look through documents
+254|557|차이|명|差異|B|difference|온도 *차이*|temperature difference|*차이*가 크다|the difference is big|생각의 *차이*|difference in thought
+255|559|시절01|명|時節|B|days / time / season|학생 *시절*|student days|어린 *시절*|childhood days|좋았던 *시절*|the good old days
+256|565|작가01|명|作家|B|writer / author|소설 *작가*|novel writer|인기 *작가*|popular author|*작가*가 되다|to become a writer
+257|566|효과01|명|效果|B|effect|광고 *효과*|advertising effect|*효과*가 좋다|to be effective|부작용 *효과*|side effect
+258|567|불교|명|佛敎|B|Buddhism|*불교* 사원|Buddhist temple|한국의 *불교*|Korean Buddhism|*불교* 신자|Buddhist believer
+259|568|끌다|동||B|to pull / to attract|가트를 *끌다*|to pull a cart|관심을 *끌다*|to attract interest|시간을 *끌다*|to stall for time
+260|580|마치03|부||B|as if|*마치* 꿈같다|as if it were a dream|*마치* 영화처럼|just like a movie|*마치* 아는 것처럼|as if knowing
+261|583|바라다01|동||B|to hope / to wish|합격을 *바라다*|to hope to pass|행복하길 *바래요*|I hope you are happy|간절히 *바라다*|to wish earnestly
+262|584|강하다02|형|强-|B|to be strong|바람이 *강하다*|the wind is strong|*강한* 의지|strong will|정신력이 *강하다*|to be mentally strong
+263|587|최고02|명|最高|B|the best / peak|*최고* 기록|best record|기분이 *최고*다|to feel great|*최고*의 품질|the best quality
+264|588|나타내다|동||B|to express / to show|뜻을 *나타내다*|to express a meaning|수치로 *나타내다*|to show in numbers|슬픔을 *나타내다*|to show sadness
+265|603|법01|명|法|B|law|*법*을 지키다|to obey the law|*법*대로 해라|do it by the law|*법*에 어긋나다|to go against the law
+266|604|소설03|명|小說|B|novel|단편 *소설*|short story|*소설*을 쓰다|to write a novel|연애 *소설*|romance novel
+267|607|질서03|명|秩序|B|order / discipline|*질서*를 지키다|to keep order|사회 *질서*|social order|공공 *질서*|public order
+268|609|담다01|동|넣다|B|to put in / to contain|그릇에 *담다*|to put in a bowl|진심을 *담다*|to put one's heart into|카메라에 *담다*|to capture on camera
+269|611|시민|명|市民|B|citizen|서울 *시민*|Seoul citizen|*시민*의 의식|civic consciousness|보통 *시민*|ordinary citizen
+270|612|회장07|명|會長|B|chairman / president|학생회 *회장*|student council president|그룹 *회장*님|group chairman|*회장*으로 선출되다|to be elected as president
+271|619|제대로|부||B|properly|*제대로* 하다|to do properly|*제대로* 먹다|to eat properly|말이 *제대로* 안 나와|cannot speak properly
+272|621|던지다|동||B|to throw|공을 *던지다*|to throw a ball|질문을 *던지다*|to pose a question|시선을 *던지다*|to cast a look
+273|623|공간05|명|空間|B|space|개인 *공간*|personal space|*공간*을 차지하다|to occupy space|생활 *공간*|living space
+274|627|벌이다|동||B|to start / to open|잔치를 *벌이다*|to hold a feast|사업을 *벌이다*|to start a business|싸움을 *벌이다*|to start a fight
+275|631|강조하다|동|强調-|B|to emphasize|중요성을 *강조하다*|to emphasize importance|반복해서 *강조했다*|emphasized repeatedly|실천을 *강조하다*|to emphasize practice
+276|633|맡다01|동|담임을 ~|B|to take charge of|일을 *맡다*|to take charge of work|책임을 *맡다*|to take responsibility|역할을 *맡았다*|took on a role
+277|635|한편|부|-便|B|on the other hand / meanwhile|*한편*으로는 걱정이다|on one hand, I'm worried|*한편* 그 시각에|meanwhile at that time|*한편* 다른 의견은|on the other hand, another opinion is
+278|637|기자05|명|記者|B|reporter|신문 *기자*|newspaper reporter|방송 *기자*|broadcast reporter|*기자* 회견|press conference
+279|641|주로01|부|主-|B|mostly / mainly|*주로* 집에서|mostly at home|*주로* 이용하는|mainly used|*주로* 먹는 음식|food mainly eaten
+280|642|훨씬|부||B|much more|*훨씬* 좋다|to be much better|*훨씬* 빠르다|to be much faster|*훨씬* 더 크게|much bigger
+281|645|통일02|명|統一|B|unification|조국 *통일*|unification of the fatherland|*통일*을 이루다|to achieve unification|의견 *통일*|unification of opinions
+282|646|들어서다|동||B|to enter / to step in|방에 *들어서다*|to step into the room|건물이 *들어서다*|a building is built|입구에 *들어서다*|to enter the entrance
+283|658|차례01|명|次例|B|turn / order / time|내 *차례*|my turn|여러 *차례*|several times|*차례*를 기다리다|to wait for one's turn
+284|659|군05|명|軍|B|military / army|*군* 복무|military service|*군*에 가다|to go into the military|공*군* 소속|belonging to the Air Force
+285|662|재산|명|財産|B|property / wealth|개인 *재산*|personal property|*재산*을 모으다|to accumulate wealth|막대한 *재산*|huge fortune
+286|666|약간|부|若干|B|slightly|*약간* 늦다|to be slightly late|*약간*의 차이|a slight difference|소금을 *약간* 넣다|to add a bit of salt
+287|668|요구하다|동|要求-|B|to demand|사과를 *요구하다*|to demand an apology|권리를 *요구하다*|to demand rights|대책을 *요구하고* 있다|are demanding measures
+288|678|기간07|명|期間|B|period|시험 *기간*|exam period|일정한 *기간*|a fixed period|*기간*이 만료되다|the period has expired
+289|680|일으키다|동||B|to cause / to raise|문제를 *일으키다*|to cause a problem|사고를 *일으키다*|to cause an accident|아이를 *일으키다*|to help a child up
+290|685|공장02|명|工場|B|factory|자동차 *공장*|car factory|*공장*을 가동하다|to operate a factory|*공장* 근로자|factory worker
+291|687|즐기다01|동||B|to enjoy|음악을 *즐기다*|to enjoy music|여가를 *즐기다*|to enjoy one's leisure|게임은 *즐거워요*|games are fun to enjoy
+292|688|지02|의|만난 ~ 오래되다|B|since|떠난 *지* 일 년|a year since leaving|이사 온 *지* 얼마 안 됐다|not long since moving in|먹은 *지* 오래되다|it's been a long time since eating
+293|690|변하다|동|變-|B|to change|색이 *변하다*|color changes|마음이 *변했다*|one's mind has changed|세상이 *변하고* 있다|the world is changing
+294|693|아무리|부||B|no matter how|*아무리* 바빠도|no matter how busy|*아무리* 생각해도|no matter how much I think|*아무리* 멀어도|no matter how far
+295|695|맞추다01|동||B|to adjust / to match|시계를 *맞추다*|to set/adjust a clock|답을 *맞추다*|to check answers|입을 *맞추다*|to kiss / to align stories
+296|700|막다01|동||B|to block / to prevent|길을 *막다*|to block the road|바람을 *막다*|to block the wind|유행을 *막을* 수 없다|cannot prevent the trend
+297|707|늘|부||B|always|*늘* 고마워|always thankful|*늘* 그 자리에|always in that spot|*늘* 하던 대로|always as usual
+298|709|전국03|명|全國|B|nationwide|*전국* 각지|all over the country|*전국* 대회|nationwide competition|*전국*적으로 비|rain nationwide
+299|711|마치다02|동||B|to finish|일을 *마치다*|to finish work|수업을 *마쳤다*|finished class|모든 과정을 *마치다*|to complete the entire course
+300|715|가정06|명|家庭|B|home / family|화목한 *가정*|harmonious family|*가정* 방문|home visit|*가정*을 꾸리다|to start a family
+301|717|빠지다02|동|물에 ~|B|to fall into|물에 *빠지다*|to fall into water|함정에 *빠졌다*|fell into a trap|사랑에 *빠지다*|to fall in love
+302|721|오늘날|명||B|today / nowadays|*오늘날*의 사회|today's society|*오늘날*에 이르러|reaching the present day|*오늘날*의 과학 기술|science and technology of today
+303|723|농업|명|農業|B|agriculture|*농업* 종사자|agricultural worker|*농업* 생산량|agricultural production|전통적인 *농업*|traditional agriculture
+304|725|식04|의|式|B|style / way|한국 *식*|Korean style|옛날 *식*|old-fashioned way|이런 *식*으로|in this way
+305|726|의견01|명|意見|B|opinion|*의견*을 나누다|to share opinions|개인적인 *의견*|personal opinion|*의견*이 다르다|to have different opinions
+306|730|표현하다|동|表現-|B|to express|말로 *표현하다*|to express in words|감정을 *표현했다*|expressed emotions|그림으로 *표현하다*|to express through a drawing
+307|739|경기11|명|競技|B|match / game|축구 *경기*|soccer match|*경기*에서 이기다|to win a game|*경기*를 관람하다|to watch a match
+308|740|목적03|명|目的|B|purpose|방문 *목적*|purpose of visit|*목적*이 분명하다|the purpose is clear|공부할 *목적*으로|with the purpose of studying
+309|741|태도03|명|態度|B|attitude|긍정적인 *태도*|positive attitude|*태도*가 나쁘다|to have a bad attitude|삶에 대한 *태도*|attitude toward life
+310|743|주위02|명|周圍|B|surroundings / around|집 *주위*|around the house|*주위*가 시끄럽다|the surroundings are noisy|*주위* 사람들의 시선|the eyes of people around
+311|746|발생하다|동|發生-|B|to occur|사건이 *발생하다*|an incident occurs|화재가 *발생했다*|a fire broke out|문제가 *발생할* 수 있다|problems may occur
+312|749|어쩌다01|동||B|to happen to / by chance|*어쩌다가* 만났다|met by chance|*어쩌면* 좋을까|what should I do|*어쩌다* 보니 그렇게 됐다|it just happened that way
+313|751|각각01|부|各各|B|each / respectively|*각각* 다르다|to be each different|*각각* 한 개씩|one of each|*각각*의 장단점|pros and cons of each
+314|758|책임|명|責任|B|responsibility|*책임*을 지다|to take responsibility|무거운 *책임*|heavy responsibility|*책임*이 막중하다|responsibility is great
+315|761|심하다|형|甚-|B|to be severe|정도가 *심하다*|the degree is severe|*심한* 장난|severe prank|기침이 *심해요*|the cough is severe
+316|767|자라다01|동|커지다|B|to grow|무럭무럭 *자라다*|to grow quickly|꿈을 먹고 *자란다*|growing up with dreams|키가 많이 *자랐네*|you've grown tall
+317|769|구체적|명|具體的|B|concrete / specific|*구체적*인 계획|specific plan|*구체적*으로 설명하다|to explain specifically|내용이 *구체적*이다|the content is concrete
+318|770|기회03|명|機會|B|opportunity|좋은 *기회*|good opportunity|*기회*를 놓치다|to miss an opportunity|마지막 *기회*|last chance
+319|773|지구04|명|地球|B|Earth|*지구* 온난화|global warming|*지구*를 지키다|to protect the Earth|*지구* 한 바퀴|around the Earth
+320|775|소비자|명|消費者|B|consumer|*소비자* 고발|consumer report|*소비자* 보호|consumer protection|현명한 *소비자*|wise consumer
+321|779|기준03|명|基準|B|standard / criteria|선발 *기준*|selection criteria|*기준*에 맞다|to meet the standard|*기준*을 세우다|to set a standard
+322|780|말11|의|末|B|end|학기 *말*|end of the semester|이번 달 *말*|end of this month|세기 *말*|end of the century
+323|781|반드시|부||B|surely / certainly|*반드시* 성공하다|to surely succeed|*반드시* 오세요|be sure to come|*반드시* 필요한 것|absolutely necessary thing
+324|787|받아들이다|동||B|to accept|사실을 *받아들이다*|to accept the fact|제안을 *받아들였다*|accepted the proposal|문화를 *받아들이다*|to embrace a culture
+325|791|꺼내다|동||B|to take out|돈을 *꺼내다*|to take out money|말을 *꺼내다*|to bring up a topic|주머니에서 *꺼냈다*|took out from the pocket
+326|792|노동자|명|勞動者|B|worker / laborer|외국인 *노동자*|foreign worker|*노동자*의 권리|rights of workers|육체 *노동자*|manual laborer
+327|793|동네|명|洞-|B|neighborhood|우리 *동네*|my neighborhood|*동네* 한 바퀴|around the neighborhood|*동네* 사람들|neighbors
+328|795|완전히|부|完全-|B|completely|*완전히* 잊다|to completely forget|*완전히* 달라지다|to become completely different|*완전히* 망했다|to be completely ruined
+329|797|전하다|동|傳-|B|to deliver / to tell|소식을 *전하다*|to deliver news|안부를 *전해* 줘|say hello (deliver regards)|뜻을 *전하다*|to convey a meaning
+330|800|맞다02|동|손님을 ~|B|to greet / to welcome|손님을 *맞다*|to greet a guest|새해를 *맞다*|to welcome the new year|공항에서 *맞이하다*|to meet at the airport
+331|803|정하다03|동|定-|B|to decide / to set|날짜를 *정하다*|to set a date|규칙을 *정했다*|set the rules|마음을 *정하다*|to make up one's mind
+332|808|대중02|명|大衆|B|the public|*대중* 교통|public transportation|*대중* 문화|popular culture|*대중*의 인기|popularity among the public
+333|809|늘어나다|동||B|to increase / to stretch|인구가 *늘어나다*|population increases|체중이 *늘어났다*|weight increased|시간이 *늘어나다*|time is extended
+334|815|각종|명|各種|B|various kinds|*각종* 사고|various accidents|*각종* 행사|various events|*각종* 비타민|various vitamins
+335|816|빛|명||B|light|햇*빛*|sunlight|달*빛*|moonlight|희망의 *빛*|light of hope
+336|823|현재02|명|現在|B|the present|*현재*와 과거|the present and the past|*현재*에 충실하다|to be faithful to the present|*현재* 시각|current time
+337|826|발견하다01|동|發見-|B|to discover|신대륙을 *발견하다*|to discover a new continent|재능을 *발견했다*|discovered talent|오류를 *발견하다*|to find an error
+338|829|특징|명|特徵|B|characteristic|지리적 *특징*|geographical features|*특징*이 뚜렷하다|characteristics are distinct|개인적 *특징*|personal characteristic
+339|831|선수05|명|選手|B|athlete / player|축구 *선수*|soccer player|국가대표 *선수*|national team player|*선수* 보호 차원|for the sake of protecting players
+340|833|마련하다|동||B|to prepare / to arrange|돈을 *마련하다*|to raise money|자리를 *마련했다*|arranged a seat/spot|대책을 *마련하다*|to prepare measures
+341|836|주제04|명|主題|B|topic / theme|토론 *주제*|discussion topic|연구 *주제*|research theme|*주제* 파악|understanding the core theme
+342|842|기본|명|基本|B|basis / basic|*기본* 예절|basic etiquette|*기본*에 충실하다|to stick to the basics|*기본* 원칙|basic principle
+343|846|감정06|명|感情|B|emotion / feeling|*감정* 조절|emotional control|*감정*이 풍부하다|to be very emotional|부정적인 *감정*|negative emotion
+344|849|인기01|명|人氣|B|popularity|*인기* 가수|popular singer|*인기*가 많다|to be very popular|*인기*를 끌다|to gain popularity
+345|867|달리다04|동|말을 ~|B|to run|빨리 *달리다*|to run fast|운동장을 *달렸다*|ran on the playground|앞만 보고 *달리다*|to run looking only forward
+346|869|이전03|명|以前|B|before / previous|사고 *이전*|before the accident|일주일 *이전*|more than a week ago|그 *이전*의 삶|life before that
+347|876|시키다01|동||B|to make (someone do) / to order|일을 *시키다*|to make (someone) work|심부름을 *시켰다*|ordered an errand|커피를 *시키다*|to order coffee
+348|878|국제02|명|國際|B|international|*국제* 공항|international airport|*국제* 관계|international relations|*국제* 전화|international call
+349|881|전통06|명|傳統|B|tradition|*전통* 문화|traditional culture|*전통*을 잇다|to carry on a tradition|*전통* 의상|traditional clothing
+350|882|기르다|동||B|to raise / to grow|꽃을 *기르다*|to grow flowers|강아지를 *기르다*|to raise a puppy|능력을 *길렀다*|developed/grew an ability
+351|885|조사하다12|동|調査-|B|to investigate|원인을 *조사하다*|to investigate the cause|철저히 *조사했다*|investigated thoroughly|실태를 *조사하다*|to survey the actual condition
+352|886|커다랗다|형||B|to be huge|*커다란* 나무|huge tree|구멍이 *커다랗다*|the hole is huge|*커다랗게* 웃다|to laugh loudly
+353|890|시인10|명|詩人|B|poet|유명한 *시인*|famous poet|*시인*이 되다|to become a poet|서정 *시인*|lyric poet
+354|892|외04|의|外|B|except / other than|그 *외*의 것|things other than that|예상 *외*|unexpected|전공 *외* 과목|subjects outside the major
+355|896|줄이다|동||B|to reduce / to shorten|비용을 *줄이다*|to reduce costs|거리를 *줄였다*|shortened the distance|말수를 *줄이다*|to talk less
+356|898|가격03|명|價格|B|price|*가격*이 오르다|price rises|*가격*을 깎다|to cut the price|저렴한 *가격*|low price
+357|899|달라지다|동||B|to change / to vary|세상이 *달라지다*|the world changes|태도가 *달라졌다*|attitude has changed|어제와 *달라진* 모습|appearance different from yesterday
+358|904|통신01|명|通信|B|communication|정보 *통신*|information communication|*통신* 수단|means of communication|*통신*이 끊기다|communication is cut off
+359|910|기계07|명|機械|B|machine|세탁 *기계*|washing machine|*기계*를 고치다|to fix a machine|*기계*처럼 일하다|to work like a machine
+360|911|모양02|의|模樣|B|appearance / likely to|비가 올 *모양*이다|it looks like it will rain|아픈 *모양*이야|it seems (he) is sick|모르는 *모양*이네|it seems you don't know
+361|913|아나운서|명|announcer|B|announcer / news anchor|뉴스 *아나운서*|news anchor|*아나운서*가 꿈이다|dream of being an announcer|유명한 *아나운서*|famous announcer
+362|916|펴다|동||B|to unfold / to spread|책을 *펴다*|to open a book|허리를 *펴다*|to straighten one's back|날개를 *펴다*|to spread wings
+363|921|종교|명|宗敎|B|religion|*종교*가 있나요?|do you have a religion?|*종교*적인 이유|religious reasons|*종교*의 자유|freedom of religion
+364|924|자연스럽다|형|自然-|B|to be natural|*자연스러운* 연기|natural acting|말투가 *자연스럽다*|way of speaking is natural|*자연스럽게* 행동하다|to act naturally
+365|927|돌다|동||B|to turn / to spin|바퀴가 *돌다*|wheels turn|동네를 한 바퀴 *돌다*|to go around the neighborhood|머리가 *돌다*|to feel dizzy
+366|936|혹은|부|或-|B|or / or else|사과 *혹은* 배|apples or pears|오늘 *혹은* 내일|today or tomorrow|전화 *혹은* 문자|phone call or text
+367|942|편09|의|篇|B|volume (counter for books/films)|영화 한 *편*|one movie|논문 여러 *편*|several papers|시 한 *편*|one poem
+368|944|노력하다01|동|努力-|B|to strive / to try hard|열심히 *노력하다*|to try hard|성공하려고 *노력했다*|strove to succeed|*노력하는* 사람|person who makes an effort
+369|945|보호01|명|保護|B|protection|환경 *보호*|environmental protection|아동 *보호*|child protection|*보호*를 받다|to be protected
+370|948|한편|명|-便|B|one side / one way|*한편*의 이야기|one story|마음 *한편*이 아프다|one side of my heart hurts|영화 한 *편*|one film
+371|951|이웃|명||B|neighbor|*이웃* 사촌|close neighbor (like family)|*이웃*집 사람|the person next door|*이웃*을 돕다|to help neighbors
+372|953|공동02|명|共同|B|joint / community|*공동* 주택|community housing|*공동*으로 관리하다|to manage jointly|*공동* 목표|joint goal
+373|954|까닭|명||B|reason / cause|그럴 *까닭*이 없다|no reason for that|무슨 *까닭*인지|for some reason|모르는 *까닭*에|because (I) don't know
+374|960|소녀02|명|少女|B|girl|어린 *소녀*|young girl|*소녀* 같은 감성|girl-like sensitivity|열일곱 살 *소녀*|seventeen-year-old girl
+375|961|지나가다|동||B|to pass by|차들이 *지나가다*|cars pass by|시간이 *지나갔다*|time has passed|그냥 *지나가지* 마세요|please don't just pass by
+376|963|상품03|명|商品|B|product / prize|인기 *상품*|popular product|*상품*을 타다|to win a prize|*상품*권|gift certificate
+377|966|훌륭하다|형||B|to be excellent / great|*훌륭한* 사람|great person|경치가 *훌륭하다*|the view is magnificent|성적이 *훌륭하네요*|the grades are excellent
+378|973|종류02|명|種類|B|kind / type|여러 *종류*|various types|꽃의 *종류*|types of flowers|*종류*별로 분류하다|to classify by type
+379|980|키우다|동||B|to raise / to grow|아이를 *키우다*|to raise a child|꿈을 *키우다*|to nurture a dream|덩치를 *키웠다*|built up one's physique
+380|981|눕다01|동||B|to lie down|침대에 *눕다*|to lie on the bed|잠시 *누워* 쉬다|to lie down and rest for a bit|바닥에 *누웠다*|lied on the floor
+381|982|발달하다|동|發達-|B|to develop / to advance|근육이 *발달하다*|muscles develop|정신이 *발달했다*|mind has developed|교통이 *발달한* 도시|city with developed transport
+382|983|발전하다01|동|發展-|B|to progress / to develop|경제가 *발전하다*|economy develops|관계가 *발전했다*|relationship progressed|크게 *발전하는* 중|developing significantly
+383|985|죽음01|명||B|death|갑작스러운 *죽음*|sudden death|*죽음*을 두려워하다|to fear death|삶과 *죽음*|life and death
+384|986|고통|명|苦痛|B|pain / suffering|*고통*을 느끼다|to feel pain|심한 *고통*|severe suffering|*고통*에서 벗어나다|to escape from pain
+385|989|듯이01|의||B|as if|비가 오*듯이*|as if it's raining|보*듯이* 알다|to know just by looking|미친 *듯이* 달리다|to run like crazy
+386|990|어울리다|동||B|to match / to hang out|옷이 잘 *어울리다*|clothes match well|친구들과 *어울리다*|to hang out with friends|분위기에 *어울리게*|matching the atmosphere
+387|999|예정02|명|豫定|B|schedule / plan|출발 *예정*|scheduled departure|*예정*대로 진행하다|to proceed as planned|*예정*보다 늦다|later than scheduled
+388|1004|흔히|부||B|commonly / often|*흔히* 있는 일|common occurrence|*흔히* 말하기를|as is often said|*흔히* 볼 수 있다|can be commonly seen
+389|1011|느껴지다|동||B|to be felt|추위가 *느껴지다*|to feel the cold|사랑이 *느껴졌다*|love was felt|슬프게 *느껴지다*|to feel sad
+390|1015|전문08|명|專門|B|specialty / professional|*전문* 분야|field of expertise|*전문* 지식|professional knowledge|*전문*으로 다루다|to handle professionally
+391|1016|정확하다01|형|正確-|B|to be accurate|*정확한* 시간|accurate time|발음이 *정확하다*|pronunciation is accurate|*정확하게* 계산하다|to calculate accurately
+392|1019|등01|명|신체의 일부|B|back (body part)|*등*이 가렵다|back is itchy|*등*을 돌리다|to turn one's back|*등*에 업다|to carry on one's back
+393|1023|찾아오다|동||B|to visit / to come over|집으로 *찾아오다*|to visit the house|손님이 *찾아왔다*|a guest came over|봄이 *찾아오다*|spring arrives
+394|1033|결정하다01|동|決定-|B|to decide|진로를 *결정하다*|to decide on a career|혼자 *결정했다*|decided alone|빨리 *결정하세요*|please decide quickly
+395|1034|경영02|명|經營|B|management / operation|기업 *경영*|business management|*경영*학과|department of business|*경영*을 맡다|to take over management
+396|1038|숲01|명||B|forest / woods|깊은 *숲*|deep forest|*숲*길을 걷다|to walk in the forest|*숲*이 우거지다|the forest is thick
+397|1039|없어지다|동||B|to disappear / to be gone|물건이 *없어지다*|the item is gone|통증이 *없어졌다*|the pain disappeared|기회가 *없어지다*|to lose an opportunity
+398|1042|떠오르다|동||B|to rise / to come to mind|해공에 *떠오르다*|to rise in the sky|좋은 생각이 *떠오르다*|a good idea comes to mind|얼굴이 *떠올랐다*|a face came to mind
+399|1044|미치다02|동|닿다|B|to reach / to influence|영향을 *미치다*|to influence|손이 *미치지* 않는 곳|place out of reach|기대에 *미치다*|to meet expectations
+400|1045|새벽01|명||B|dawn / early morning|*새벽* 공기|dawn air|*새벽*까지 일하다|to work until dawn|*새벽*에 일어나다|to wake up at dawn
+401|1047|얼른02|부||B|quickly / right away|*얼른* 와라|come quickly|*얼른* 먹어|eat up right away|*얼른* 대답해|answer quickly
+402|1048|임금03|명|賃金|B|wage / pay|최저 *임금*|minimum wage|*임금* 협상|wage negotiation|*임금*을 올리다|to raise wages
+403|1051|무섭다|형||B|to be scary|귀신이 *무섭다*|scared of ghosts|*무서운* 영화|scary movie|밤길이 *무서워요*|night roads are scary
+404|1052|직장05|명|職場|B|workplace|*직장* 상사|workplace boss|*직장*을 구하다|to look for a job|*직장* 생활|working life
+405|1053|참다|동||B|to endure / to hold back|웃음을 *참다*|to hold back laughter|화가 나도 *참다*|to endure despite anger|꾹 *참았다*|held it back firmly
+406|1057|서양|명|西洋|B|the West / Western|*서양* 역사|Western history|*서양* 음식|Western food|*서양* 사람들|Westerners
+407|1058|주요01|명|主要|B|major / main|*주요* 원인|main cause|*주요* 인물|major figure|*주요* 도시|major cities
+408|1059|지나치다|형||B|to be excessive|농담이 *지나치다*|the joke is too much|*지나친* 운동|excessive exercise|욕심이 *지나쳐요*|greed is excessive
+409|1067|공연02|명|公演|B|performance / show|연극 *공연*|theater performance|*공연*을 보다|to see a show|무료 *공연*|free performance
+410|1069|내놓다|동||B|to put out / to release|물건을 밖에 *내놓다*|to put items outside|신제품을 *내놓았다*|released a new product|의견을 *내놓다*|to put forward an opinion
+411|1070|떼다01|동||B|to detach / to take off|스티커를 *떼다*|to peel off a sticker|눈을 *떼지* 마|don't take your eyes off|영수증을 *떼었다*|detached a receipt
+412|1072|속도01|명|速度|B|speed|*속도*를 줄이다|to slow down|빠른 *속도*|fast speed|*속도* 제한|speed limit
+413|1073|심각하다02|형|深刻-|B|to be serious|문제가 *심각하다*|the problem is serious|*심각한* 표정|serious look|상황이 *심각해요*|the situation is serious
+414|1075|계속되다02|동|繼續-|B|to continue|비가 *계속되다*|the rain continues|전쟁이 *계속되었다*|the war continued|토론이 *계속되는* 중|the discussion is continuing
+415|1078|소년01|명|少年|B|boy|어린 *소년*|young boy|시골 *소년*|country boy|*소년*의 꿈|a boy's dream
+416|1079|소식04|명|消息|B|news / word|기쁜 *소식*|good news|*소식*을 듣다|to hear news|*소식*이 없다|no word (from someone)
+417|1086|노인01|명|老人|B|elderly person|동네 *노인*|village elder|*노인* 문제|elderly issues|*노인*을 공경하다|to respect the elderly
+418|1087|벌다02|동|돈을 ~|B|to earn / to make (money)|돈을 *벌다*|to earn money|생활비를 *벌었다*|earned living expenses|많이 *벌고* 싶다|want to earn a lot
+419|1092|결정01|명|決定|B|decision|*결정*을 내리다|to make a decision|중요한 *결정*|important decision|*결정*을 미루다|to postpone a decision
+420|1098|썰다01|동||B|to slice / to chop|고기를 *썰다*|to slice meat|채소를 *썰었다*|chopped vegetables|칼로 *썰다*|to slice with a knife
+421|1105|업무02|명|業務|B|business / work|*업무*를 보다|to do work|공식 *업무*|official business|*업무* 시간|work hours
+422|1108|청소년|명|靑少年|B|youth / teenager|*청소년*기|adolescence|*청소년* 할인|teenager discount|*청소년*을 위한 캠프|camp for youth
+423|1111|이기다01|동|적에게 ~|B|to win / to beat|경기에서 *이기다*|to win the game|적을 *이겼다*|beat the enemy|자신을 *이기다*|to overcome oneself
+424|1113|취하다01|동|取-|B|to take / to adopt|조치를 *취하다*|to take measures|태도를 *취했다*|adopted an attitude|휴식을 *취하다*|to take a rest
+425|1127|그러므로|부||B|therefore|비가 온다. *그러므로*...|It's raining. Therefore...|*그러므로* 취소했다|therefore, (I) canceled it|*그러므로* 주의가 필요하다|therefore, caution is needed
+426|1128|포함하다02|동|包含-|B|to include|세금을 *포함하다*|to include tax|전부를 *포함했다*|included everything|나를 *포함하여* 다섯 명|five people including me
+427|1134|만약|명|萬若|B|if / in case|*만약*의 사태|emergency situation|*만약* 비가 오면|if it happens to rain|*만약*에 대비하다|"to prepare for the ""if"""
+428|1135|바르다03|형|굽은 데가 없다|B|to be straight / upright|자세가 *바르다*|posture is straight|*바른* 생활|upright living|마음씨가 *바르다*|to be right-minded
+429|1137|숨01|명||B|breath|*숨*을 쉬다|to breathe|*숨*이 차다|to be out of breath|*숨*을 죽이다|to hold one's breath
+430|1138|행사01|명|行事|B|event / function|축제 *행사*|festival event|*행사*를 열다|to hold an event|학교 *행사*|school function
+431|1146|판단|명|判斷|B|judgment|올바른 *판단*|correct judgment|*판단*을 내리다|to make a judgment|*판단*이 서다|to come to a judgment
+432|1147|해결하다|동|解決-|B|to solve|문제를 *해결하다*|to solve a problem|갈등을 *해결했다*|resolved the conflict|스스로 *해결해라*|solve it yourself
+433|1149|계속하다03|동|繼續-|B|to continue|공부를 *계속하다*|to continue studying|행진을 *계속했다*|continued the march|말을 *계속해* 보세요|please keep speaking
+434|1150|그치다|동||B|to stop|비가 *그치다*|the rain stops|울음을 *그치다*|to stop crying|웃음이 *그치지* 않다|laughter doesn't stop
+435|1152|너무나|부||B|so / too|*너무나* 감사하다|to be so grateful|*너무나* 아름다운 풍경|such a beautiful scenery|*너무나* 보고 싶다|to miss someone so much
+436|1153|높이다|동||B|to raise / to heighten|목소리를 *높이다*|to raise one's voice|효율을 *높였다*|increased efficiency|가치를 *높이다*|to heighten the value
+437|1159|막02|부|마구|B|carelessly / at random|*막* 사용하다|to use carelessly|*막* 던지다|to throw at random|*막* 말하지 마라|don't speak without thinking
+438|1161|수출03|명|輸出|B|export|*수출* 품목|export items|*수출*을 늘리다|to increase exports|자동차 *수출*|car exports
+439|1166|자르다01|동||B|to cut|머리를 *자르다*|to cut hair|종이를 *자르다*|to cut paper|관계를 *잘랐다*|cut off a relationship
+440|1167|데리다|동||B|to take / to bring (person)|아이를 *데려오다*|to bring a child|강아지를 *데리고* 가다|to go with a dog|나를 *데려가* 줘|please take me with you
+441|1169|무척01|부||B|very / extremely|*무척* 기쁘다|to be very happy|*무척* 힘들었다|it was extremely hard|*무척* 아끼는 옷|clothes (I) cherish very much
+442|1172|옳다01|형||B|to be right / correct|*옳은* 일|the right thing|판단이 *옳다*|the judgment is correct|그 말이 *옳아요*|those words are right
+443|1173|원래01|명|元來|B|originally / by nature|*원래* 모습|original appearance|*원래* 성격|original personality|*원래*부터 알고 있었다|knew it from the beginning
+444|1175|최초|명|最初|B|the first|*최초* 발견자|the first discoverer|세계 *최초*|the world's first|*최초*의 기록|the first record
+445|1179|뿌리|명||B|root|깊은 *뿌리*|deep roots|*뿌리*를 내리다|to take root|나무 *뿌리*|tree roots
+446|1180|수입02|명|輸入|B|import|*수입* 자동차|imported car|원자재 *수입*|import of raw materials|*수입*을 금지하다|to ban imports
+447|1181|초03|의|初|B|beginning / early|학기 *초*|beginning of the semester|이십 세기 *초*|early 20th century|오월 *초*|early May
+448|1187|직원03|명|職員|B|employee / staff|회사 *직원*|company employee|신입 *직원*|new staff member|*직원*을 채용하다|to hire employees
+449|1192|상대04|명|相對|B|opponent / partner|결혼 *상대*|marriage partner|*상대* 팀|opponent team|*상대*를 존중하다|to respect the other person
+450|1196|가득01|부|~ 차다|B|full / to the brim|*가득* 담다|to fill up|희망이 *가득*하다|to be full of hope|교실에 *가득* 찬 학생들|students filling the classroom
+451|1200|장군04|명|將軍|B|general / admiral|이순신 *장군*|General Yi Sun-sin|용감한 *장군*|brave general|*장군*이 지휘하다|the general commands
+452|1201|무역02|명|貿易|B|trade|자유 *무역*|free trade|*무역*을 하다|to trade|*무역* 회사|trading company
+453|1206|쳐다보다|동||B|to look at / to gaze|거울을 *쳐다보다*|to look in the mirror|나를 *쳐다봤다*|gazed at me|하늘을 *쳐다보다*|to look up at the sky
+454|1207|충분히|부|充分-|B|sufficiently / enough|*충분히* 설명하다|to explain sufficiently|*충분히* 자다|to sleep enough|*충분히* 이해해요|I understand perfectly
+455|1208|대15|의|臺|B|unit (counter for machines)|차 세 *대*|three cars|에어컨 한 *대*|one air conditioner|기계 몇 *대*|several machines
+456|1209|신체02|명|身體|B|body|*신체* 검사|physical examination|*신체*의 일부|part of the body|건강한 *신체*|healthy body
+457|1213|집안01|명||B|household / family|*집안* 일|housework|우리 *집안*|our family|*집안*이 화목하다|the family is harmonious
+458|1214|배경01|명|背景|B|background|역사적 *배경*|historical background|사진 *배경*|photo background|성장 *배경*|upbringing background
+459|1217|단순하다|형|單純-|B|to be simple|*단순한* 구조|simple structure|생각이 *단순하다*|to be simple-minded|*단순하게* 생각하다|to think simply
+460|1220|빠지다01|동|머리가 ~|B|to fall out / to be missing|머리가 *빠지다*|hair falls out|못이 *빠졌다*|the nail came out|단추가 *빠지다*|a button is missing
+461|1227|푸르다|형||B|to be blue / green|*푸른* 하늘|blue sky|*푸른* 들판|green field|눈이 *푸르다*|eyes are blue
+462|1228|걔|불|그 아이|B|that kid / he / she|*걔*는 누구야?|Who is that kid?|*걔*랑 친해|I'm close with him/her|*걔*가 그랬어|He/she did that
+463|1234|흔들다|동||B|to shake / to wave|손을 *흔들다*|to wave one's hand|꼬리를 *흔들다*|to wag a tail|몸을 *흔들었다*|shook one's body
+464|1235|기초06|명|基礎|B|foundation / basic|*기초* 지식|basic knowledge|*기초*가 튼튼하다|the foundation is strong|*기초*를 닦다|to lay the foundation
+465|1243|부족하다|형|不足-|B|to be insufficient|잠이 *부족하다*|to lack sleep|실력이 *부족하다*|to lack skill|경험이 *부족해요*|experience is insufficient
+466|1246|진행되다|동|進行-|B|to proceed / to progress|회의가 *진행되다*|the meeting is proceeding|순조롭게 *진행되었다*|progressed smoothly|공사가 *진행되는* 중|the construction is underway
+467|1252|법01|의|法|B|way / bound to|그럴 *법*하다|to be likely/plausible|이기기 마련인 *법*|bound to win|잊기 마련인 *법*|bound to forget
+468|1254|오랜|관||B|long-time / for a long time|*오랜* 친구|long-time friend|*오랜* 시간|long time|*오랜* 기다림|long wait
+469|1255|젊은이|명||B|youth / young person|건강한 *젊은이*|healthy youth|*젊은이*들의 유행|trends among young people|*젊은이*답게 살다|to live like a young person
+470|1259|과제04|명|課題|B|task / assignment|어려운 *과제*|difficult task|*과제*를 제출하다|to submit an assignment|당면한 *과제*|immediate task
+471|1261|기록하다|동|記錄-|B|to record|점수를 *기록하다*|to record the score|매일 *기록했다*|recorded every day|일기에 *기록하다*|to record in a diary
+472|1262|다가오다|동||B|to approach / to come closer|추석이 *다가오다*|Chuseok is approaching|가까이 *다가왔다*|came closer|기회가 *다가오다*|an opportunity approaches
+473|1266|종합|명|綜合|B|synthesis / general|*종합* 병원|general hospital|*종합* 점수|overall score|*종합*해서 판단하다|to synthesize and judge
+474|1269|개발하다|동|開發-|B|to develop|기술을 *개발하다*|to develop technology|신제품을 *개발했다*|developed a new product|재능을 *개발하다*|to develop talent
+475|1271|떨다01|동||B|to tremble / to shake|추위에 *떨다*|to tremble with cold|목소리를 *떨다*|voice trembles|겁에 *떨었다*|shook with fear
+476|1278|자유롭다|형|自由-|B|to be free|사고가 *자유롭다*|thought is free|*자유로운* 영혼|free spirit|*자유롭게* 이용하다|to use freely
+477|1279|적극적|명|積極적|B|active / proactive|*적극적*인 참여|active participation|*적극적*으로 돕다|to help proactively|성격이 *적극적*이다|personality is proactive
+478|1280|판매|명|販賣|B|sale / selling|*판매* 가격|selling price|*판매*를 중단하다|to stop sales|인기리에 *판매* 중|on sale with great popularity
+479|1283|길이01|명||B|length|치마 *길이*|skirt length|*길이*를 재다|to measure the length|*길이*가 길다|the length is long
+480|1285|점차02|부|漸次|B|gradually|*점차* 나아지다|to get gradually better|*점차* 늘어나다|to increase gradually|*점차* 잊혀 가다|to be gradually forgotten
+481|1286|톤01|의|ton|B|ton (unit)|오 *톤* 트럭|five-ton truck|수천 *톤*의 쓰레기|thousands of tons of trash|무게가 일 *톤*이다|weight is one ton
+482|1288|관련되다|동|關聯-|B|to be related|범죄와 *관련되다*|to be related to a crime|*관련된* 서류|related documents|직접 *관련되어* 있다|to be directly related
+483|1290|나머지|명||B|the rest / remainder|*나머지* 공부|extra study (remainder)|*나머지* 돈|the rest of the money|*나머지*는 나중에|the rest later
+484|1298|미래02|명|未來|B|future|*미래*의 꿈|future dream|밝은 *미래*|bright future|*미래*를 준비하다|to prepare for the future
+485|1302|인구01|명|人口|B|population|세계 *인구*|world population|*인구*가 감소하다|population decreases|도시 *인구*|city population
+486|1303|기대하다|동|期待-|B|to expect / to look forward to|성공을 *기대하다*|to expect success|내일을 *기대했다*|looked forward to tomorrow|너무 *기대하지* 마|don't expect too much
+487|1308|흘리다|동||B|to spill / to shed|눈물을 *흘리다*|to shed tears|땀을 *흘렸다*|sweated|침을 *흘리다*|to drool
+488|1310|주인공|명|主人公|B|protagonist / hero|소설의 *주인공*|protagonist of the novel|오늘의 *주인공*|hero of today|영화 *주인공*|movie lead
+489|1311|당연하다01|형|當然-|B|to be natural / obvious|*당연한* 결과|obvious result|성공은 *당연하다*|success is natural|질문은 *당연해요*|it's natural to ask questions
+490|1313|따로|부||B|separately|*따로* 계산하다|to pay separately|*따로* 챙기다|to pack separately|*따로* 보관하다|to store separately
+491|1320|당장02|명|當場|B|right now / immediately|*당장* 나가라|get out right now|*당장* 필요한 것|thing needed immediately|*당장*은 어렵다|it's difficult for now
+492|1321|무렵|의||B|around the time|해 질 *무렵*|around sunset|퇴근할 *무렵*|around the time of leaving work|어릴 *무렵*|around the time (I) was young
+493|1323|사물10|명|事物|B|object / thing|주변의 *사물*|surrounding objects|*사물*을 관찰하다|to observe objects|무생물 *사물*|inanimate object
+494|1324|일반적|명|一般的|B|general|*일반적*인 특징|general characteristic|*일반적*으로 쓰이다|to be used generally|생각이 *일반적*이다|the thought is common/general
+495|1326|곱다02|형|아름답다|B|to be beautiful / soft|마음씨가 *곱다*|to have a kind heart|색깔이 *곱다*|the color is beautiful|*고운* 목소리|soft/pretty voice
+496|1327|바닥01|명||B|floor / bottom|방 *바닥*|room floor|*바닥*에 앉다|to sit on the floor|신발 *바닥*|sole of a shoe
+497|1330|생각되다|동||B|to be considered / to be thought|중요하다고 *생각되다*|to be considered important|사실로 *생각되었다*|was thought to be a fact|위험하다고 *생각되는* 곳|place considered dangerous
+498|1333|심다01|동||B|to plant|나무를 *심다*|to plant a tree|꽃을 *심었다*|planted flowers|희망을 *심어주다*|to plant hope
+499|1341|견디다|동||B|to endure / to bear|추위를 *견디다*|to endure the cold|고통을 *견뎠다*|bore the pain|끝까지 *견디다*|to endure until the end
+500|1342|기사10|명|記事|B|article / report|신문 *기사*|newspaper article|*기사*를 읽다|to read a report|특종 *기사*|scoop/exclusive article
+501|1348|뿌리다|동||B|to sprinkle / to spray|향수를 *뿌리다*|to spray perfume|씨를 *뿌렸다*|sowed seeds|소금을 *뿌리다*|to sprinkle salt
+502|1354|어쩌면|부||B|maybe / perhaps|*어쩌면* 사실일지 몰라|maybe it's true|*어쩌면* 그렇게 예뻐?|how can you be so pretty?|*어쩌면* 좋을까|what should I do?
+503|1363|아까|부||B|a while ago|*아까* 만났다|met a while ago|*아까* 한 말|what (I) said earlier|*아까*보다 낫다|better than before
+504|1364|알맞다|형||B|to be suitable / fit|용도에 *알맞다*|to be fit for the use|*알맞은* 크기|suitable size|격식에 *알맞게*|fittingly for the formality
