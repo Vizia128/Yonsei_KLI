@@ -7,12 +7,13 @@ def main():
     with open(input_file, "r", encoding="utf-8") as fin, open(output_file, "w", encoding="utf-8", newline="") as fout:
         new_idx = 1
         for line in fin:
-            if line.startswith("|"):
+            # We want to keep lines that start with a digit
+            if line and line[0].isdigit():
                 parts = line.split("|")
-                if len(parts) > 2:
-                    parts[1] = str(new_idx)
-                    new_idx += 1
+                # Replace the first number with our new index
+                parts[0] = str(new_idx)
                 fout.write("|".join(parts))
+                new_idx += 1
 
 if __name__ == "__main__":
     main()

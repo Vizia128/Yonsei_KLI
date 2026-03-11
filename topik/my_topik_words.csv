@@ -1,447 +1,143 @@
-|1|것01|의||A|thing|좋은 *것*|good thing|먹을 *것*|something to eat|내 *것*|my thing
-|2|하다01|동||A|to do|공부를 *하다*|to study|운동을 *하다*|to exercise|말을 *하다*|to speak
-|3|있다01|보||A|to be (progressive)|앉아 *있다*|to be sitting|살아 *있다*|to be alive|깨어 *있다*|to be awake
-|4|있다01|형||A|to have/exist|돈이 *있다*|to have money|집에 *있다*|to be at home|재미가 *있다*|to be interesting
-|5|되다01|동|어른이 ~|A|to become|어른이 *되다*|to become an adult|선생님이 *되다*|to become a teacher|다 *됐다*|it is all done
-|6|수02|의|방법|A|ability/way|할 *수* 있다|can do|갈 *수* 없다|cannot go|그럴 *수*도 있다|it could be so
-|7|하다01|보||A|to do (auxiliary)|깨끗하게 *하다*|to make clean|공부를 *하게* 하다|to make someone study|따뜻하게 *하다*|to make warm
-|8|나03|대||A|I (informal)|*나*는 학생이다|I am a student|*나*의 가방|my bag|*나*랑 놀자|play with me
-|9|그01|관||A|that|*그* 사람|that person|*그* 책|that book|*그* 일|that matter
-|10|없다01|형||A|to not have/exist|시간이 *없다*|to not have time|집에 *없다*|to not be at home|자신이 *없다*|to lack confidence
-|11|않다|보||A|to not do|가지 *않다*|to not go|먹지 *않았다*|did not eat|보지 *않다*|to not see
-|12|사람|명||A|person|좋은 *사람*|good person|한국 *사람*|Korean person|많은 *사람*|many people
-|13|우리03|대||A|we/our|*우리* 나라|our country|*우리* 엄마|my/our mom|*우리* 집|our house
-|14|이05|관||A|this|*이* 사과|this apple|*이* 근처|near here|*이* 영화|this movie
-|15|그01|대||A|he/that|*그*도 왔다|he came too|*그*를 믿다|to believe him|*그*의 이름|his name
-|16|아니다|형||A|to not be|학생이 *아니다*|to not be a student|사실이 *아니다*|to not be true|꿈이 *아니야*|it's not a dream
-|17|보다01|동||A|to see|영화를 *보다*|to watch a movie|책을 *보다*|to read a book|친구를 *보다*|to see a friend
-|18|때01|명|시간|A|time/when|어릴 *때*|when young|점심 *때*|at lunchtime|그럴 *때*|at times like that
-|19|거01|의|것|A|thing (shortened)|내 *거*야|it's mine|맛있는 *거*|something delicious|할 *거*예요|I will do it
-|20|보다01|보||A|to try (doing)|먹어 *보다*|to try eating|입어 *보다*|to try on (clothes)|가 *봤다*|have been there
-|21|같다|형||A|to be like/same|친구 *같다*|to be like a friend|우리 집 *같다*|to be like my house|생각과 *같다*|to be as thought
-|22|주다01|보||A|to do for (someone)|도와 *주다*|to help out|빌려 *주다*|to lend|알려 *주세요*|please let me know
-|23|가다01|동||A|to go|학교에 *가다*|to go to school|집에 *갔다*|went home|멀리 *가다*|to go far
-|24|년02|의|年|A|year|이 *년* 동안|for two years|일 *년* 뒤|one year later|매 *년*|every year
-|25|한01|관||A|one/single|*한* 번|once|*한* 사람|one person|*한* 시간|one hour
-|26|말01|명|~과 글|A|speech/language|한국 *말*|Korean language|*말*을 듣다|to listen|*말*이 통하다|to understand each other
-|27|일01|명||A|work/matter|*일*을 하다|to do work|무슨 *일*?|what matter?|잘된 *일*|a good thing
-|28|이05|대||A|this (thing)|*이*게 뭐야?|what is this?|*이*를 어쩌나|what should I do|*이*쪽으로 오세요|come this way
-|29|때문|의||A|because of|비 *때문에*|because of rain|너 *때문이다*|it's because of you|돈 *때문에*|due to money
-|30|말하다|동||A|to speak|솔직히 *말하다*|to speak honestly|영어로 *말하다*|to speak in English|크게 *말해*|speak loudly
-|31|오다01|동||A|to come|집에 *오다*|to come home|학교에 *왔어*|came to school|빨리 *오세요*|please come quickly
-|32|알다|동||A|to know|이름을 *알다*|to know the name|잘 *알아요*|I know well|다 *알다*|to know everything
-|33|씨07|의|氏|A|Mr./Ms.|철수 *씨*|Mr. Cheolsu|김 선생님 *씨*|Mr. Kim|그 *씨*|that person
-|34|그렇다|형||A|to be so|*그럴* 수도 있다|it could be so|정말 *그래요*?|is it really so?|*그렇게* 하자|let's do that
-|35|크다01|형||A|to be big|키가 *크다*|to be tall|소리가 *크다*|the sound is loud|집이 *커요*|the house is big
-|36|또|부||A|again/also|*또* 만나요|see you again|*또* 시작이다|here we go again|*또* 다른 이유|yet another reason
-|37|일07|의|하루|A|day|삼 *일* 동안|for three days|십 *일* 후|ten days later|며칠 *일*?|which day?
-|38|많다|형||A|to be many/much|사람이 *많다*|many people|돈이 *많아요*|have much money|경험이 *많은*|with much experience
-|39|안02|부|아니|A|not|*안* 먹어요|I don't eat|*안* 가요|I'm not going|*안* 좋아하다|to not like
-|40|좋다01|형||A|to be good|날씨가 *좋다*|weather is good|기분이 *좋아*|to feel good|*좋은* 생각|good idea
-|41|더01|부||A|more|*더* 주세요|please give me more|조금 *더*|a little more|*더* 높게|higher
-|42|받다01|동|선물을 ~|A|to receive|선물을 *받다*|to receive a gift|칭찬을 *받다*|to be praised|전화를 *받다*|to answer the phone
-|43|그것|대||A|that thing|*그것*은 비밀이다|that is a secret|*그것*을 보여줘|show me that|*그것* 참 좋네|that's really good
-|44|집01|명||A|house/home|우리 *집*|my house|*집*에 가다|to go home|큰 *집*|big house
-|45|나오다|동||A|to come out|밖으로 *나오다*|to come outside|결과가 *나왔다*|results came out|TV에 *나오다*|to appear on TV
-|46|그리고|부||A|and|*그리고* 또|and also|빵 *그리고* 우유|bread and milk|*그리고* 나서|and then
-|47|문제06|명|問題|A|problem/question|시험 *문제*|exam question|*문제*가 생기다|a problem arises|어려운 *문제*|difficult problem
-|48|살다01|동||A|to live|서울에 *살다*|to live in Seoul|오래 *살다*|to live long|행복하게 *살다*|to live happily
-|49|저03|대|일인칭 대명사|A|I (polite)|*저*는 학생입니다|I am a student|*제* 이름은|my name is|*저*도 가요|I am going too
-|50|못하다|보||A|cannot|하지 *못하다*|to be unable to do|가지 *못했다*|couldn't go|말을 *못하다*|to be unable to speak
-|51|생각하다|동||A|to think|깊이 *생각하다*|to think deeply|그렇게 *생각해요*|I think so|다시 *생각하다*|to think again
-|52|모르다|동||A|to not know|잘 *모르다*|to not know well|아무것도 *모르다*|to know nothing|이유를 *모르겠어요*|I don't know the reason
-|53|속01|명||A|inside|마음 *속*|inside one's heart|가방 *속*|inside the bag|물 *속*|underwater
-|54|만들다|동||A|to make|음식을 *만들다*|to make food|친구를 *만들다*|to make friends|인형을 *만들었다*|made a doll
-|55|두01|관||A|two|*두* 사람|two people|*두* 시간|two hours|*두* 명|two persons (count)
-|56|앞|명||A|front|학교 *앞*|in front of school|*앞*으로 가다|to go forward|*앞* 모습|front view
-|57|어떤|관||A|what kind of/which|*어떤* 사람?|what kind of person?|*어떤* 음식?|what kind of food?|*어떤* 것?|which one?
-|58|잘02|부||A|well|*잘* 했어요|well done|*잘* 먹겠습니다|I will eat well|*잘* 자요|sleep well
-|59|먹다02|동|밥을 ~|A|to eat|밥을 *먹다*|to eat rice/meal|많이 *먹어*|eat a lot|약도 *먹었다*|took medicine too
-|60|오다01|보||A|to keep (doing)|해 *오다*|to have been doing|비가 *오다*|rain comes (raining)|다 *왔다*|we're almost there
-|61|원01|의|화폐 단위|A|Won (currency)|천 *원*|one thousand won|백 *원*|one hundred won|오만 *원*|fifty thousand won
-|62|생각01|명||A|thought|좋은 *생각*|good idea|*생각*이 나다|to remember|내 *생각*에는|in my opinion
-|63|어떻다|형||A|to be how|기분이 *어때요*?|how do you feel?|맛이 *어떻다*|how the taste is|*어떻게* 가요?|how do I go?
-|64|명03|의|名. 한 ~|A|person (counter)|세 *명*|three people|몇 *명*?|how many people?|한 *명*씩|one person at a time
-|65|다시01|부||A|again|*다시* 말하다|to say again|*다시* 시도하다|to try again|*다시* 오다|to come back
-|66|다른|관||A|other/different|*다른* 사람|other person|*다른* 길|another way|*다른* 것|something else
-|67|여자02|명|女子|A|woman/female|젊은 *여자*|young woman|*여자* 친구|girlfriend|*여자* 옷|women's clothes
-|68|개10|의|개|A|item (counter)|사과 세 *개*|three apples|한 *개* 더|one more item|몇 *개* 있어요?|how many items are there?
-|69|뒤01|명||A|behind/back|건물 *뒤*|behind the building|*뒤*를 보다|to look back|삼 년 *뒤*|three years later
-|70|듣다01|동|소리를 ~|A|to listen/hear|음악을 *듣다*|to listen to music|말을 *듣다*|to listen to advice|소리를 *들었다*|heard a sound
-|71|다03|부||A|all/everything|*다* 했어요|did it all|*다* 먹다|to eat everything|*다* 왔다|arrived completely
-|72|좀02|부|조금|A|a little|*좀* 비싸요|it's a little expensive|*좀* 도와주세요|please help a little|*좀* 쉬다|to rest a bit
-|73|들다01|동|여관에 ~|A|to enter/join|마음에 *들다*|to like (enter heart)|잠이 *들다*|to fall asleep|보험에 *들다*|to get insurance
-|74|싶다|보||A|to want to|가고 *싶다*|to want to go|보고 *싶어*|I miss you|먹고 *싶다*|to want to eat
-|75|가지다|동||A|to have/take|가방을 *가지다*|to have a bag|용기를 *가지다*|to have courage|물건을 *가지러*|to go get things
-|76|아이01|명||A|child/kid|어린 *아이*|young child|*아이*를 키우다|to raise a child|착한 *아이*|good child
-|77|많이|부||A|a lot/much|*많이* 드세요|please eat a lot|*많이* 아파요?|does it hurt a lot?|사람이 *많이* 오다|many people come
-|78|시간04|명|時間|A|time|*시간*이 없다|no time|점심 *시간*|lunch time|약속 *시간*|appointment time
-|79|너01|대||A|you (informal)|*너*는 누구니?|who are you?|*너*의 이름|your name|*너*랑 나|you and I
-|80|주다01|동||A|to give|물을 *주다*|to give water|돈을 *주다*|to give money|선물을 *주었다*|gave a gift
-|81|이렇다|형||A|to be like this|*이렇게* 하세요|do it like this|상황이 *이렇다*|the situation is like this|정말 *이래요*|it's really like this
-|82|어머니01|명||A|mother|우리 *어머니*|my mother|*어머니*의 손|mother's hand|친절한 *어머니*|kind mother
-|83|눈01|명|신체의 일부|A|eye|*눈*이 크다|to have big eyes|*눈*을 감다|to close eyes|*눈*이 높다|to have high standards
-|84|뭐|대||A|what|이게 *뭐*야?|what is this?|*뭐* 먹을래?|what do you want to eat?|*뭐*라고 했어?|what did you say?
-|85|다음01|명||A|next|*다음* 시간|next time|*다음* 정거장|next stop|그 *다음*에|after that
-|86|누구|대||A|who|*누구*세요?|who are you?|*누구*랑 갔어?|who did you go with?|*누구*의 책?|whose book?
-|87|전08|명|前|A|before/ago|식사 *전*|before a meal|삼 년 *전*|three years ago|잠자기 *전*|before sleeping
-|88|곳01|명||A|place|좋은 *곳*|good place|가고 싶은 *곳*|place I want to go|여러 *곳*|several places
-|89|안01|명|집 ~|A|inside|집 *안*|inside the house|가방 *안*|inside the bag|건물 *안*|inside the building
-|90|하나|수||A|one|사과 *하나*|one apple|*하나*만 주세요|give me only one|*하나*부터 열까지|from A to Z
-|91|위01|명|~아래|A|above/top|책상 *위*|on the desk|머리 *위*|above the head|산 *위*|top of the mountain
-|92|운동02|명|運動|A|exercise/sports|매일 *운동*|daily exercise|*운동*을 하다|to exercise|*운동* 선수|athlete
-|93|퍼센트|의|percent|A|percent|백 *퍼센트*|one hundred percent|오십 *퍼센트*|fifty percent|몇 *퍼센트*?|what percent?
-|94|학교|명|學校|A|school|*학교*에 가다|to go to school|우리 *학교*|our school|*학교* 생활|school life
-|95|들다04|동|꽃을 ~|A|to hold/lift|손을 *들다*|to raise one's hand|가방을 *들다*|to carry a bag|고개를 *들다*|to lift one's head
-|96|시작하다01|동|始作-|A|to start|공부를 *시작하다*|to start studying|수업이 *시작했다*|class started|이제 *시작하자*|let's start now
-|97|바로02|부||A|immediately/rightly|*바로* 출발하다|to depart immediately|*바로* 그 사람|exactly that person|*바로* 잡다|to correct/fix
-|98|어느01|관||A|which/some|*어느* 나라 사람?|person from which country?|*어느* 날|one day|*어느* 쪽이에요?|which way is it?
-|99|그래서|부||A|so/therefore|*그래서* 늦었어요|so I was late|*그래서* 어쨌어?|so what happened?|비가 왔다. *그래서* 집에 있었다|It rained. So I stayed home.
-|100|무엇|대||A|what|*무엇*을 할까?|what shall we do?|이름이 *무엇*입니까?|what is your name?|*무엇*보다 중요하다|it's more important than anything
-|101|모든|관||A|all/every|*모든* 사람|every person|*모든* 준비|all preparations|*모든* 것이 좋다|everything is good
-|102|번04|의|番|A|time/turn|한 *번* 더|one more time|여러 *번*|several times|첫 *번째*|the first time
-|103|그거|대||A|that thing|*그거* 알아?|do you know that?|*그거* 주세요|please give me that|*그거* 참 예쁘다|that is really pretty
-|104|돈01|명||A|money|*돈*을 벌다|to earn money|*돈*이 많다|to have much money|*돈*을 쓰다|to spend money
-|105|그런데|부||A|but/by the way|*그런데* 말이야|but you see|*그런데* 누구세요?|but who are you?|맛있다. *그런데* 비싸다|It's delicious. But it's expensive.
-|106|날01|명|어느 ~|A|day|좋은 *날*|a good day|쉬는 *날*|a day off|어느 *날* 갑자기|one day suddenly
-|107|여기01|대||A|here|*여기* 앉으세요|sit here|*여기* 있어요|it's here|*여기*가 어디예요?|where is this place?
-|108|모두01|부||A|all/everyone|*모두* 모이다|everyone gather|*모두* 끝났다|all finished|*모두* 얼마예요?|how much is it in total?
-|109|친구02|명|親舊|A|friend|친한 *친구*|close friend|*친구*를 만나다|to meet a friend|남자 *친구*|boyfriend
-|110|마음01|명||A|heart/mind|*마음*에 들다|to like something|*마음*이 아프다|to be heartbroken|*마음*을 먹다|to make up one's mind
-|111|후08|명|後|A|after|식사 *후*|after a meal|한 시간 *후*|one hour later|퇴근 *후*에|after work
-|112|가다01|보||A|to keep doing/progress|변해 *가다*|to keep changing|늙어 *가다*|to be getting older|해가 저물어 *간다*|the sun is setting
-|113|놓다01|보||A|to do ahead/for later|열어 *놓다*|to leave open|준비해 *놓다*|to have prepared|써 *놓은* 글|a writing written in advance
-|114|아버지|명||A|father|우리 *아버지*|my father|*아버지*를 닮다|to look like father|*아버지*의 함자|father's name
-|115|남자02|명|男子|A|man/male|젊은 *남자*|young man|*남자*답다|to be manly|멋진 *남자*|cool guy
-|116|어디01|대||A|where|*어디* 가요?|where are you going?|*어디*에 있어요?|where is it?|*어디* 보자|let's see
-|117|몸01|명||A|body|*몸*이 약하다|to have a weak body|*몸*을 챙기다|to take care of one's health|*몸* 상태|body condition
-|118|얼굴01|명||A|face|*얼굴*이 예쁘다|to have a pretty face|*얼굴*을 씻다|to wash one's face|모르는 *얼굴*|an unfamiliar face
-|119|들어가다01|동||A|to enter|방에 *들어가다*|to enter the room|학교에 *들어갔다*|started school|안으로 *들어가세요*|please go inside
-|120|왜02|부||A|why|*왜* 울어?|why are you crying?|*왜* 그랬어?|why did you do that?|이유가 *왜*?|what's the reason?
-|121|말다03|보||A|to stop/not do|걱정하지 *마세요*|don't worry|가지 *말자*|let's not go|잊지 *말아줘*|please don't forget
-|122|다르다01|형||A|to be different|성격이 *다르다*|to have different personalities|예전과 *다르다*|to be different from before|*다른* 점|different point
-|123|물01|명|바닷~|A|water|*물*을 마시다|to drink water|*물*에 빠지다|to fall into water|시원한 *물*|cool water
-|124|만나다|동||A|to meet|친구를 *만나다*|to meet a friend|우연히 *만났다*|met by chance|사람을 *만나다*|to meet people
-|125|쓰다01|동|글씨를 ~|A|to write|이름을 *쓰다*|to write a name|편지를 *썼다*|wrote a letter|글씨를 *쓰다*|to write characters
-|126|이것|대||A|this thing|*이것* 좀 봐|look at this|*이것*은 얼마예요?|how much is this?|*이것* 말고|not this one
-|127|이번01|명|-番|A|this time|*이번* 주|this week|*이번* 시험|this exam|*이번* 기회|this opportunity
-|128|길01|명|도로|A|road/path|*길*을 잃다|to get lost|*길*을 건너다|to cross the road|좁은 *길*|narrow path
-|129|생활|명|生活|A|life/living|학교 *생활*|school life|*생활*비|living expenses|*생활*이 어렵다|life is difficult
-|130|쓰다03|동|약을 ~|A|to use|컴퓨터를 *쓰다*|to use a computer|돈을 *쓰다*|to spend money|힘을 *쓰다*|to use strength
-|131|지금03|명|只今|A|now/the present|*지금*부터|from now on|*지금* 이 순간|this moment now|*지금*까지|until now
-|132|우리나라|명||A|our country (Korea)|*우리나라* 역사|our country's history|*우리나라* 사람|person of our country|*우리나라*를 사랑하다|to love our country
-|133|앉다|동||A|to sit|의자에 *앉다*|to sit on a chair|자리에 *앉으세요*|please take a seat|옆에 *앉다*|to sit next to
-|134|처음|명||A|first/beginning|*처음* 뵙겠습니다|pleased to meet you (first time)|*처음* 사랑|first love|*처음*부터 다시|again from the beginning
-|135|손01|명|신체의 일부|A|hand|*손*을 씻다|to wash hands|*손*을 잡다|to hold hands|*손*이 크다|to be generous (big hand)
-|136|몇|관||A|some/how many|*몇* 시예요?|what time is it?|*몇* 명?|how many people?|*몇* 일 뒤|a few days later
-|137|그때|명||A|then/at that time|*그때* 그 사람|that person at that time|*그때*가 좋았다|those were the good days|*그때* 알았다|found out then
-|138|찾다|동||A|to find/seek|길을 *찾다*|to find a way|친구를 *찾다*|to look for a friend|돈을 *찾다*|to withdraw money
-|139|시10|의|時|A|o'clock/hour|한 *시*|one o'clock|몇 *시*예요?|what time is it?|두 *시* 삼십 분|2:30
-|140|지금03|부|只今|A|now|*지금* 가요|I'm going now|*지금* 바로|right now|*지금* 뭐 해?|what are you doing now?
-|141|나가다|동||A|to go out|밖으로 *나가다*|to go outside|대회에 *나가다*|to enter a contest|집을 *나갔다*|left home
-|142|이야기|명||A|story/talk|재미있는 *이야기*|interesting story|*이야기*를 나누다|to have a talk|어릴 적 *이야기*|childhood story
-|143|사다|동||A|to buy|책을 *사다*|to buy a book|물건을 *샀다*|bought an item|비싸게 *사다*|to buy at a high price
-|144|아직01|부||A|yet/still|*아직* 안 왔다|hasn't come yet|*아직* 자요?|are you still sleeping?|*아직* 멀었다|still a long way to go
-|145|잡다01|동||A|to catch/hold|기회를 *잡다*|to grab an opportunity|손을 *잡다*|to hold hands|도둑을 *잡다*|to catch a thief
-|146|같이|부||A|together/like|나랑 *같이* 가|go together with me|*같이* 먹자|let's eat together|가족과 *같이*|like family
-|147|선생님|명|先生-|A|teacher|한국어 *선생님*|Korean teacher|*선생님*의 말씀|teacher's words|김 *선생님*|Mr. Kim
-|148|서다01|동||A|to stand|길에 *서다*|to stand on the street|줄을 *서다*|to stand in line|자리에 *서다*|to stand in one's place
-|149|못04|부||A|cannot|*못* 가요|I can't go|*못* 먹다|to be unable to eat|*못* 하다|to be bad at
-|150|읽다|동||A|to read|책을 *읽다*|to read a book|신문을 *읽었다*|read the newspaper|크게 *읽으세요*|read loudly
-|151|물론01|부|勿論|A|of course|*물론*이지|of course it is|*물론* 가능하다|certainly possible|*물론* 알고 있다|know it of course
-|152|동안01|명|시간의 길이|A|during/for|방학 *동안*|during vacation|며칠 *동안*|for several days|한 시간 *동안*|for an hour
-|153|책01|명|冊|A|book|*책*을 읽다|to read a book|재미있는 *책*|interesting book|*책*을 빌리다|to borrow a book
-|154|일어나다|동||A|to wake up/happen|아침에 *일어나다*|to wake up in the morning|사건이 *일어났다*|an incident happened|자리에서 *일어나다*|to stand up from a seat
-|155|시장04|명|市場|A|market|*시장*에 가다|to go to the market|전통 *시장*|traditional market|*시장*에서 장보다|to shop at the market
-|156|넣다|동||A|to put in|가방에 *넣다*|to put in a bag|설탕을 *넣다*|to add sugar|주머니에 *넣었다*|put in a pocket
-|157|중요하다02|형|重要-|A|to be important|*중요한* 약속|important appointment|가장 *중요하다*|to be most important|건강이 *중요해*|health is important
-|158|무슨|관||A|what/what kind of|*무슨* 일이야?|what's the matter?|*무슨* 색?|what color?|*무슨* 뜻이에요?|what does it mean?
-|159|어렵다|형||A|to be difficult|시험이 *어렵다*|the exam is hard|*어려운* 문제|difficult problem|생활이 *어렵다*|life is tough
-|160|힘01|명||A|strength/power|*힘*이 세다|to be strong|*힘*을 내다|to cheer up/gain strength|*힘*이 없다|to have no energy
-|161|너무01|부||A|too/so much|*너무* 비싸요|it's too expensive|*너무* 좋다|it's so good|*너무* 많이 먹다|to eat too much
-|162|나라01|명||A|country|우리 *나라*|our country|외국 *나라*|foreign country|*나라*를 지키다|to protect the country
-|163|부르다01|동|이름을 ~|A|to call/sing|이름을 *부르다*|to call a name|노래를 *부르다*|to sing a song|택시를 *부르자*|let's call a taxi
-|164|자리01|명|~가 없다|A|seat/spot|빈 *자리*|empty seat|*자리*에 앉다|to sit in a seat|*자리*가 없다|no seats available
-|165|죽다01|동|굶어 ~|A|to die|갑자기 *죽다*|to die suddenly|배고파 *죽겠다*|I'm starving to death|*죽은* 사람|dead person
-|166|쪽05|의|방향|A|side/direction|오른 *쪽*|right side|어느 *쪽*?|which side?|반대 *쪽*|opposite side
-|167|얘기|명|이야기|A|talk/story|*얘기*를 듣다|to listen to a story|어제 한 *얘기*|the talk we had yesterday|재미있는 *얘기*|funny story
-|168|학생|명|學生|A|student|초등 *학생*|elementary student|*학생*증|student ID|공부하는 *학생*|student who studies
-|169|엄마|명||A|mom|우리 *엄마*|my mom|*엄마* 보고 싶어|I miss mom|*엄마* 손|mom's hand
-|170|이름|명||A|name|내 *이름*|my name|*이름*을 적다|to write down a name|*이름*이 뭐예요?|what is your name?
-|171|하나|명||A|one (thing)|그중 *하나*|one of them|*하나*뿐인|the only one|*하나*가 되다|to become one
-|172|쉽다|형||A|to be easy|문제가 *쉽다*|the question is easy|*쉬운* 길|easy path|*쉽게* 설명하다|to explain easily
-|173|필요하다|형|必要-|A|to be necessary|돈이 *필요하다*|to need money|*필요한* 물건|necessary item|도움이 *필요해*|I need help
-|174|생기다|동||A|to occur/look like|일이 *생기다*|something happened|잘 *생겼다*|to be handsome|돈이 *생겼어*|got some money
-|175|사용하다03|동|使用-|A|to use|방을 *사용하다*|to use a room|*사용하는* 방법|how to use|카드를 *사용하다*|to use a card
-|176|남편01|명|男便|A|husband|친구의 *남편*|friend's husband|*남편*과 아내|husband and wife|내 *남편*|my husband
-|177|들어오다|동||A|to come in|집에 *들어오다*|to come home|안으로 *들어오세요*|please come inside|돈이 *들어오다*|money comes in
-|178|밖|명||A|outside|문 *밖*|outside the door|*밖*으로 나가다|to go outside|*밖*에 비 와요|it's raining outside
-|179|작다01|형||A|to be small|소리가 *작다*|sound is small|*작은* 방|small room|키가 *작아요*|to be short (height)
-|180|타다02|동|버스에 ~|A|to ride|버스를 *타다*|to ride a bus|자전거를 *타다*|to ride a bicycle|지하철을 *탔다*|took the subway
-|181|대학01|명|大學|A|university|*대학*에 가다|to go to university|*대학*생|university student|*대학* 졸업|university graduation
-|182|가운데|명||A|middle/center|방 *가운데*|middle of the room|셋 *가운데*|among the three|*가운데* 손가락|middle finger
-|183|보내다|동||A|to send/spend|편지를 *보내다*|to send a letter|시간을 *보내다*|to spend time|택배를 *보냈다*|sent a parcel
-|184|아주01|부||A|very/completely|*아주* 많다|very many|*아주* 멀다|very far|*아주* 가 버렸다|gone for good
-|185|밤01|명|어두운 때|A|night|늦은 *밤*|late night|어제 *밤*|last night|*밤*을 새우다|to stay up all night
-|186|높다|형||A|to be high/tall|산이 *높다*|mountain is high|점수가 *높다*|score is high|목소리가 *높아요*|voice is loud/high
-|187|컴퓨터|명|computer|A|computer|*컴퓨터*를 켜다|to turn on the computer|*컴퓨터* 게임|computer game|*컴퓨터*로 일하다|to work with a computer
-|188|먼저|부||A|firstly/ahead|*먼저* 가세요|please go ahead|*먼저* 시작하다|to start first|무엇보다 *먼저*|before anything else
-|189|다니다|동||A|to attend/go around|학교에 *다니다*|to attend school|회사를 *다니고* 있어요|I am working at a company|여기저기 *다니다*|to go here and there
-|190|얼마나|부||A|how much/many|*얼마나* 기다렸어요?|how long did you wait?|값이 *얼마나* 해요?|how much is the price?|*얼마나* 예쁜지 몰라요|you don't know how pretty it is
-|191|열다02|동|문을 ~|A|to open|문을 *열다*|to open the door|창문을 *열어* 줘|open the window for me|마음을 *열다*|to open one's heart
-|192|머리01|명||A|head/hair|*머리*가 아프다|to have a headache|*머리*를 자르다|to get a haircut|*머리*가 좋다|to be smart
-|193|거기01|대||A|there|*거기* 누구 없어요?|is anyone there?|*거기* 앉으세요|sit there|*거기*가 어디예요?|where is that place?
-|194|아들|명||A|son|하나뿐인 *아들*|only son|*아들*을 낳다|to give birth to a son|착한 *아들*|good son
-|195|아02|감||A|oh/ah|*아*, 그렇군요|oh, I see|*아*, 깜빡했다|ah, I forgot|*아*, 다행이다|oh, what a relief
-|196|기다리다|동||A|to wait|친구를 *기다리다*|to wait for a friend|조금만 *기다려*|wait just a bit|오래 *기다렸어요*|I waited a long time
-|197|분08|의|10시 20~|A|minute|십 *분* 뒤|ten minutes later|오 *분*만 더|just five more minutes|이십 *분* 걸려요|it takes 20 minutes
-|198|곧01|부||A|soon/shortly|*곧* 도착해요|arriving soon|*곧* 시작합니다|starting shortly|*곧* 돌아올게|I'll be back soon
-|199|오늘|명||A|today|*오늘* 날씨|today's weather|*오늘*은 여기까지|that's it for today|*오늘*이 생일이에요|today is the birthday
-|200|이거01|대||A|this (thing)|*이거* 얼마예요?|how much is this?|*이거* 먹어 봐|try eating this|*이거* 진짜 좋아|this is really good
-|201|방07|명|房|A|room|내 *방*|my room|*방*을 치우다|to clean the room|빈 *방*|empty room
-|202|아침|명||A|morning/breakfast|*아침* 일찍|early morning|*아침*을 먹다|to eat breakfast|내일 *아침*|tomorrow morning
-|203|웃다|동||A|to laugh/smile|환하게 *웃다*|to smile brightly|보고 *웃었다*|saw and laughed|소리 내어 *웃다*|to laugh out loud
-|204|그래01|감||A|yes/okay (informal)|*그래*, 알았어|okay, I got it|*그래*서?|and so?|*그래*도 좋아|it's still good
-|205|아름답다|형||A|to be beautiful|*아름다운* 풍경|beautiful scenery|목소리가 *아름답다*|voice is beautiful|마음이 *아름다워요*|the heart is beautiful
-|206|끝01|명||A|end/finish|*끝*까지 하다|to do until the end|이제 *끝*이다|it's the end now|*끝*이 보이다|the end is in sight
-|207|입|명||A|mouth|*입*을 벌리다|to open one's mouth|*입*이 무겁다|to be good at keeping secrets|*입*을 다물다|to shut one's mouth
-|208|뭐|감||A|what (exclamation)|*뭐*? 정말이야?|what? is it real?|*뭐*라고?|pardon? (what did you say?)|*뭐* 할 수 없지|well, nothing can be done
-|209|영화01|명|映畵|A|movie/film|*영화*를 보다|to watch a movie|공포 *영화*|horror movie|재미있는 *영화*|interesting movie
-|210|필요|명|비요|A|need/necessity|*필요*가 없다|there is no need|도움이 *필요*하다|to need help|*필요*한 물건|necessary items
-|211|하늘01|명||A|sky|파란 *하늘*|blue sky|*하늘*을 날다|to fly in the sky|*하늘*나라|heaven
-|212|정말01|부|正-|A|really/truly|*정말* 맛있어|it's really delicious|*정말* 고마워요|thank you truly|*정말*입니까?|is it for real?
-|213|밥01|명|~을 먹다|A|rice/meal|*밥* 먹었어?|did you eat?|*밥*을 짓다|to cook rice|따뜻한 *밥*|warm meal
-|214|입다01|동|옷을 ~|A|to wear/put on|코트를 *입다*|to wear a coat|따뜻하게 *입어*|dress warmly|새 옷을 *입었다*|put on new clothes
-|215|네03|감||A|yes (polite)|*네*, 맞아요|yes, that's right|*네*, 알겠습니다|yes, I understand|*네*? 뭐라고요?|yes? what did you say?
-|216|그림01|명||A|picture/painting|*그림*을 그리다|to draw a picture|예쁜 *그림*|pretty painting|*그림* 같은 집|house like a picture
-|217|마시다|동||A|to drink|물을 *마시다*|to drink water|차 한 잔 *마셔요*|let's drink a cup of tea|술을 *마시다*|to drink alcohol
-|218|치다02|동|얼굴을 ~|A|to hit/play|피아노를 *치다*|to play the piano|박수를 *치다*|to clap|공을 *치다*|to hit a ball
-|219|혼자01|명||A|alone|*혼자* 살다|to live alone|*혼자*서 가다|to go by oneself|나 *혼자*|me alone
-|220|나가다|보||A|to continue/go out|버텨 *나가다*|to hold out|살아 *나가다*|to go on living|이겨 *나갑시다*|let's overcome (and move forward)
-|221|술01|명|~을 먹다|A|alcohol/liquor|*술*을 마시다|to drink alcohol|*술*에 취하다|to get drunk|*술*자리|drinking gathering
-|222|사랑01|명||A|love|*사랑*에 빠지다|to fall in love|영원한 *사랑*|eternal love|*사랑*을 고백하다|to confess one's love
-|223|전화07|명|電話|A|telephone/call|*전화*를 걸다|to make a call|*전화*를 받다|to answer the phone|휴대 *전화*|mobile phone
-|224|끝나다|동||A|to end/finish|수업이 *끝나다*|class ends|드디어 *끝났다*|finally finished|*끝나고* 보자|see you after it ends
-|225|아빠|명||A|dad|우리 *아빠*|my dad|*아빠* 보고 싶어|I miss dad|*아빠* 힘내세요|cheer up dad
-|226|한번|명|-番|A|once/one time|*한번* 해 보자|let's try it once|딱 *한번*만|just once|*한번*은 이런 일이|once this happened
-|227|커피|명|coffee|A|coffee|*커피*를 마시다|to drink coffee|따뜻한 *커피*|warm coffee|아이스 *커피*|iced coffee
-|228|가슴01|명||A|chest/heart|*가슴*이 아프다|to have a chest pain (or be heartbroken)|*가슴*이 뛰다|heart beats|*가슴* 속에|in one's heart
-|229|길다02|형|밤이 ~|A|to be long|머리가 *길다*|hair is long|다리가 *길어요*|legs are long|줄이 *길다*|the line is long
-|230|회사04|명|會社|A|company/office|*회사*에 가다|to go to work|*회사* 생활|company life|큰 *회사*|big company
-|231|맛01|명||A|taste/flavor|*맛*이 있다|to be tasty|*맛*을 보다|to taste|무슨 *맛*?|what flavor?
-|232|오르다|동||A|to go up/climb|산에 *오르다*|to climb a mountain|물가가 *오르다*|prices go up|무대에 *오르다*|to go on stage
-|233|음식|명|飮食|A|food|맛있는 *음식*|delicious food|*음식*을 만들다|to make food|한국 *음식*|Korean food
-|234|꼭03|부|반드시|A|surely/exactly|*꼭* 오세요|please be sure to come|*꼭* 닮았다|to look exactly like|*꼭* 필요한 것|absolutely necessary thing
-|235|요즘|명||A|these days/lately|*요즘* 바빠요|busy lately|*요즘* 애들|kids these days|*요즘* 날씨|weather lately
-|236|계획01|명|計劃|A|plan|*계획*을 세우다|to make a plan|여행 *계획*|travel plan|*계획*대로|according to plan
-|237|얼마|명||A|how much/some amount|이거 *얼마*예요?|how much is this?|*얼마* 안 남았다|not much left|*얼마*의 돈|some amount of money
-|238|계속04|부|繼續|A|continuously/keep|*계속* 하세요|please keep going|*계속* 비가 오다|it keeps raining|*계속* 공부하다|to continue studying
-|239|아내01|명||A|wife|친구의 *아내*|friend's wife|사랑하는 *아내*|beloved wife|*아내*와 자식|wife and children
-|240|가족01|명|家族|A|family|*가족* 사진|family photo|*가족*과 함께|with family|우리 *가족*|my family
-|241|세01|관|~ 권|A|three (determiner)|*세* 명|three people|*세* 시 삼십 분|3:30|*세* 권의 책|three books
-|242|놓다01|동||A|to put/release|여기에 *놓다*|to put here|손을 *놓다*|to let go of hands|가방을 *놓았다*|placed the bag
-|243|차06|명|車|A|car/tea|*차*를 마시다|to drink tea|*차*를 타다|to ride a car|*차*가 막히다|traffic is heavy
-|244|놀다01|동||A|to play/hang out|친구랑 *놀다*|to hang out with a friend|밖에서 *놀아*|play outside|신나게 *놀았다*|had a fun time playing
-|245|도시03|명|都市|A|city|큰 *도시*|big city|*도시* 생활|city life|*도시*를 떠나다|to leave the city
-|246|나이01|명||A|age|*나이*를 먹다|to get older|*나이*가 많다|to be old|*나이*가 어떻게 되세요?|how old are you? (polite)
-|247|바꾸다|동||A|to change/exchange|기분을 *바꾸다*|to change one's mood|전화 *바꿔* 주세요|please put (the other person) on the phone|옷을 *바꿨다*|exchanged clothes
-|248|좋아하다|동||A|to like|너를 *좋아해*|I like you|한국 음식을 *좋아하다*|to like Korean food|가장 *좋아하는*|favorite
-|249|배우다01|동||A|to learn|한국어를 *배우다*|to learn Korean|열심히 *배워요*|I'm learning hard|운전을 *배웠다*|learned to drive
-|250|옆|명||A|side/next to|친구 *옆*|beside a friend|*옆* 동네|next neighborhood|*옆*에 앉아|sit next to me
-|251|어02|감||A|uh/huh|*어*, 그래|uh, okay|*어*? 진짜?|huh? really?|*어*, 알았어|uh, I got it
-|252|아래01|명||A|below/bottom|나무 *아래*|under the tree|*아래* 층|floor below|위 *아래*|up and down
-|253|그럼01|부|'그러면'의 준말|A|then/so|*그럼* 내일 봐|then see you tomorrow|*그럼* 어떡해?|then what should I do?|*그럼* 시작하자|so let's start
-|254|저04|관|멀리 있는 대상|A|that (over there)|*저* 산|that mountain (over there)|*저* 사람|that person (over there)|*저* 건물|that building (over there)
-|255|배02|명|~를 띄우다|A|boat/ship|*배*를 타다|to ride a boat|큰 *배*|big ship|*배*가 뜨다|the boat floats
-|256|산01|명|山|A|mountain|높은 *산*|high mountain|*산*에 오르다|to climb a mountain|*산*책|mountain walk
-|257|새06|관||A|new|*새* 옷|new clothes|*새* 신발|new shoes|*새*로운 시작|new start
-|258|하지만|부||A|but/however|*하지만* 괜찮아|but it's okay|*하지만* 너무 비싸|but it's too expensive|어렵다. *하지만* 해보자|It's hard. But let's try.
-|259|문05|명|門|A|door/gate|*문*을 열다|to open the door|*문*을 닫다|to close the door|교문 *문*|school gate
-|260|꽃01|명||A|flower|예쁜 *꽃*|pretty flower|*꽃*이 피다|flowers bloom|*꽃* 선물|flower gift
-|261|그동안|명||A|meantime/during that time|*그동안* 잘 지냈어?|have you been well lately?|*그동안* 고마웠어|thanks for everything until now|*그동안*의 노력|effort during that time
-|262|갑자기|부||A|suddenly|*갑자기* 비가 오다|suddenly it rains|*갑자기* 나타나다|to appear suddenly|*갑자기* 왜 그래?|why are you like this all of a sudden?
-|263|바람01|명|~이 불다|A|wind|*바람*이 불다|the wind blows|시원한 *바람*|cool breeze|*바람*을 쐬다|to get some fresh air
-|264|잘하다|동||A|to be good at/do well|축구를 *잘하다*|to be good at soccer|공부 *잘해*?|do you study well?|노래를 *잘했다*|sang well
-|265|노래01|명||A|song|*노래*를 부르다|to sing a song|슬픈 *노래*|sad song|좋아하는 *노래*|favorite song
-|266|바다|명||A|sea/ocean|깊은 *바다*|deep sea|*바다*에 가다|to go to the sea|*바다* 냄새|smell of the ocean
-|267|힘들다|형||A|to be hard/tiring|일이 *힘들다*|the work is hard|정말 *힘들어요*|it's really tiring|*힘든* 시간|difficult time
-|268|공부01|명|工夫|A|study|시험 *공부*|exam study|*공부*를 하다|to study|*공부* 벌레|study bug (nerd)
-|269|못하다|동||A|to be poor at/cannot|노래를 *못하다*|to be bad at singing|어찌할 줄 *못하다*|to not know what to do|음식을 *못해요*|I'm not good at cooking
-|270|언니|명||A|older sister (female speaker)|우리 *언니*|my older sister|친*언니*|biological older sister|*언니*라고 불러|call me 'Unnie'
-|271|분01|의|한 ~|A|person (honorific counter)|세 *분*|three people (honorific)|어느 *분*?|which person? (honorific)|손님 한 *분*|one guest
-|272|불01|명||A|fire/light|*불*이 나다|a fire breaks out|*불*을 켜다|to turn on the light|*불*을 끄다|to turn off the light
-|273|이해하다02|동|理解-|A|to understand|말을 *이해하다*|to understand words|상황을 *이해해요*|I understand the situation|충분히 *이해했다*|understood fully
-|274|선생01|명|先生|A|teacher/mister|김 *선생*|Mr. Kim|*선생* 노릇|acting as a teacher|그 *선생*|that teacher
-|275|돌아가다|동||A|to go back/return|집으로 *돌아가다*|to go back home|다시 *돌아가*|go back again|고향에 *돌아갔다*|returned to hometown
-|276|기분01|명|氣分|A|mood/feeling|*기분*이 좋다|to be in a good mood|*기분*이 나빠요|to feel bad|*기분* 전환|change of mood
-|277|옷01|명||A|clothes|*옷*을 입다|to put on clothes|*옷*을 벗다|to take off clothes|예쁜 *옷*|pretty clothes
-|278|전08|관|前|A|former/ex-|*전* 대통령|former president|*전* 남편|ex-husband|*전* 여자 친구|ex-girlfriend
-|279|꿈01|명||A|dream|*꿈*을 꾸다|to dream|*꿈*을 이루다|to achieve a dream|나쁜 *꿈*|bad dream
-|280|할머니|명||A|grandmother|친*할머니*|paternal grandmother|우리 *할머니*|my grandmother|*할머니* 댁|grandmother's house
-|281|회의04|명|會議|A|meeting|*회의*를 하다|to have a meeting|*회의* 중|in a meeting|긴급 *회의*|emergency meeting
-|282|이야기하다|동||A|to talk/chat|친구와 *이야기하다*|to talk with a friend|나중에 *이야기하자*|let's talk later|진지하게 *이야기하다*|to talk seriously
-|283|나무01|명||A|tree/wood|*나무*를 심다|to plant a tree|큰 *나무*|big tree|*나무* 의자|wooden chair
-|284|자다01|동||A|to sleep|낮잠을 *자다*|to take a nap|푹 *자요*|sleep well|늦게까지 *자다*|to sleep in late
-|285|오늘|부||A|today|*오늘* 만나자|let's meet today|*오늘* 바로|today right away|*오늘*따라|especially today
-|286|걷다02|동|느릿느릿 ~|A|to walk|천천히 *걷다*|to walk slowly|공원을 *걷다*|to walk in the park|함께 *걸어요*|let's walk together
-|287|이때|명||A|at this time|*이때* 나타났다|appeared at this time|바로 *이때*|right at this moment|*이때*를 기다렸다|waited for this time
-|288|시간04|의|時間|A|hour (duration)|한 *시간*|one hour|기다린 *시간*|the time spent waiting|몇 *시간* 동안?|for how many hours?
-|289|물건|명|物件|A|object/thing|*물건*을 사다|to buy an item|무거운 *물건*|heavy object|내 *물건*|my stuff
-|290|빨리|부||A|quickly/fast|*빨리* 오세요|please come quickly|*빨리* 먹다|to eat fast|최대한 *빨리*|as fast as possible
-|291|시작되다01|동|始作-|A|to begin|수업이 *시작되다*|class begins|공사가 *시작되었다*|construction began|곧 *시작될* 영화|movie that will start soon
-|292|둘01|수||A|two|*둘* 중에 하나|one of the two|우리 *둘*|the two of us|사과 *둘*|two apples
-|293|설명하다|동|說明-|A|to explain|자세히 *설명하다*|to explain in detail|이유를 *설명해*|explain the reason|방법을 *설명하다*|to explain the method
-|294|살04|의|한 ~|A|years old|스무 *살*|twenty years old|여섯 *살* 아이|six-year-old child|몇 *살*이에요?|how old are you?
-|295|음악01|명|音樂|A|music|*음악*을 듣다|to listen to music|클래식 *음악*|classical music|*음악* 감상|appreciating music
-|296|아프다|형||A|to be painful/sick|머리가 *아프다*|to have a headache|몸이 *아파요*|to be sick|마음이 *아픈*|heartbreaking
-|297|비01|명|~가 내리다|A|rain|*비*가 오다|it's raining|*비*를 맞다|to get rained on|*비*가 그치다|the rain stops
-|298|고향02|명|故鄕|A|hometown|*고향*에 내려가다|to go down to one's hometown|*고향* 친구|hometown friend|그리운 *고향*|missed hometown
-|299|놀라다|동||A|to be surprised|깜짝 *놀라다*|to be startled|보고 *놀랐다*|was surprised to see|소리에 *놀라다*|to be surprised by a sound
-|300|울다01|동|울음을 ~|A|to cry|아이처럼 *울다*|to cry like a child|소리 내어 *울다*|to cry out loud|슬퍼서 *울었다*|cried because I was sad
-|301|은행02|명|銀行|A|bank|*은행*에 가다|to go to the bank|*은행* 계좌|bank account|*은행*에서 돈을 찾다|to withdraw money from the bank
-|302|지내다01|동||A|to spend time/live|잘 *지내요*|I'm doing well|함께 *지내다*|to stay together|어떻게 *지냈어*?|how have you been?
-|303|결혼|명|結婚|A|marriage|*결혼*을 하다|to get married|*결혼* 기념일|wedding anniversary|*결혼*식|wedding ceremony
-|304|동생01|명||A|younger sibling|남*동생*|younger brother|여*동생*|younger sister|친*동생*|one's biological younger sibling
-|305|예06|감||A|yes (polite)|*예*, 알겠습니다|yes, I understand|*예*, 맞아요|yes, that's right|*예*, 선생님|yes, teacher
-|306|오후02|명|午後|A|afternoon|*오후* 두 시|2:00 PM|오늘 *오후*|this afternoon|*오후* 내내|all afternoon
-|307|빠르다|형||A|to be fast/early|걸음이 *빠르다*|to be fast-paced|말이 *빨라요*|to speak fast|시간이 정말 *빨라*|time is really fast
-|308|아기01|명||A|baby|귀여운 *아기*|cute baby|*아기*가 잠들다|the baby falls asleep|*아기* 옷|baby clothes
-|309|아저씨|명||A|middle-aged man/mister|옆집 *아저씨*|the man next door|모르는 *아저씨*|an unfamiliar man|식당 *아저씨*|the man at the restaurant
-|310|옛날|명||A|old days/past|*옛날* 이야기|old story/folktale|*옛날* 사람|people from the past|*옛날* 아주 먼 옛날|once upon a time
-|311|달05|의||A|month (counter)|한 *달* 동안|for one month|몇 *달* 뒤|a few months later|세 *달*째|the third month
-|312|이곳|대||A|this place|*이곳*은 처음이다|it's my first time here|*이곳*에 살다|to live here|*이곳*을 떠나다|to leave this place
-|313|딸01|명||A|daughter|큰 *딸*|eldest daughter|*딸*을 낳다|to give birth to a daughter|하나뿐인 *딸*|only daughter
-|314|마지막|명||A|last/final|*마지막* 기회|last chance|*마지막*으로 한 번 더|one last time|*마지막* 인사|final farewell
-|315|병원02|명|病院|A|hospital|*병원*에 가다|to go to the hospital|*병원* 예약|hospital appointment|*병원*에 입원하다|to be hospitalized
-|316|경찰04|명|警察|A|police|*경찰*에 신고하다|to report to the police|*경찰* 아저씨|police officer|*경찰*관|police officer
-|317|저녁|명||A|evening/dinner|*저녁*을 먹다|to eat dinner|늦은 *저녁*|late evening|오늘 *저녁*에 봐|see you tonight
-|318|그러면|부||A|then/if so|*그러면* 안 돼|you shouldn't do that|*그러면* 다행이다|that's a relief then|*그러면* 내일 봐|then see you tomorrow
-|319|넓다|형||A|to be wide/spacious|방이 *넓다*|the room is spacious|어깨가 *넓은*|broad-shouldered|마음이 *넓다*|to be generous (wide heart)
-|320|시험03|명|試驗|A|exam/test|*시험*을 보다|to take an exam|*시험* 기간|exam period|*시험*에 합격하다|to pass an exam
-|321|잠01|명||A|sleep|*잠*이 오다|to feel sleepy|*잠*을 자다|to sleep|*잠*이 부족하다|to lack sleep
-|322|건강03|명|健康|A|health|*건강*을 챙기다|to take care of health|*건강*이 최고다|health is the most important|*건강*한 음식|healthy food
-|323|가깝다|형||A|to be close/near|거리가 *가깝다*|the distance is close|*가까운* 사이|close relationship|집에서 *가까워요*|it's near home
-|324|건물03|명|建物|A|building|높은 *건물*|tall building|*건물* 안으로|into the building|학교 *건물*|school building
-|325|외국02|명|外國|A|foreign country|*외국*에 나가다|to go abroad|*외국* 친구|foreign friend|*외국*어 공부|studying a foreign language
-|326|밑01|명||A|bottom/below|책상 *밑*|under the desk|나무 *밑*에서|under the tree|맨 *밑*에|at the very bottom
-|327|팔다|동||A|to sell|물건을 *팔다*|to sell goods|비싸게 *팔았다*|sold it at a high price|과일을 *파는* 곳|place that sells fruit
-|328|열심히|부|熱心-|A|hard/diligently|*열심히* 공부하다|to study hard|*열심히* 일하다|to work diligently|*열심히* 살다|to live life to the fullest
-|329|일하다|동||A|to work|회사에서 *일하다*|to work at a company|열심히 *일해요*|I work hard|밤늦게까지 *일하다*|to work until late at night
-|330|조금01|명||A|a little bit|*조금*만 더|just a little more|*조금*의 여유|a bit of leisure|*조금* 남았다|a little bit is left
-|331|팀01|명|team|A|team|우리 *팀*|our team|*팀*을 나누다|to divide into teams|*팀* 프로젝트|team project
-|332|부모01|명|父母|A|parents|*부모*님 말씀|parents' words|*부모*님께 효도하다|to be filial to parents|사랑하는 *부모*님|dear parents
-|333|올라가다|동||A|to go up|계단을 *올라가다*|to go up the stairs|성적이 *올라갔다*|grades went up|옥상으로 *올라가세요*|please go up to the rooftop
-|334|그날|명||A|that day|*그날* 이후|after that day|*그날*의 기억|memory of 그날|바로 *그날*|that very day
-|335|자주01|부||A|often|*자주* 만나요|let's meet often|*자주* 가는 카페|a cafe I often go to|*자주* 아프다|to get sick often
-|336|담배|명||A|cigarette/tobacco|*담배*를 피우다|to smoke|*담배*를 끊다|to quit smoking|*담배* 냄새|cigarette smell
-|337|할아버지|명||A|grandfather|외*할아버지*|maternal grandfather|우리 *할아버지*|my grandfather|*할아버지* 댁|grandfather's house
-|338|태어나다|동||A|to be born|서울에서 *태어나다*|to be born in Seoul|딸로 *태어났다*|was born as a daughter|*태어난* 날|the day one was born
-|339|벌써|부||A|already|*벌써* 끝났어?|is it already over?|*벌써* 열 시다|it's already 10 o'clock|*벌써* 도착했다|already arrived
-|340|재미있다|형||A|to be interesting/fun|영화가 *재미있다*|the movie is fun|*재미있는* 사람|funny person|정말 *재미있어요*|it's really interesting
-|341|가르치다01|동||A|to teach|한국어를 *가르치다*|to teach Korean|선생님이 *가르쳐* 주다|the teacher teaches me|노래를 *가르치다*|to teach a song
-|342|형01|명|兄|A|older brother (male speaker)|우리 *형*|my older brother|친*형*|biological older brother|*형*이라고 불러|call me 'Hyung'
-|343|모두01|명||A|everyone/all|*모두*가 왔다|everyone came|*모두*의 바람|everyone's wish|그들 *모두*|all of them
-|344|버스02|명|bus|A|bus|*버스*를 타다|to ride a bus|*버스* 정류장|bus stop|시내 *버스*|city bus
-|345|사진07|명|寫眞|A|photo/picture|*사진*을 찍다|to take a photo|가족 *사진*|family photo|*사진* 속에|in the photo
-|346|제일04|명|第一|A|the first/most|*제일* 좋아하다|to like the most|*제일* 큰 것|the biggest one|세계 *제일*|best in the world
-|347|아마01|부||A|perhaps/maybe|*아마* 그럴 거야|maybe it's so|*아마* 안 올 거야|maybe they won't come|*아마*도|probably
-|348|얘기하다|동||A|to talk|어제 *얘기하다*|talked yesterday|솔직히 *얘기해*|speak honestly|나중에 *얘기하자*|let's talk later
-|349|조금01|부||A|a little|*조금* 더|a little more|*조금* 비싸다|a little expensive|*조금*만 주세요|just a little, please
-|350|다리01|명|신체의 일부|A|leg|*다리*가 길다|to have long legs|*다리*를 다치다|to hurt one's leg|*다리*가 붓다|legs are swollen
-|351|아무01|관||A|any|*아무* 사람이나|any person|*아무* 것도 없다|there is nothing|*아무* 일도 아니다|it's nothing
-|352|항상|부|恒常|A|always|*항상* 고맙다|always thankful|*항상* 똑같다|always the same|*항상* 웃다|to always smile
-|353|해01|명||A|sun/year|*해*가 뜨다|the sun rises|올 *해*|this year|*해*가 지다|the sun sets
-|354|비슷하다02|형||A|to be similar|생김새가 *비슷하다*|to look similar|생각이 *비슷해요*|thoughts are similar|서로 *비슷한*|similar to each other
-|355|달러|의|dollar|A|dollar|백 *달러*|one hundred dollars|*달러* 환율|dollar exchange rate|일 *달러* 지폐|one-dollar bill
-|356|사랑하다|동||A|to love|너를 *사랑해*|I love you|가족을 *사랑하다*|to love one's family|*사랑하는* 사람|the person one loves
-|357|여름01|명||A|summer|더운 *여름*|hot summer|*여름* 방학|summer vacation|*여름* 옷|summer clothes
-|358|싫다01|형||A|to dislike/be unpleasant|공부가 *싫다*|to hate studying|가기 *싫어요*|I don't want to go|*싫은* 소리|unpleasant words
-|359|그러니까|부||A|so/therefore|*그러니까* 내 말은|so what I mean is|*그러니까* 조심해|so be careful|*그러니까* 말이야|exactly (that's what I'm saying)
-|360|값|명||A|price/value|물건 *값*|price of an item|*값*이 비싸다|the price is high|*값*을 깎다|to bargain/lower the price
-|361|자동차|명|自動車|A|car/automobile|*자동차*를 타다|to ride a car|*자동차* 운전|driving a car|*자동차* 사고|car accident
-|362|개월|의|個月|A|month (duration)|육 *개월* 동안|for six months|삼 *개월* 뒤|three months later|몇 *개월* 됐어?|how many months has it been?
-|363|공부하다|동|工夫-|A|to study|열심히 *공부하다*|to study hard|한국어를 *공부해요*|I study Korean|밤새 *공부하다*|to study all night
-|364|닦다01|동||A|to wipe/brush|이를 *닦다*|to brush one's teeth|구두를 *닦다*|to shine shoes|책상을 *닦다*|to wipe the desk
-|365|말씀|명||A|word/speech (honorific)|*말씀* 하세요|please speak|선생님 *말씀*|teacher's words|*말씀* 낮추세요|please speak comfortably (lower your speech)
-|366|괜찮다|형||A|to be okay|정말 *괜찮아요*|it's really okay|*괜찮은* 방법|a decent way|몸은 *괜찮니*?|is your body (health) okay?
-|367|눈물01|명||A|tear|*눈물*이 나다|to cry (tears come out)|*눈물을* 닦다|to wipe away tears|기쁨의 *눈물*|tears of joy
-|368|아니01|부||A|no|*아니*, 됐어|no, it's fine|*아니* 이게 뭐야?|no, what is this?|*아니*라고 말하다|to say no
-|369|주인01|명|主人|A|owner/host|가게 *주인*|shop owner|집 *주인*|landlord|*주인* 없는 물건|ownerless object
-|370|반07|명|半|A|half|*반*으로 나누다|to divide in half|한 시간 *반*|one and a half hours|*반*만 주세요|please give me only half
-|371|귀01|명||A|ear|*귀*가 밝다|to have sharp hearing|*귀*를 기울이다|to listen carefully|*귀*가 아프다|ears hurt
-|372|미터02|의|meter|A|meter|백 *미터* 달리기|100-meter dash|몇 *미터*예요?|how many meters is it?|오백 *미터* 앞|500 meters ahead
-|373|배01|명|신체의 일부|A|stomach/belly|*배*가 고프다|to be hungry|*배*가 나오다|to have a belly|*배*가 아파요|I have a stomachache
-|374|아파트|명|apartment|A|apartment|*아파트*에 살다|to live in an apartment|새 *아파트*|new apartment|*아파트* 단지|apartment complex
-|375|가끔|부||A|sometimes|*가끔* 만나요|we meet sometimes|*가끔* 생각나다|to remember occasionally|*가끔*은 그럴 때도|sometimes it's like that
-|376|술06|의|밥 한 ~|A|spoonful|밥 한 *술*|a spoonful of rice|한 *술* 뜨다|to take a spoonful|딱 한 *술*만|just one spoonful
-|377|짧다|형||A|to be short|머리가 *짧다*|hair is short|*짧은* 치마|short skirt|시간이 *짧아요*|time is short
-|378|고맙다01|형||A|to be thankful|정말 *고맙습니다*|thank you so much|도와줘서 *고마워*|thanks for helping|*고마운* 마음|thankful heart
-|379|그곳|대||A|that place|*그곳*에 가다|to go to that place|*그곳*은 어디예요?|where is that place?|*그곳*의 날씨|the weather there
-|380|보다02|부|한층 더|A|more/even more|*보다* 나은 미래|a better future|*보다* 빠르게|even faster|*보다* 멀리|even further
-|381|바쁘다|형||A|to be busy|요즘 *바빠요*|I'm busy lately|*바쁜* 사람|busy person|일 때문에 *바쁘다*|to be busy with work
-|382|나쁘다01|형||A|to be bad|기분이 *나쁘다*|to feel bad|성적이 *나빠요*|grades are bad|*나쁜* 습관|bad habit
-|383|게임|명|game|A|game|*게임*을 하다|to play a game|컴퓨터 *게임*|computer game|재미있는 *게임*|fun game
-|384|잔03|명|盞|A|cup/glass (counter)|커피 한 *잔*|a cup of coffee|맥주 두 *잔*|two glasses of beer|*잔*을 비우다|to empty the glass
-|385|있다01|동||A|to stay/remain|집에 *있어라*|stay at home|가만히 *있어*|stay still|여기 *있을게*|I'll stay here
-|386|언제01|부||A|when|*언제* 와요?|when are you coming?|*언제* 시작해?|when does it start?|*언제* 만날까?|when shall we meet?
-|387|내려오다|동||A|to come down|계단으로 *내려오다*|to come down the stairs|산에서 *내려왔다*|came down from the mountain|아래로 *내려오세요*|please come down
-|388|손님|명||A|guest/customer|반가운 *손님*|welcome guest|*손님*을 맞다|to greet a guest|식당 *손님*|restaurant customer
-|389|아무01|대||A|anyone/anything|*아무*나 오세요|anyone can come|*아무* 것도 몰라요|I don't know anything|*아무* 데나 앉아|sit anywhere
-|390|뉴스|명|news|A|news|*뉴스*를 보다|to watch the news|오늘의 *뉴스*|today's news|*뉴스*에 나오다|to appear on the news
-|391|수업04|명|授業|A|class/lesson|*수업*에 가다|to go to class|*수업* 시간|class time|한국어 *수업*|Korean class
-|392|겨울|명||A|winter|추운 *겨울*|cold winter|*겨울* 방학|winter vacation|*겨울* 옷|winter clothes
-|393|층02|명|層|A|floor/layer|이 *층* 건물|two-story building|삼 *층*으로 오세요|come to the 3rd floor|매 *층*마다|on every floor
-|394|안다01|동||A|to hug/hold|아이를 *안다*|to hold a child|꼭 *안아* 주다|to give a big hug|가슴에 *안다*|to hold in one's chest
-|395|잊다01|동||A|to forget|약속을 *잊다*|to forget an appointment|이름을 *잊었다*|forgot the name|꿈을 *잊지* 마|don't forget your dreams
-|396|반11|명|班|A|class/group|우리 *반* 친구|classmate|*반*이 바뀌다|the class changes|일 *반* 학생|Class 1 student
-|397|텔레비전|명|television|A|television|*텔레비전*을 켜다|to turn on the TV|*텔레비전* 시청|watching television|큰 *텔레비전*|big television
-|398|씻다|동||A|to wash|손을 *씻다*|to wash hands|얼굴을 *씻어요*|I wash my face|깨끗이 *씻다*|to wash cleanly
-|399|늦다|형||A|to be late|시간이 *늦다*|time is late|*늦은* 밤|late night|약속에 *늦었어요*|I'm late for the appointment
-|400|편지02|명|便紙|A|letter|*편지*를 쓰다|to write a letter|*편지*를 보내다|to send a letter|연애 *편지*|love letter
-|401|센티미터|의|centimeter|A|centimeter|오 *센티미터*|five centimeters|키가 몇 *센티미터*?|how many cm tall?|*센티미터* 단위|centimeter units
-|402|설명|명|說明|A|explanation|자세한 *설명*|detailed explanation|*설명*을 듣다|to listen to an explanation|제품 *설명*|product description
-|403|세13|의|歲|A|years old (formal)|이십 *세*|20 years of age|몇 *세*입니까?|how many years old?|만 육 *세*|full six years old
-|404|티브이|명|TV|A|TV|*티브이*를 보다|to watch TV|*티브이* 채널|TV channel|*티브이* 프로|TV program
-|405|봄01|명||A|spring|따뜻한 *봄*|warm spring|*봄* 나들이|spring outing|*봄*이 오다|spring is coming
-|406|어깨01|명||A|shoulder|*어깨*가 넓다|to have broad shoulders|*어깨*를 주무르다|to massage shoulders|*어깨*동무|putting arms around shoulders
-|407|부부03|명|夫婦|A|married couple|잉꼬 *부부*|lovebirds (devoted couple)|*부부* 싸움|couple's quarrel|신혼 *부부*|newlyweds
-|408|여행02|명|旅行|A|travel/trip|*여행*을 가다|to go on a trip|세계 *여행*|world travel|*여행* 가방|suitcase
-|409|공01|명|축구~|A|ball|*공*을 던지다|to throw a ball|*공*을 차다|to kick a ball|축구 *공*|soccer ball
-|410|오월01|명|五月|A|May|*오월* 초|early May|*오월*의 신부|May bride|*오월*은 가정의 달|May is family month
-|411|쉬다03|동|편안히 ~|A|to rest|집에서 *쉬다*|to rest at home|잠시 *쉬어* 가다|to take a short break|푹 *쉬세요*|get plenty of rest
-|412|과10|명|課|A|lesson/chapter|제 일 *과*|Lesson 1|*과*를 공부하다|to study a chapter|다음 *과*|the next lesson
-|413|오빠|명||A|older brother (female speaker)|우리 *오빠*|my older brother|친*오빠*|biological older brother|*오빠*라고 불러|call me 'Oppa'
-|414|사월02|명|四月|A|April|*사월* 한달|the month of April|*사월* 초파리|April showers (contextual)|*사월*의 꽃|April flowers
-|415|언제01|대||A|when/anytime|*언제*든 괜찮아|anytime is fine|*언제*가 좋니?|when is a good time?|도대체 *언제*?|when on earth?
-|416|예쁘다|형||A|to be pretty|얼굴이 *예쁘다*|face is pretty|*예쁜* 꽃|pretty flower|옷이 참 *예쁘네*|the clothes are so pretty
-|417|나중01|명||A|later|*나중*에 봐요|see you later|*나중*으로 미루다|to postpone until later|결국 *나중*에는|ultimately in the end
-|418|맛있다|형||A|to be delicious|음식이 *맛있다*|the food is delicious|정말 *맛있어요*|it's really tasty|*맛있는* 냄새|delicious smell
-|419|며칠|명||A|a few days/what date|*며칠* 동안|for a few days|오늘이 *며칠*이지?|what date is it today?|*며칠* 뒤에 봐|see you in a few days
-|420|내려가다|동||A|to go down|계단으로 *내려가다*|to go down the stairs|지하로 *내려가다*|to go down to the basement|성적이 *내려갔다*|grades went down
-|421|쓰레기|명||A|trash/garbage|*쓰레기*를 버리다|to throw away trash|*쓰레기* 봉투|trash bag|*쓰레기*통|trash can
-|422|고기01|명||A|meat|*고기*를 굽다|to grill meat|맛있는 *고기*|delicious meat|*고기* 반찬|meat side dish
-|423|가져오다|동||A|to bring|우산을 *가져오다*|to bring an umbrella|책을 *가져왔니*?|did you bring the book?|이쪽으로 *가져오세요*|please bring it here
-|424|준비|명|準備|A|preparation|*준비* 끝!|preparation finished!|시험 *준비*|exam preparation|*준비* 운동|warm-up exercise
-|425|구월02|명|九月|A|September|*구월*의 가을|September autumn|*구월* 학기|September semester|*구월* 초순|early September
-|426|유월01|명|六월|A|June|*유월* 중순|mid-June|*유월*의 장미|June roses|*유월* 한여름|the middle of June
-|427|허리01|명||A|waist/lower back|*허리*가 아프다|to have a backache|*허리*를 펴다|to straighten one's back|*허리* 치수|waist size
-|428|새03|명|날짐승|A|bird|*새*가 날다|a bird flies|*새* 소리|birdsong|작은 *새*|small bird
-|429|영어02|명|英語|A|English (language)|*영어* 선생님|English teacher|*영어* 공부|studying English|*영어*로 말하다|to speak in English
-|430|대답하다|동|對答-|A|to answer|질문에 *대답하다*|to answer a question|크게 *대답해*|answer loudly|*대답하지* 않았다|didn't answer
-|431|벗다|동||A|to take off|옷을 *벗다*|to take off clothes|신발을 *벗으세요*|please take off your shoes|모자를 *벗다*|to take off a hat
-|432|준비하다|동|準備-|A|to prepare|식사를 *준비하다*|to prepare a meal|미리 *준비해요*|I prepare in advance|갈 *준비하자*|let's get ready to go
-|433|돕다|동||A|to help|친구를 *돕다*|to help a friend|서로 *돕고* 살다|to live helping each other|집안일을 *도와요*|I help with housework
-|434|달05|명||A|moon|*달*이 뜨다|the moon rises|밝은 *달*|bright moon|초승*달*|crescent moon
-|435|삼월|명|三월|A|March|*삼월*의 봄|March spring|*삼월* 개학|March school start|*삼월* 한 달|the month of March
-|436|키01|명|신장|A|height|*키*가 크다|to be tall|*키*를 재다|to measure height|*키*가 작아요|to be short
-|437|걱정|명||A|worry/anxiety|*걱정*이 태산|a mountain of worries|*걱정*하지 마세요|don't worry|*걱정*을 끼치다|to cause worry
-|438|결혼하다|동|結婚-|A|to get married|연애하고 *결혼하다*|to date then marry|내년에 *결혼해요*|getting married next year|일찍 *결혼했다*|married early
-|439|누나01|명||A|older sister (male speaker)|우리 *누나*|my older sister|친*누나*|biological older sister|*누나*랑 같이 가|go with your sister
-|440|질문|명|質問|A|question|*질문*이 있어요|I have a question|*질문*에 답하다|to answer a question|날카로운 *질문*|sharp question
-|441|근처|명|近處|A|nearby/vicinity|학교 *근처*|near school|우리 집 *근처*|near my house|*근처* 공원|nearby park
-|442|부모님|명|父母-|A|parents (polite)|*부모님*께 인사|greeting parents|*부모님*을 닮다|to look like one's parents|효성 지극한 *부모님*|devoted parents
-|443|그02|감||A|well/um|*그*, 저기|well, that is|*그*, 글쎄요|well, I'm not sure|*그*, 뭐라고 할까?|well, how should I say?
-|444|마리01|의||A|animal (counter)|개 세 *마리*|three dogs|한 *마리*만 주세요|give me just one (animal)|고양이 몇 *마리*?|how many cats?
-|445|비행기|명|飛行機|A|airplane|*비행기*를 타다|to ride an airplane|*비행기* 표|airplane ticket|*비행기* 안에서|on the plane
-|446|뜨겁다|형||A|to be hot (touch)|커피가 *뜨겁다*|the coffee is hot|*뜨거운* 여름|hot summer|날씨가 *뜨겁네요*|the weather is roasting
-|447|낮|명||A|daytime|*낮*과 밤|day and night|*낮*에 만나다|to meet during the day|긴 *낮*|long daytime
+1|34|그러나|부||A|but/however|*그러나* 사실은|but the truth is|*그러나* 이미 늦었다|but it's already late|어렵다. *그러나* 해보자|it's hard. but let's try
+2|83|이런01|관||A|this kind of|*이런* 일|this kind of matter|*이런* 사람|this kind of person|*이런* 기회|this kind of opportunity
+3|95|함께|부||A|together|가족과 *함께*|together with family|*함께* 가다|to go together|우리 *함께*|we together
+4|104|나다01|동||A|to occur/arise|생각이 *나다*|to remember|불이 *나다*|a fire breaks out|냄새가 *나다*|to smell
+5|117|여러|관||A|several/various|*여러* 나라|several countries|*여러* 번|several times|*여러* 가지|various kinds
+6|121|버리다01|보||A|to end up (doing)|잊어 *버리다*|to completely forget|먹어 *버렸다*|ended up eating it|잃어 *버리다*|to lose (something)
+7|127|가장01|부||A|most|*가장* 빠르다|to be the fastest|*가장* 좋아하다|to like the most|*가장* 큰 문제|the biggest problem
+8|167|내다02|동|길을 ~|A|to make/produce|소리를 *내다*|to make a sound|시간을 *내다*|to make time|길을 *내다*|to clear a path
+9|178|사이01|명||A|between/relationship|친구 *사이*|between friends|건물 *사이*|between buildings|둘 *사이*가 좋다|they have a good relationship
+10|182|내다02|보|참아 ~|A|to manage to do|끝내 *내다*|to finish off|이겨 *내다*|to overcome|참아 *냈다*|managed to endure
+11|208|역사04|명|歷史|A|history|한국의 *역사*|history of Korea|오랜 *역사*|long history|*역사*를 배우다|to learn history
+12|210|이제01|부||A|now|*이제* 그만|stop now|*이제* 다 됐다|it's all done now|*이제* 어디 가?|where are you going now?
+13|243|내리다01|동|눈이 ~|A|to fall/get off|비가 *내리다*|it's raining|버스에서 *내리다*|to get off the bus|값이 *내렸다*|the price fell
+14|289|묻다03|동|길을 ~|A|to ask|길을 *묻다*|to ask for directions|선생님께 *물어보자*|let's ask the teacher|이름을 *물었다*|asked the name
+15|311|서로01|부||A|each other|*서로* 돕다|to help each other|*서로* 사랑하다|to love each other|*서로* 다른 생각|different thoughts from each other
+16|327|떠나다|동||A|to leave|여행을 *떠나다*|to go on a trip (leave for travel)|고향을 *떠나다*|to leave one's hometown|멀리 *떠났다*|left for a far place
+17|370|이제01|명||A|now/the present|*이제*부터 시작|starting from now|*이제*야 알았다|just found out now|*이제* 그만해|stop it now
+18|371|교수06|명|敎授|A|professor|대학 *교수*|university professor|*교수*님 말씀|professor's words|*교수*직|professorship
+19|377|돌아오다|동||A|to return/come back|집에 *돌아오다*|to come home|제자리로 *돌아오다*|to return to one's place|곧 *돌아올게*|I'll come back soon
+20|393|매우01|부||A|very/greatly|*매우* 중요하다|very important|*매우* 덥다|very hot|*매우* 기쁘다|very happy
+21|439|그리다02|동|그림을 ~|A|to draw/paint|그림을 *그리다*|to draw a picture|얼굴을 *그렸다*|drew a face|지도에 *그리다*|to draw on a map
+22|512|학년|명|學年|A|school grade/year|일 *학년*|first grade|저*학년*|lower grades|*학년*이 올라가다|to move up a grade
+23|513|신문10|명|新聞|A|newspaper|*신문*을 읽다|to read the newspaper|오늘 *신문*|today's paper|*신문* 기자|newspaper reporter
+24|514|가지다|보||A|to keep (progressive)|살아 *가지고*|to be living|돈을 *가져* 가다|to take money|그걸 *가지고*|with that
+25|564|발01|명|신체의 일부|A|foot|*발*이 크다|to have big feet|*발*을 씻다|to wash one's feet|*발*을 다치다|to hurt one's foot
+26|576|말다03|동|그만두다|A|to stop/quit|하기로 하다가 *말다*|to start then stop|그만 *두고* 말았다|ended up quitting|하다 *말* 거면 하지 마|if you're going to quit halfway, don't do it
+27|590|적다02|형|경험이 ~|A|to be few/little|사람이 *적다*|to be few people|돈이 *적다*|to be little money|양이 *적어요*|the amount is small
+28|622|참01|부|참으로|A|really/truly|*참* 예쁘다|really pretty|*참* 좋은 사람|truly good person|*참* 잘했어요|very well done
+29|653|어른01|명||A|adult|*어른*이 되다|to become an adult|*어른* 말씀을 듣다|to listen to adults|공경해야 할 *어른*|elders to respect
+30|689|환자03|명|患者|A|patient|병원의 *환자*|hospital patient|*환자*를 치료하다|to treat a patient|중환자실의 *환자*|patient in the ICU
+31|699|대화06|명|對話|A|conversation|*대화*를 나누다|to have a conversation|*대화*가 안 통하다|cannot communicate|진지한 *대화*|serious conversation
+32|701|올해|명||A|this year|*올해* 목표|this year's goal|*올해* 들어|since the start of this year|*올해* 스무 살|twenty years old this year
+33|716|걸다02|동|옷을 ~|A|to hang|옷을 *걸다*|to hang clothes|전화를 *걸다*|to make a phone call|그림을 *걸었다*|hung a painting
+34|718|멀다02|형|갈 길이 ~|A|to be far|거리가 *멀다*|the distance is far|집에서 *멀어요*|it's far from home|*먼* 훗날|the distant future
+35|722|잠시|부|暫時|A|for a moment|*잠시*만 기다리세요|please wait a moment|*잠시* 쉬다|to rest for a while|*잠시* 뒤에|after a short while
+36|756|잃다|동||A|to lose|길을 *잃다*|to get lost|돈을 *잃었다*|lost money|희망을 *잃다*|to lose hope
+37|794|언제나|부||A|always/anytime|*언제나* 환영이다|always welcome|*언제나* 변함없다|always the same/unchanging|*언제나* 그 자리에|always in that spot
+38|802|어린이01|명||A|child|*어린이* 공원|children's park|*어린이*날|Children's Day|*어린이* 도서관|children's library
+39|834|드리다01|보|도와 ~|A|to do (honorific aux)|도와 *드리다*|to help (honorific)|말씀 *드리다*|to tell (honorific)|선물해 *드렸다*|gave a gift (honorific)
+40|845|어떠하다|형||A|to be how/what|상태가 *어떠하니*?|how is the condition?|마음이 *어떠해*?|how do you feel?|*어떠한* 경우에도|in any case
+41|925|장22|의|張. 종이 한 ~|A|sheet (counter)|종이 한 *장*|a sheet of paper|수건 두 *장*|two towels|표 한 *장*|one ticket
+42|928|식사03|명|食事|A|meal|*식사* 하셨어요?|have you had your meal?|맛있는 *식사*|delicious meal|*식사* 시간|mealtime
+43|957|팔01|명|신체의 일부|A|arm|*팔*이 길다|to have long arms|*팔*을 다치다|to hurt one's arm|*팔*짱을 끼다|to cross one's arms
+44|974|낮다|형||A|to be low|온도가 *낮다*|temperature is low|*낮은* 산|low mountain|점수가 *낮아요*|the score is low
+45|978|오래02|부||A|long/for a long time|*오래* 기다렸어요|I waited a long time|*오래* 살다|to live long|*오래*된 책|old book
+46|1002|즐겁다|형||A|to be pleasant/joyful|*즐거운* 시간|pleasant time|노래가 *즐겁다*|the song is joyful|*즐겁게* 놀다|to have fun playing
+47|1007|싸우다|동||A|to fight/quarrel|친구와 *싸우다*|to fight with a friend|말다툼하며 *싸웠다*|fought with words|그만 *싸워*|stop fighting
+48|1040|작년|명|昨年|A|last year|*작년* 여름|last summer|*작년*부터 시작했다|started from last year|*작년* 이맘때|this time last year
+49|1068|남녀|명|男女|A|men and women|*남녀* 노소|men and women of all ages|*남녀* 평등|gender equality|*남녀* 관계|relationship between man and woman
+50|1077|맑다01|형||A|to be clear/pure|날씨가 *맑다*|the weather is clear|*맑은* 공기|fresh air|*맑은* 물|clear water
+51|1116|사장15|명|社長|A|boss/president|우리 회사의 *사장*|our company's president|*사장*님을 뵙다|to see the boss|*사장*실|CEO's office
+52|1120|그렇지만|부||A|but/however|*그렇지만* 사실은|but the truth is|*그렇지만* 이미 늦었어|but it's already late|덥다. *그렇지만* 즐거워|It's hot. But I'm happy.
+53|1163|계시다|동||A|to be/stay (honorific)|선생님이 *계시다*|the teacher is there|집에 *계세요*|stay at home (honorific)|건강히 *계십시오*|stay healthy (formal)
+54|1189|가볍다|형||A|to be light|가방이 *가볍다*|the bag is light|*가벼운* 마음|a light heart|발걸음이 *가볍다*|steps are light
+55|1224|자전거|명|自轉車|A|bicycle|*자전거*를 타다|to ride a bicycle|*자전거* 여행|bicycle trip|두 발 *자전거*|two-wheeled bicycle
+56|1230|목01|명||A|neck / throat|*목*이 아프다|throat hurts|*목*이 마르다|to be thirsty|*목*을 돌리다|to turn one's neck
+57|1239|피우다01|동||A|to light / to smoke|담배를 *피우다*|to smoke a cigarette|불을 *피우다*|to light a fire|모닥불을 *피우다*|to light a campfire
+58|1249|교통01|명|交通|A|transportation / traffic|대중*교통*|public transportation|*교통* 사고|traffic accident|*교통*이 편리하다|transportation is convenient
+59|1263|불다01|동|바람이 ~|A|to blow|바람이 *불다*|the wind blows|피리를 *불다*|to play the flute|풍선을 *불다*|to blow up a balloon
+60|1325|장소05|명|場所|A|place / location|약속 *장소*|meeting place|*장소*를 정하다|to decide a place|안전한 *장소*|safe place
+61|1334|적다01|동|답을 ~|A|to write down|이름을 *적다*|to write down a name|메모를 *적다*|to write a memo|수첩에 *적어두다*|to jot down in a notebook
+62|1488|인사01|명|人士|A|public figure / personage|유명 *인사*|celebrity / famous person|주요 *인사*|key figure|사회 *인사*|public figure
+63|1517|박물관|명|博物館|A|museum|*박물관*에 가다|to go to a museum|역사 *박물관*|history museum|국립 *박물관*|national museum
+64|1522|어서01|부||A|quickly / please|*어서* 오세요|welcome / come in quickly|*어서* 먹어라|eat quickly|*어서* 들어오세요|please come in
+65|1598|남쪽|명|南-|A|south|*남쪽* 지방|southern region|*남쪽*으로 가다|to go south|따뜻한 *남쪽*|warm south
+66|1619|부인01|명|夫人|A|wife / Mrs.|선생님의 *부인*|teacher's wife|사장님 *부인*|boss's wife|그의 *부인*|his wife
+67|1663|바람01|의|눈이 오는 ~에|A|because of (result)|늦잠을 자는 *바람에*|because I overslept|비가 오는 *바람에*|because it rained|서두르는 *바람에*|because I rushed
+68|1708|교회02|명|敎會|A|church|*교회*에 다니다|to go to church|*교회* 종소리|church bell ringing|일요일엔 *교회*에|to church on Sunday
+69|1714|화06|명|~를 내다|A|anger|*화*가 나다|to be angry|*화*를 내다|to express anger|*화*가 풀리다|anger is relieved
+70|1732|도서관|명|圖書館|A|library|학교 *도서관*|school library|*도서관*에서 빌리다|to borrow from a library|*도서관* 열람실|library reading room
+71|1745|지하|명|地下|A|basement|*지하* 주차장|underground parking lot|*지하* 일 층|basement level 1|*지하* 상가|underground shopping mall
+72|1781|사무실|명|事務室|A|office|*사무실* 가구|office furniture|개인 *사무실*|private office|*사무실*에 출근하다|to go to the office
+73|1862|잡지|명|雜誌|A|magazine|패션 *잡지*|fashion magazine|*잡지*를 읽다|to read a magazine|월간 *잡지*|monthly magazine
+74|1867|댁01|명|宅|A|house (honorific)|선생님 *댁*|teacher's house|할머니 *댁*|grandmother's house|*댁*이 어디세요?|where is your home?
+75|1868|반갑다|형||A|to be glad|만나서 *반갑다*|glad to meet you|*반가운* 소식|welcome news|*반갑게* 맞이하다|to welcome gladly
+76|2179|북쪽|명|北-|A|north|*북쪽* 하늘|northern sky|*북쪽*으로 향하다|to head north|추운 *북쪽*|cold north
+77|2181|쇠고기|명||A|beef|*쇠고기*를 굽다|to grill beef|*쇠고기* 국|beef soup|*쇠고기* 스테이크|beef steak
+78|2329|경찰관|명|警察官|A|police officer|*경찰관*이 되다|to become a police officer|*경찰관* 아저씨|policeman|*경찰관*에게 신고하다|to report to a police officer
+79|2434|군인|명|軍人|A|soldier|*군인*이 되다|to become a soldier|늠름한 *군인*|gallant soldier|*군인* 아저씨|soldier mister
+80|2457|치마01|명||A|skirt|*치마*를 입다|to wear a skirt|짧은 *치마*|short skirt|긴 *치마*|long skirt
+81|2465|깎다|동||A|to cut / to peel / to discount|사과를 *깎다*|to peel an apple|머리를 *깎다*|to cut hair|값을 *깎다*|to cut the price
+82|2466|다리02|명|교량|A|bridge|*다리*를 건너다|to cross a bridge|큰 *다리*|big bridge|한강 *다리*|Han River bridge
+83|2534|운동장|명|運動場|A|playground|*운동장*에서 놀다|to play on the playground|넓은 *운동장*|wide playground|학교 *운동장*|school playground
+84|2569|동쪽|명|東-|A|east|*동쪽* 하늘|eastern sky|*동쪽*으로 가다|to go east|해 뜨는 *동쪽*|east where the sun rises
+85|2603|요즈음|명||A|these days|*요즈음* 날씨|the weather these days|*요즈음* 어때?|how are you these days?|*요즈음* 바빠요|I am busy lately
+86|2659|안경03|명|眼鏡|A|glasses|*안경*을 쓰다|to wear glasses|*안경*을 맞추다|to get glasses made|*안경*을 벗다|to take off glasses
+87|2705|구경01|명||A|sightseeing|꽃 *구경*|flower viewing|*구경*을 가다|to go sightseeing|사람 *구경*|people watching
+88|2803|생선|명|生鮮|A|fish|*생선*을 굽다|to grill fish|*생선* 찌개|fish stew|신선한 *생선*|fresh fish
+89|2812|지우다01|동|낙서를 ~|A|to erase|글씨를 *지우다*|to erase writing|화장을 *지우다*|to remove makeup|칠판을 *지웠다*|erased the blackboard
+90|2887|교과서|명|敎科書|A|textbook|수학 *교과서*|math textbook|*교과서*를 읽다|to read a textbook|*교과서* 위주로|based on textbooks
+91|2932|식탁|명|食卓|A|dining table|*식탁*을 차리다|to set the table|*식탁*에 앉다|to sit at the table|나무 *식탁*|wooden dining table
+92|2970|안되다01|동|공부가 ~|A|to not work out|일이 *안되다*|work is not going well|공부가 잘 *안된다*|studies aren't going well|얼굴이 *안됐네*|you look unwell
+93|3152|서쪽|명|西-|A|west|*서쪽* 바다|western sea|*서쪽*으로 지다|to set in the west|*서쪽* 하늘|western sky
+94|3287|여학생|명|女學生|A|female student|고등학교 *여학생*|high school girl|친절한 *여학생*|kind female student|*여학생* 교복|female student uniform
+95|3703|연필|명|鉛筆|A|pencil|*연필*로 쓰다|to write with a pencil|*연필*을 깎다|to sharpen a pencil|진한 *연필*|dark pencil
+96|3707|운전02|명|運轉|A|driving|음주 *운전*|drunk driving|*운전* 면허증|driver's license|*운전*을 배우다|to learn driving
+97|3808|목욕|명|沐浴|A|bath|*목욕*을 하다|to take a bath|*목욕* 가방|bath bag|매일 *목욕*해요|taking a bath every day
+98|3894|친절하다|형|親切-|A|to be kind|사람들이 *친절하다*|people are kind|*친절한* 안내|kind guidance|*친절하게* 대하다|to treat kindly
+99|3924|먹다02|보|잊어 ~|A|to do (auxiliary)|잊어 *먹다*|to completely forget|빌려 *먹다*|to borrow (and consume)|욕을 얻어 *먹다*|to be cursed at
+100|4142|여권02|명|旅券|A|passport|*여권*을 만들다|to make a passport|*여권* 사진|passport photo|*여권* 만료|passport expiration
+101|4143|열쇠|명||A|key|방 *열쇠*|room key|*열쇠*로 열다|to open with a key|차 *열쇠*|car key
+102|4776|기숙사|명|寄宿舍|A|dormitory|학교 *기숙사*|school dorm|*기숙사* 생활|dorm life|*기숙사*에 살다|to live in a dorm
+103|4836|주소01|명|住所|A|address|집 *주소*|home address|*주소*를 쓰다|to write an address|*주소*가 바뀌다|the address has changed
+104|5088|달력|명|-曆|A|calendar|*달력*을 보다|to look at a calendar|탁상 *달력*|desk calendar|새해 *달력*|new year calendar
+105|5121|소풍02|명|逍風|A|picnic|가을 *소풍*|autumn picnic|*소풍*을 가다|to go on a picnic|*소풍* 도시락|picnic lunch box
+106|5201|똑바로|부||A|straight|*똑바로* 앉다|to sit up straight|*똑바로* 가다|to go straight|*똑바로* 서다|to stand straight
+107|5229|서점03|명|書店|A|bookstore|중고 *서점*|used bookstore|*서점*에서 살다|to live at the bookstore|대형 *서점*|large bookstore
+108|5452|경치02|명|景致|A|scenery|*경치*가 좋다|the scenery is good|아름다운 *경치*|beautiful scenery|*경치*를 구경하다|to see the sights
+109|5791|우체국|명|郵遞局|A|post office|*우체국*에 가다|to go to the post office|근처 *우체국*|nearby post office|*우체국* 택배|post office parcel service
+110|5883|대사관|명|大使館|A|embassy|한국 *대사관*|Korean Embassy|*대사관*에 가다|to go to the embassy|미국 *대사관*|US Embassy
+111|5966|정류장|명|停留場|A|bus stop|버스 *정류장*|bus stop|*정류장*에서 기다리다|to wait at the stop|다음 *정류장*|next stop
+112|6108|오래간만|명||A|long time|*오래간만*에 만나다|to meet after a long time|*오래간만*의 인사|greeting after a long time|*오래간만*이라 반갑다|glad because it's been a long time
+113|6878|잡수시다|동||A|to eat (honorific)|맛있게 *잡수시다*|to eat deliciously|많이 *잡수세요*|please eat a lot|저녁을 *잡수셨어요*?|have you eaten dinner?
+114|7129|초대06|명|招待|A|invitation|*초대*를 받다|to receive an invitation|생일 *초대*|birthday invitation|*초대*에 감사하다|to thank for the invitation
+115|7270|사전22|명|辭典|A|dictionary|전자 *사전*|electronic dictionary|*사전*을 찾다|to look up in a dictionary|국어 *사전*|Korean dictionary
+116|7649|치약|명|齒藥|A|toothpaste|*치약*을 짜다|to squeeze toothpaste|매운 *치약*|spicy toothpaste|*치약*과 칫솔|toothpaste and toothbrush
+117|8329|노란색|명|-色|A|yellow|*노란색* 옷|yellow clothes|*노란색* 꽃|yellow flower|*노란색*으로 칠하다|to paint in yellow
+118|8589|칫솔|명|齒-|A|toothbrush|*칫솔*을 바꾸다|to change a toothbrush|부드러운 *칫솔*|soft toothbrush|*칫솔*에 치약을 짜다|to squeeze toothpaste onto a toothbrush
+119|8672|공중전화|명|公衆電話|A|public phone|*공중전화* 박스|public phone booth|*공중전화*를 걸다|to make a call from a public phone|추억의 *공중전화*|nostalgic public phone
+120|8809|세탁기|명|洗濯機|A|washing machine|*세탁기*를 돌리다|to run the washing machine|드럼 *세탁기*|drum-style washing machine|*세탁기*가 고장 나다|the washing machine is broken
+121|9466|공휴일|명|公休日|A|public holiday|법정 *공휴일*|statutory holiday|*공휴일*은 쉽니다|closed on public holidays|내일은 *공휴일*이다|tomorrow is a public holiday
+122|9548|마흔|수||A|forty|나이 *마흔*|forty years old|*마흔* 명의 학생|forty students|*마흔* 살|forty years old
+123|10274|청바지|명|靑-|A|jeans|*청바지*를 입다|to wear jeans|낡은 *청바지*|worn-out jeans|편한 *청바지*|comfortable jeans
+124|10833|칠판|명|漆板|A|blackboard|*칠판*을 닦다|to erase the blackboard|*칠판*에 쓰다|to write on the blackboard|*칠판*을 보다|to look at the blackboard
+125|11421|지우개|명||A|eraser|*지우개*로 지우다|to erase with an eraser|부드러운 *지우개*|soft eraser|*지우개* 똥|eraser crumbs
+126|12580|서른|수||A|thirty|*서른* 살|thirty years old|나이 *서른*|the age of thirty|*서른* 명|thirty people
+127|12818|장미05|명|薔薇|A|rose|빨간 *장미*|red rose|*장미* 한 송이|a single rose|*장미* 꽃다발|bouquet of roses
+128|12965|파란색|명|-색|A|blue color|*파란색* 바다|blue sea|*파란색* 셔츠|blue shirt|*파란색*으로 그리다|to draw in blue
+129|13584|여든|수||A|eighty|나이 *여든*|eighty years old|*여든* 살|eighty years old|*여든* 명|eighty people
+130|13695|일흔|수||A|seventy|나이 *일흔*|seventy years old|*일흔* 살|seventy years old|*일흔* 명|seventy people
+131|20886|사탕02|명|沙糖|A|candy|달콤한 *사탕*|sweet candy|*사탕*을 먹다|to eat candy|*사탕* 한 봉지|a bag of candy
+132|21340|예순|수||A|sixty|나이 *예순*|sixty years old|*예순* 살|sixty years old|*예순* 명|sixty people
+133|27846|쉰|수||A|fifty|나이 *쉰*|fifty years old|*쉰* 살|fifty years old|*쉰* 명|fifty people
+134|49265|아흔|수||A|ninety|*아흔* 살|ninety years old|*아흔* 명|ninety people|나이 *아흔*|ninety years of age
+135||경복궁|고|景福宮|A|Gyeongbokgung Palace|*경복궁* 나들이|outing to Gyeongbokgung|*경복궁*에 가다|to go to Gyeongbokgung|*경복궁* 근정전|Geunjeongjeon of Gyeongbokgung
+136||설악산|고|雪嶽山|A|Seoraksan Mountain|*설악산* 등산|climbing Seoraksan|가을 *설악산*|Seoraksan in autumn|*설악산* 국립공원|Seoraksan National Park
+137|24|대하다02|동|對-|B|to treat / to face|사람을 *대하다*|to treat a person|문제를 *대하는* 태도|attitude toward a problem|나를 따뜻하게 *대하다*|to treat me warmly
+138|42|사회07|명|社會|B|society|한국 *사회*|Korean society|*사회* 문제|social issues|*사회*에 나가다|to go out into society
+139|65|경우03|명|境遇|B|case / situation|비가 올 *경우*|in case of rain|그런 *경우*가 많다|there are many such cases|이런 *경우*에는|in this case
+140|72|자신01|명|自身|B|oneself|*자신*이 없다|to lack confidence|*자신*을 믿다|to believe in oneself|*자신*의 일|one's own work
+141|73|문화01|명|文化|B|culture|전통 *문화*|traditional culture|*문화* 차이|cultural difference|*문화* 생활|cultural life
+142|78|통하다|동|通-|B|to communicate / to pass|말이 *통하다*|to understand each other|공기가 *통하다*|to be well-ventilated|영어로 *통했다*|communicated in English
+143|86|정도11|명|程度|B|degree / about|어느 *정도*|to some degree|한 달 *정도*|about a month|심할 *정도*로|to an extreme degree
