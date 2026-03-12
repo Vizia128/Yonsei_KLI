@@ -1,143 +1,504 @@
-1|34|그러나|부||A|but/however|*그러나* 사실은|but the truth is|*그러나* 이미 늦었다|but it's already late|어렵다. *그러나* 해보자|it's hard. but let's try
-2|83|이런01|관||A|this kind of|*이런* 일|this kind of matter|*이런* 사람|this kind of person|*이런* 기회|this kind of opportunity
-3|95|함께|부||A|together|가족과 *함께*|together with family|*함께* 가다|to go together|우리 *함께*|we together
-4|104|나다01|동||A|to occur/arise|생각이 *나다*|to remember|불이 *나다*|a fire breaks out|냄새가 *나다*|to smell
-5|117|여러|관||A|several/various|*여러* 나라|several countries|*여러* 번|several times|*여러* 가지|various kinds
-6|121|버리다01|보||A|to end up (doing)|잊어 *버리다*|to completely forget|먹어 *버렸다*|ended up eating it|잃어 *버리다*|to lose (something)
-7|127|가장01|부||A|most|*가장* 빠르다|to be the fastest|*가장* 좋아하다|to like the most|*가장* 큰 문제|the biggest problem
-8|167|내다02|동|길을 ~|A|to make/produce|소리를 *내다*|to make a sound|시간을 *내다*|to make time|길을 *내다*|to clear a path
-9|178|사이01|명||A|between/relationship|친구 *사이*|between friends|건물 *사이*|between buildings|둘 *사이*가 좋다|they have a good relationship
-10|182|내다02|보|참아 ~|A|to manage to do|끝내 *내다*|to finish off|이겨 *내다*|to overcome|참아 *냈다*|managed to endure
-11|208|역사04|명|歷史|A|history|한국의 *역사*|history of Korea|오랜 *역사*|long history|*역사*를 배우다|to learn history
-12|210|이제01|부||A|now|*이제* 그만|stop now|*이제* 다 됐다|it's all done now|*이제* 어디 가?|where are you going now?
-13|243|내리다01|동|눈이 ~|A|to fall/get off|비가 *내리다*|it's raining|버스에서 *내리다*|to get off the bus|값이 *내렸다*|the price fell
-14|289|묻다03|동|길을 ~|A|to ask|길을 *묻다*|to ask for directions|선생님께 *물어보자*|let's ask the teacher|이름을 *물었다*|asked the name
-15|311|서로01|부||A|each other|*서로* 돕다|to help each other|*서로* 사랑하다|to love each other|*서로* 다른 생각|different thoughts from each other
-16|327|떠나다|동||A|to leave|여행을 *떠나다*|to go on a trip (leave for travel)|고향을 *떠나다*|to leave one's hometown|멀리 *떠났다*|left for a far place
-17|370|이제01|명||A|now/the present|*이제*부터 시작|starting from now|*이제*야 알았다|just found out now|*이제* 그만해|stop it now
-18|371|교수06|명|敎授|A|professor|대학 *교수*|university professor|*교수*님 말씀|professor's words|*교수*직|professorship
-19|377|돌아오다|동||A|to return/come back|집에 *돌아오다*|to come home|제자리로 *돌아오다*|to return to one's place|곧 *돌아올게*|I'll come back soon
-20|393|매우01|부||A|very/greatly|*매우* 중요하다|very important|*매우* 덥다|very hot|*매우* 기쁘다|very happy
-21|439|그리다02|동|그림을 ~|A|to draw/paint|그림을 *그리다*|to draw a picture|얼굴을 *그렸다*|drew a face|지도에 *그리다*|to draw on a map
-22|512|학년|명|學年|A|school grade/year|일 *학년*|first grade|저*학년*|lower grades|*학년*이 올라가다|to move up a grade
-23|513|신문10|명|新聞|A|newspaper|*신문*을 읽다|to read the newspaper|오늘 *신문*|today's paper|*신문* 기자|newspaper reporter
-24|514|가지다|보||A|to keep (progressive)|살아 *가지고*|to be living|돈을 *가져* 가다|to take money|그걸 *가지고*|with that
-25|564|발01|명|신체의 일부|A|foot|*발*이 크다|to have big feet|*발*을 씻다|to wash one's feet|*발*을 다치다|to hurt one's foot
-26|576|말다03|동|그만두다|A|to stop/quit|하기로 하다가 *말다*|to start then stop|그만 *두고* 말았다|ended up quitting|하다 *말* 거면 하지 마|if you're going to quit halfway, don't do it
-27|590|적다02|형|경험이 ~|A|to be few/little|사람이 *적다*|to be few people|돈이 *적다*|to be little money|양이 *적어요*|the amount is small
-28|622|참01|부|참으로|A|really/truly|*참* 예쁘다|really pretty|*참* 좋은 사람|truly good person|*참* 잘했어요|very well done
-29|653|어른01|명||A|adult|*어른*이 되다|to become an adult|*어른* 말씀을 듣다|to listen to adults|공경해야 할 *어른*|elders to respect
-30|689|환자03|명|患者|A|patient|병원의 *환자*|hospital patient|*환자*를 치료하다|to treat a patient|중환자실의 *환자*|patient in the ICU
-31|699|대화06|명|對話|A|conversation|*대화*를 나누다|to have a conversation|*대화*가 안 통하다|cannot communicate|진지한 *대화*|serious conversation
-32|701|올해|명||A|this year|*올해* 목표|this year's goal|*올해* 들어|since the start of this year|*올해* 스무 살|twenty years old this year
-33|716|걸다02|동|옷을 ~|A|to hang|옷을 *걸다*|to hang clothes|전화를 *걸다*|to make a phone call|그림을 *걸었다*|hung a painting
-34|718|멀다02|형|갈 길이 ~|A|to be far|거리가 *멀다*|the distance is far|집에서 *멀어요*|it's far from home|*먼* 훗날|the distant future
-35|722|잠시|부|暫時|A|for a moment|*잠시*만 기다리세요|please wait a moment|*잠시* 쉬다|to rest for a while|*잠시* 뒤에|after a short while
-36|756|잃다|동||A|to lose|길을 *잃다*|to get lost|돈을 *잃었다*|lost money|희망을 *잃다*|to lose hope
-37|794|언제나|부||A|always/anytime|*언제나* 환영이다|always welcome|*언제나* 변함없다|always the same/unchanging|*언제나* 그 자리에|always in that spot
-38|802|어린이01|명||A|child|*어린이* 공원|children's park|*어린이*날|Children's Day|*어린이* 도서관|children's library
-39|834|드리다01|보|도와 ~|A|to do (honorific aux)|도와 *드리다*|to help (honorific)|말씀 *드리다*|to tell (honorific)|선물해 *드렸다*|gave a gift (honorific)
-40|845|어떠하다|형||A|to be how/what|상태가 *어떠하니*?|how is the condition?|마음이 *어떠해*?|how do you feel?|*어떠한* 경우에도|in any case
-41|925|장22|의|張. 종이 한 ~|A|sheet (counter)|종이 한 *장*|a sheet of paper|수건 두 *장*|two towels|표 한 *장*|one ticket
-42|928|식사03|명|食事|A|meal|*식사* 하셨어요?|have you had your meal?|맛있는 *식사*|delicious meal|*식사* 시간|mealtime
-43|957|팔01|명|신체의 일부|A|arm|*팔*이 길다|to have long arms|*팔*을 다치다|to hurt one's arm|*팔*짱을 끼다|to cross one's arms
-44|974|낮다|형||A|to be low|온도가 *낮다*|temperature is low|*낮은* 산|low mountain|점수가 *낮아요*|the score is low
-45|978|오래02|부||A|long/for a long time|*오래* 기다렸어요|I waited a long time|*오래* 살다|to live long|*오래*된 책|old book
-46|1002|즐겁다|형||A|to be pleasant/joyful|*즐거운* 시간|pleasant time|노래가 *즐겁다*|the song is joyful|*즐겁게* 놀다|to have fun playing
-47|1007|싸우다|동||A|to fight/quarrel|친구와 *싸우다*|to fight with a friend|말다툼하며 *싸웠다*|fought with words|그만 *싸워*|stop fighting
-48|1040|작년|명|昨年|A|last year|*작년* 여름|last summer|*작년*부터 시작했다|started from last year|*작년* 이맘때|this time last year
-49|1068|남녀|명|男女|A|men and women|*남녀* 노소|men and women of all ages|*남녀* 평등|gender equality|*남녀* 관계|relationship between man and woman
-50|1077|맑다01|형||A|to be clear/pure|날씨가 *맑다*|the weather is clear|*맑은* 공기|fresh air|*맑은* 물|clear water
-51|1116|사장15|명|社長|A|boss/president|우리 회사의 *사장*|our company's president|*사장*님을 뵙다|to see the boss|*사장*실|CEO's office
-52|1120|그렇지만|부||A|but/however|*그렇지만* 사실은|but the truth is|*그렇지만* 이미 늦었어|but it's already late|덥다. *그렇지만* 즐거워|It's hot. But I'm happy.
-53|1163|계시다|동||A|to be/stay (honorific)|선생님이 *계시다*|the teacher is there|집에 *계세요*|stay at home (honorific)|건강히 *계십시오*|stay healthy (formal)
-54|1189|가볍다|형||A|to be light|가방이 *가볍다*|the bag is light|*가벼운* 마음|a light heart|발걸음이 *가볍다*|steps are light
-55|1224|자전거|명|自轉車|A|bicycle|*자전거*를 타다|to ride a bicycle|*자전거* 여행|bicycle trip|두 발 *자전거*|two-wheeled bicycle
-56|1230|목01|명||A|neck / throat|*목*이 아프다|throat hurts|*목*이 마르다|to be thirsty|*목*을 돌리다|to turn one's neck
-57|1239|피우다01|동||A|to light / to smoke|담배를 *피우다*|to smoke a cigarette|불을 *피우다*|to light a fire|모닥불을 *피우다*|to light a campfire
-58|1249|교통01|명|交通|A|transportation / traffic|대중*교통*|public transportation|*교통* 사고|traffic accident|*교통*이 편리하다|transportation is convenient
-59|1263|불다01|동|바람이 ~|A|to blow|바람이 *불다*|the wind blows|피리를 *불다*|to play the flute|풍선을 *불다*|to blow up a balloon
-60|1325|장소05|명|場所|A|place / location|약속 *장소*|meeting place|*장소*를 정하다|to decide a place|안전한 *장소*|safe place
-61|1334|적다01|동|답을 ~|A|to write down|이름을 *적다*|to write down a name|메모를 *적다*|to write a memo|수첩에 *적어두다*|to jot down in a notebook
-62|1488|인사01|명|人士|A|public figure / personage|유명 *인사*|celebrity / famous person|주요 *인사*|key figure|사회 *인사*|public figure
-63|1517|박물관|명|博物館|A|museum|*박물관*에 가다|to go to a museum|역사 *박물관*|history museum|국립 *박물관*|national museum
-64|1522|어서01|부||A|quickly / please|*어서* 오세요|welcome / come in quickly|*어서* 먹어라|eat quickly|*어서* 들어오세요|please come in
-65|1598|남쪽|명|南-|A|south|*남쪽* 지방|southern region|*남쪽*으로 가다|to go south|따뜻한 *남쪽*|warm south
-66|1619|부인01|명|夫人|A|wife / Mrs.|선생님의 *부인*|teacher's wife|사장님 *부인*|boss's wife|그의 *부인*|his wife
-67|1663|바람01|의|눈이 오는 ~에|A|because of (result)|늦잠을 자는 *바람에*|because I overslept|비가 오는 *바람에*|because it rained|서두르는 *바람에*|because I rushed
-68|1708|교회02|명|敎會|A|church|*교회*에 다니다|to go to church|*교회* 종소리|church bell ringing|일요일엔 *교회*에|to church on Sunday
-69|1714|화06|명|~를 내다|A|anger|*화*가 나다|to be angry|*화*를 내다|to express anger|*화*가 풀리다|anger is relieved
-70|1732|도서관|명|圖書館|A|library|학교 *도서관*|school library|*도서관*에서 빌리다|to borrow from a library|*도서관* 열람실|library reading room
-71|1745|지하|명|地下|A|basement|*지하* 주차장|underground parking lot|*지하* 일 층|basement level 1|*지하* 상가|underground shopping mall
-72|1781|사무실|명|事務室|A|office|*사무실* 가구|office furniture|개인 *사무실*|private office|*사무실*에 출근하다|to go to the office
-73|1862|잡지|명|雜誌|A|magazine|패션 *잡지*|fashion magazine|*잡지*를 읽다|to read a magazine|월간 *잡지*|monthly magazine
-74|1867|댁01|명|宅|A|house (honorific)|선생님 *댁*|teacher's house|할머니 *댁*|grandmother's house|*댁*이 어디세요?|where is your home?
-75|1868|반갑다|형||A|to be glad|만나서 *반갑다*|glad to meet you|*반가운* 소식|welcome news|*반갑게* 맞이하다|to welcome gladly
-76|2179|북쪽|명|北-|A|north|*북쪽* 하늘|northern sky|*북쪽*으로 향하다|to head north|추운 *북쪽*|cold north
-77|2181|쇠고기|명||A|beef|*쇠고기*를 굽다|to grill beef|*쇠고기* 국|beef soup|*쇠고기* 스테이크|beef steak
-78|2329|경찰관|명|警察官|A|police officer|*경찰관*이 되다|to become a police officer|*경찰관* 아저씨|policeman|*경찰관*에게 신고하다|to report to a police officer
-79|2434|군인|명|軍人|A|soldier|*군인*이 되다|to become a soldier|늠름한 *군인*|gallant soldier|*군인* 아저씨|soldier mister
-80|2457|치마01|명||A|skirt|*치마*를 입다|to wear a skirt|짧은 *치마*|short skirt|긴 *치마*|long skirt
-81|2465|깎다|동||A|to cut / to peel / to discount|사과를 *깎다*|to peel an apple|머리를 *깎다*|to cut hair|값을 *깎다*|to cut the price
-82|2466|다리02|명|교량|A|bridge|*다리*를 건너다|to cross a bridge|큰 *다리*|big bridge|한강 *다리*|Han River bridge
-83|2534|운동장|명|運動場|A|playground|*운동장*에서 놀다|to play on the playground|넓은 *운동장*|wide playground|학교 *운동장*|school playground
-84|2569|동쪽|명|東-|A|east|*동쪽* 하늘|eastern sky|*동쪽*으로 가다|to go east|해 뜨는 *동쪽*|east where the sun rises
-85|2603|요즈음|명||A|these days|*요즈음* 날씨|the weather these days|*요즈음* 어때?|how are you these days?|*요즈음* 바빠요|I am busy lately
-86|2659|안경03|명|眼鏡|A|glasses|*안경*을 쓰다|to wear glasses|*안경*을 맞추다|to get glasses made|*안경*을 벗다|to take off glasses
-87|2705|구경01|명||A|sightseeing|꽃 *구경*|flower viewing|*구경*을 가다|to go sightseeing|사람 *구경*|people watching
-88|2803|생선|명|生鮮|A|fish|*생선*을 굽다|to grill fish|*생선* 찌개|fish stew|신선한 *생선*|fresh fish
-89|2812|지우다01|동|낙서를 ~|A|to erase|글씨를 *지우다*|to erase writing|화장을 *지우다*|to remove makeup|칠판을 *지웠다*|erased the blackboard
-90|2887|교과서|명|敎科書|A|textbook|수학 *교과서*|math textbook|*교과서*를 읽다|to read a textbook|*교과서* 위주로|based on textbooks
-91|2932|식탁|명|食卓|A|dining table|*식탁*을 차리다|to set the table|*식탁*에 앉다|to sit at the table|나무 *식탁*|wooden dining table
-92|2970|안되다01|동|공부가 ~|A|to not work out|일이 *안되다*|work is not going well|공부가 잘 *안된다*|studies aren't going well|얼굴이 *안됐네*|you look unwell
-93|3152|서쪽|명|西-|A|west|*서쪽* 바다|western sea|*서쪽*으로 지다|to set in the west|*서쪽* 하늘|western sky
-94|3287|여학생|명|女學生|A|female student|고등학교 *여학생*|high school girl|친절한 *여학생*|kind female student|*여학생* 교복|female student uniform
-95|3703|연필|명|鉛筆|A|pencil|*연필*로 쓰다|to write with a pencil|*연필*을 깎다|to sharpen a pencil|진한 *연필*|dark pencil
-96|3707|운전02|명|運轉|A|driving|음주 *운전*|drunk driving|*운전* 면허증|driver's license|*운전*을 배우다|to learn driving
-97|3808|목욕|명|沐浴|A|bath|*목욕*을 하다|to take a bath|*목욕* 가방|bath bag|매일 *목욕*해요|taking a bath every day
-98|3894|친절하다|형|親切-|A|to be kind|사람들이 *친절하다*|people are kind|*친절한* 안내|kind guidance|*친절하게* 대하다|to treat kindly
-99|3924|먹다02|보|잊어 ~|A|to do (auxiliary)|잊어 *먹다*|to completely forget|빌려 *먹다*|to borrow (and consume)|욕을 얻어 *먹다*|to be cursed at
-100|4142|여권02|명|旅券|A|passport|*여권*을 만들다|to make a passport|*여권* 사진|passport photo|*여권* 만료|passport expiration
-101|4143|열쇠|명||A|key|방 *열쇠*|room key|*열쇠*로 열다|to open with a key|차 *열쇠*|car key
-102|4776|기숙사|명|寄宿舍|A|dormitory|학교 *기숙사*|school dorm|*기숙사* 생활|dorm life|*기숙사*에 살다|to live in a dorm
-103|4836|주소01|명|住所|A|address|집 *주소*|home address|*주소*를 쓰다|to write an address|*주소*가 바뀌다|the address has changed
-104|5088|달력|명|-曆|A|calendar|*달력*을 보다|to look at a calendar|탁상 *달력*|desk calendar|새해 *달력*|new year calendar
-105|5121|소풍02|명|逍風|A|picnic|가을 *소풍*|autumn picnic|*소풍*을 가다|to go on a picnic|*소풍* 도시락|picnic lunch box
-106|5201|똑바로|부||A|straight|*똑바로* 앉다|to sit up straight|*똑바로* 가다|to go straight|*똑바로* 서다|to stand straight
-107|5229|서점03|명|書店|A|bookstore|중고 *서점*|used bookstore|*서점*에서 살다|to live at the bookstore|대형 *서점*|large bookstore
-108|5452|경치02|명|景致|A|scenery|*경치*가 좋다|the scenery is good|아름다운 *경치*|beautiful scenery|*경치*를 구경하다|to see the sights
-109|5791|우체국|명|郵遞局|A|post office|*우체국*에 가다|to go to the post office|근처 *우체국*|nearby post office|*우체국* 택배|post office parcel service
-110|5883|대사관|명|大使館|A|embassy|한국 *대사관*|Korean Embassy|*대사관*에 가다|to go to the embassy|미국 *대사관*|US Embassy
-111|5966|정류장|명|停留場|A|bus stop|버스 *정류장*|bus stop|*정류장*에서 기다리다|to wait at the stop|다음 *정류장*|next stop
-112|6108|오래간만|명||A|long time|*오래간만*에 만나다|to meet after a long time|*오래간만*의 인사|greeting after a long time|*오래간만*이라 반갑다|glad because it's been a long time
-113|6878|잡수시다|동||A|to eat (honorific)|맛있게 *잡수시다*|to eat deliciously|많이 *잡수세요*|please eat a lot|저녁을 *잡수셨어요*?|have you eaten dinner?
-114|7129|초대06|명|招待|A|invitation|*초대*를 받다|to receive an invitation|생일 *초대*|birthday invitation|*초대*에 감사하다|to thank for the invitation
-115|7270|사전22|명|辭典|A|dictionary|전자 *사전*|electronic dictionary|*사전*을 찾다|to look up in a dictionary|국어 *사전*|Korean dictionary
-116|7649|치약|명|齒藥|A|toothpaste|*치약*을 짜다|to squeeze toothpaste|매운 *치약*|spicy toothpaste|*치약*과 칫솔|toothpaste and toothbrush
-117|8329|노란색|명|-色|A|yellow|*노란색* 옷|yellow clothes|*노란색* 꽃|yellow flower|*노란색*으로 칠하다|to paint in yellow
-118|8589|칫솔|명|齒-|A|toothbrush|*칫솔*을 바꾸다|to change a toothbrush|부드러운 *칫솔*|soft toothbrush|*칫솔*에 치약을 짜다|to squeeze toothpaste onto a toothbrush
-119|8672|공중전화|명|公衆電話|A|public phone|*공중전화* 박스|public phone booth|*공중전화*를 걸다|to make a call from a public phone|추억의 *공중전화*|nostalgic public phone
-120|8809|세탁기|명|洗濯機|A|washing machine|*세탁기*를 돌리다|to run the washing machine|드럼 *세탁기*|drum-style washing machine|*세탁기*가 고장 나다|the washing machine is broken
-121|9466|공휴일|명|公休日|A|public holiday|법정 *공휴일*|statutory holiday|*공휴일*은 쉽니다|closed on public holidays|내일은 *공휴일*이다|tomorrow is a public holiday
-122|9548|마흔|수||A|forty|나이 *마흔*|forty years old|*마흔* 명의 학생|forty students|*마흔* 살|forty years old
-123|10274|청바지|명|靑-|A|jeans|*청바지*를 입다|to wear jeans|낡은 *청바지*|worn-out jeans|편한 *청바지*|comfortable jeans
-124|10833|칠판|명|漆板|A|blackboard|*칠판*을 닦다|to erase the blackboard|*칠판*에 쓰다|to write on the blackboard|*칠판*을 보다|to look at the blackboard
-125|11421|지우개|명||A|eraser|*지우개*로 지우다|to erase with an eraser|부드러운 *지우개*|soft eraser|*지우개* 똥|eraser crumbs
-126|12580|서른|수||A|thirty|*서른* 살|thirty years old|나이 *서른*|the age of thirty|*서른* 명|thirty people
-127|12818|장미05|명|薔薇|A|rose|빨간 *장미*|red rose|*장미* 한 송이|a single rose|*장미* 꽃다발|bouquet of roses
-128|12965|파란색|명|-색|A|blue color|*파란색* 바다|blue sea|*파란색* 셔츠|blue shirt|*파란색*으로 그리다|to draw in blue
-129|13584|여든|수||A|eighty|나이 *여든*|eighty years old|*여든* 살|eighty years old|*여든* 명|eighty people
-130|13695|일흔|수||A|seventy|나이 *일흔*|seventy years old|*일흔* 살|seventy years old|*일흔* 명|seventy people
-131|20886|사탕02|명|沙糖|A|candy|달콤한 *사탕*|sweet candy|*사탕*을 먹다|to eat candy|*사탕* 한 봉지|a bag of candy
-132|21340|예순|수||A|sixty|나이 *예순*|sixty years old|*예순* 살|sixty years old|*예순* 명|sixty people
-133|27846|쉰|수||A|fifty|나이 *쉰*|fifty years old|*쉰* 살|fifty years old|*쉰* 명|fifty people
-134|49265|아흔|수||A|ninety|*아흔* 살|ninety years old|*아흔* 명|ninety people|나이 *아흔*|ninety years of age
-135||경복궁|고|景福宮|A|Gyeongbokgung Palace|*경복궁* 나들이|outing to Gyeongbokgung|*경복궁*에 가다|to go to Gyeongbokgung|*경복궁* 근정전|Geunjeongjeon of Gyeongbokgung
-136||설악산|고|雪嶽山|A|Seoraksan Mountain|*설악산* 등산|climbing Seoraksan|가을 *설악산*|Seoraksan in autumn|*설악산* 국립공원|Seoraksan National Park
-137|24|대하다02|동|對-|B|to treat / to face|사람을 *대하다*|to treat a person|문제를 *대하는* 태도|attitude toward a problem|나를 따뜻하게 *대하다*|to treat me warmly
-138|42|사회07|명|社會|B|society|한국 *사회*|Korean society|*사회* 문제|social issues|*사회*에 나가다|to go out into society
-139|65|경우03|명|境遇|B|case / situation|비가 올 *경우*|in case of rain|그런 *경우*가 많다|there are many such cases|이런 *경우*에는|in this case
-140|72|자신01|명|自身|B|oneself|*자신*이 없다|to lack confidence|*자신*을 믿다|to believe in oneself|*자신*의 일|one's own work
-141|73|문화01|명|文化|B|culture|전통 *문화*|traditional culture|*문화* 차이|cultural difference|*문화* 생활|cultural life
-142|78|통하다|동|通-|B|to communicate / to pass|말이 *통하다*|to understand each other|공기가 *통하다*|to be well-ventilated|영어로 *통했다*|communicated in English
-143|86|정도11|명|程度|B|degree / about|어느 *정도*|to some degree|한 달 *정도*|about a month|심할 *정도*로|to an extreme degree
+1|34|그러나|부||A|but/however|*그러나* 사실은|but the truth is|*그러나* 이미 늦었다|but it's already late|어렵다. *그러나* 해보자|it's hard. but let's try|audio/row1_chunk1.wav|audio/row1_chunk2.wav|audio/row1_chunk3.wav
+2|83|이런01|관||A|this kind of|*이런* 일|this kind of matter|*이런* 사람|this kind of person|*이런* 기회|this kind of opportunity|audio/row2_chunk1.wav|audio/row2_chunk2.wav|audio/row2_chunk3.wav
+3|95|함께|부||A|together|가족과 *함께*|together with family|*함께* 가다|to go together|우리 *함께*|we together|audio/row3_chunk1.wav|audio/row3_chunk2.wav|audio/row3_chunk3.wav
+4|104|나다01|동||A|to occur/arise|생각이 *나다*|to remember|불이 *나다*|a fire breaks out|냄새가 *나다*|to smell|audio/row4_chunk1.wav|audio/row4_chunk2.wav|audio/row4_chunk3.wav
+5|117|여러|관||A|several/various|*여러* 나라|several countries|*여러* 번|several times|*여러* 가지|various kinds|audio/row5_chunk1.wav|audio/row5_chunk2.wav|audio/row5_chunk3.wav
+6|121|버리다01|보||A|to end up (doing)|잊어 *버리다*|to completely forget|먹어 *버렸다*|ended up eating it|잃어 *버리다*|to lose (something)|audio/row6_chunk1.wav|audio/row6_chunk2.wav|audio/row6_chunk3.wav
+7|127|가장01|부||A|most|*가장* 빠르다|to be the fastest|*가장* 좋아하다|to like the most|*가장* 큰 문제|the biggest problem|audio/row7_chunk1.wav|audio/row7_chunk2.wav|audio/row7_chunk3.wav
+8|167|내다02|동|길을 ~|A|to make/produce|소리를 *내다*|to make a sound|시간을 *내다*|to make time|길을 *내다*|to clear a path|audio/row8_chunk1.wav|audio/row8_chunk2.wav|audio/row8_chunk3.wav
+9|178|사이01|명||A|between/relationship|친구 *사이*|between friends|건물 *사이*|between buildings|둘 *사이*가 좋다|they have a good relationship|audio/row9_chunk1.wav|audio/row9_chunk2.wav|audio/row9_chunk3.wav
+10|182|내다02|보|참아 ~|A|to manage to do|끝내 *내다*|to finish off|이겨 *내다*|to overcome|참아 *냈다*|managed to endure|audio/row10_chunk1.wav|audio/row10_chunk2.wav|audio/row10_chunk3.wav
+11|208|역사04|명|歷史|A|history|한국의 *역사*|history of Korea|오랜 *역사*|long history|*역사*를 배우다|to learn history|audio/row11_chunk1.wav|audio/row11_chunk2.wav|audio/row11_chunk3.wav
+12|210|이제01|부||A|now|*이제* 그만|stop now|*이제* 다 됐다|it's all done now|*이제* 어디 가?|where are you going now?|audio/row12_chunk1.wav|audio/row12_chunk2.wav|audio/row12_chunk3.wav
+13|243|내리다01|동|눈이 ~|A|to fall/get off|비가 *내리다*|it's raining|버스에서 *내리다*|to get off the bus|값이 *내렸다*|the price fell|audio/row13_chunk1.wav|audio/row13_chunk2.wav|audio/row13_chunk3.wav
+14|289|묻다03|동|길을 ~|A|to ask|길을 *묻다*|to ask for directions|선생님께 *물어보자*|let's ask the teacher|이름을 *물었다*|asked the name|audio/row14_chunk1.wav|audio/row14_chunk2.wav|audio/row14_chunk3.wav
+15|311|서로01|부||A|each other|*서로* 돕다|to help each other|*서로* 사랑하다|to love each other|*서로* 다른 생각|different thoughts from each other|audio/row15_chunk1.wav|audio/row15_chunk2.wav|audio/row15_chunk3.wav
+16|327|떠나다|동||A|to leave|여행을 *떠나다*|to go on a trip (leave for travel)|고향을 *떠나다*|to leave one's hometown|멀리 *떠났다*|left for a far place|audio/row16_chunk1.wav|audio/row16_chunk2.wav|audio/row16_chunk3.wav
+17|370|이제01|명||A|now/the present|*이제*부터 시작|starting from now|*이제*야 알았다|just found out now|*이제* 그만해|stop it now|audio/row17_chunk1.wav|audio/row17_chunk2.wav|audio/row17_chunk3.wav
+18|371|교수06|명|敎授|A|professor|대학 *교수*|university professor|*교수*님 말씀|professor's words|*교수*직|professorship|audio/row18_chunk1.wav|audio/row18_chunk2.wav|audio/row18_chunk3.wav
+19|377|돌아오다|동||A|to return/come back|집에 *돌아오다*|to come home|제자리로 *돌아오다*|to return to one's place|곧 *돌아올게*|I'll come back soon|audio/row19_chunk1.wav|audio/row19_chunk2.wav|audio/row19_chunk3.wav
+20|393|매우01|부||A|very/greatly|*매우* 중요하다|very important|*매우* 덥다|very hot|*매우* 기쁘다|very happy|audio/row20_chunk1.wav|audio/row20_chunk2.wav|audio/row20_chunk3.wav
+21|439|그리다02|동|그림을 ~|A|to draw/paint|그림을 *그리다*|to draw a picture|얼굴을 *그렸다*|drew a face|지도에 *그리다*|to draw on a map|audio/row21_chunk1.wav|audio/row21_chunk2.wav|audio/row21_chunk3.wav
+22|512|학년|명|學年|A|school grade/year|일 *학년*|first grade|저*학년*|lower grades|*학년*이 올라가다|to move up a grade|audio/row22_chunk1.wav|audio/row22_chunk2.wav|audio/row22_chunk3.wav
+23|513|신문10|명|新聞|A|newspaper|*신문*을 읽다|to read the newspaper|오늘 *신문*|today's paper|*신문* 기자|newspaper reporter|audio/row23_chunk1.wav|audio/row23_chunk2.wav|audio/row23_chunk3.wav
+24|514|가지다|보||A|to keep (progressive)|살아 *가지고*|to be living|돈을 *가져* 가다|to take money|그걸 *가지고*|with that|audio/row24_chunk1.wav|audio/row24_chunk2.wav|audio/row24_chunk3.wav
+25|564|발01|명|신체의 일부|A|foot|*발*이 크다|to have big feet|*발*을 씻다|to wash one's feet|*발*을 다치다|to hurt one's foot|audio/row25_chunk1.wav|audio/row25_chunk2.wav|audio/row25_chunk3.wav
+26|576|말다03|동|그만두다|A|to stop/quit|하기로 하다가 *말다*|to start then stop|그만 *두고* 말았다|ended up quitting|하다 *말* 거면 하지 마|if you're going to quit halfway, don't do it|audio/row26_chunk1.wav|audio/row26_chunk2.wav|audio/row26_chunk3.wav
+27|590|적다02|형|경험이 ~|A|to be few/little|사람이 *적다*|to be few people|돈이 *적다*|to be little money|양이 *적어요*|the amount is small|audio/row27_chunk1.wav|audio/row27_chunk2.wav|audio/row27_chunk3.wav
+28|622|참01|부|참으로|A|really/truly|*참* 예쁘다|really pretty|*참* 좋은 사람|truly good person|*참* 잘했어요|very well done|audio/row28_chunk1.wav|audio/row28_chunk2.wav|audio/row28_chunk3.wav
+29|653|어른01|명||A|adult|*어른*이 되다|to become an adult|*어른* 말씀을 듣다|to listen to adults|공경해야 할 *어른*|elders to respect|audio/row29_chunk1.wav|audio/row29_chunk2.wav|audio/row29_chunk3.wav
+30|689|환자03|명|患者|A|patient|병원의 *환자*|hospital patient|*환자*를 치료하다|to treat a patient|중환자실의 *환자*|patient in the ICU|audio/row30_chunk1.wav|audio/row30_chunk2.wav|audio/row30_chunk3.wav
+31|699|대화06|명|對話|A|conversation|*대화*를 나누다|to have a conversation|*대화*가 안 통하다|cannot communicate|진지한 *대화*|serious conversation|audio/row31_chunk1.wav|audio/row31_chunk2.wav|audio/row31_chunk3.wav
+32|701|올해|명||A|this year|*올해* 목표|this year's goal|*올해* 들어|since the start of this year|*올해* 스무 살|twenty years old this year|audio/row32_chunk1.wav|audio/row32_chunk2.wav|audio/row32_chunk3.wav
+33|716|걸다02|동|옷을 ~|A|to hang|옷을 *걸다*|to hang clothes|전화를 *걸다*|to make a phone call|그림을 *걸었다*|hung a painting|audio/row33_chunk1.wav|audio/row33_chunk2.wav|audio/row33_chunk3.wav
+34|718|멀다02|형|갈 길이 ~|A|to be far|거리가 *멀다*|the distance is far|집에서 *멀어요*|it's far from home|*먼* 훗날|the distant future|audio/row34_chunk1.wav|audio/row34_chunk2.wav|audio/row34_chunk3.wav
+35|722|잠시|부|暫時|A|for a moment|*잠시*만 기다리세요|please wait a moment|*잠시* 쉬다|to rest for a while|*잠시* 뒤에|after a short while|audio/row35_chunk1.wav|audio/row35_chunk2.wav|audio/row35_chunk3.wav
+36|756|잃다|동||A|to lose|길을 *잃다*|to get lost|돈을 *잃었다*|lost money|희망을 *잃다*|to lose hope|audio/row36_chunk1.wav|audio/row36_chunk2.wav|audio/row36_chunk3.wav
+37|794|언제나|부||A|always/anytime|*언제나* 환영이다|always welcome|*언제나* 변함없다|always the same/unchanging|*언제나* 그 자리에|always in that spot|audio/row37_chunk1.wav|audio/row37_chunk2.wav|audio/row37_chunk3.wav
+38|802|어린이01|명||A|child|*어린이* 공원|children's park|*어린이*날|Children's Day|*어린이* 도서관|children's library|audio/row38_chunk1.wav|audio/row38_chunk2.wav|audio/row38_chunk3.wav
+39|834|드리다01|보|도와 ~|A|to do (honorific aux)|도와 *드리다*|to help (honorific)|말씀 *드리다*|to tell (honorific)|선물해 *드렸다*|gave a gift (honorific)|audio/row39_chunk1.wav|audio/row39_chunk2.wav|audio/row39_chunk3.wav
+40|845|어떠하다|형||A|to be how/what|상태가 *어떠하니*?|how is the condition?|마음이 *어떠해*?|how do you feel?|*어떠한* 경우에도|in any case|audio/row40_chunk1.wav|audio/row40_chunk2.wav|audio/row40_chunk3.wav
+41|925|장22|의|張. 종이 한 ~|A|sheet (counter)|종이 한 *장*|a sheet of paper|수건 두 *장*|two towels|표 한 *장*|one ticket|audio/row41_chunk1.wav|audio/row41_chunk2.wav|audio/row41_chunk3.wav
+42|928|식사03|명|食事|A|meal|*식사* 하셨어요?|have you had your meal?|맛있는 *식사*|delicious meal|*식사* 시간|mealtime|audio/row42_chunk1.wav|audio/row42_chunk2.wav|audio/row42_chunk3.wav
+43|957|팔01|명|신체의 일부|A|arm|*팔*이 길다|to have long arms|*팔*을 다치다|to hurt one's arm|*팔*짱을 끼다|to cross one's arms|audio/row43_chunk1.wav|audio/row43_chunk2.wav|audio/row43_chunk3.wav
+44|974|낮다|형||A|to be low|온도가 *낮다*|temperature is low|*낮은* 산|low mountain|점수가 *낮아요*|the score is low|audio/row44_chunk1.wav|audio/row44_chunk2.wav|audio/row44_chunk3.wav
+45|978|오래02|부||A|long/for a long time|*오래* 기다렸어요|I waited a long time|*오래* 살다|to live long|*오래*된 책|old book|audio/row45_chunk1.wav|audio/row45_chunk2.wav|audio/row45_chunk3.wav
+46|1002|즐겁다|형||A|to be pleasant/joyful|*즐거운* 시간|pleasant time|노래가 *즐겁다*|the song is joyful|*즐겁게* 놀다|to have fun playing|audio/row46_chunk1.wav|audio/row46_chunk2.wav|audio/row46_chunk3.wav
+47|1007|싸우다|동||A|to fight/quarrel|친구와 *싸우다*|to fight with a friend|말다툼하며 *싸웠다*|fought with words|그만 *싸워*|stop fighting|audio/row47_chunk1.wav|audio/row47_chunk2.wav|audio/row47_chunk3.wav
+48|1040|작년|명|昨年|A|last year|*작년* 여름|last summer|*작년*부터 시작했다|started from last year|*작년* 이맘때|this time last year|audio/row48_chunk1.wav|audio/row48_chunk2.wav|audio/row48_chunk3.wav
+49|1068|남녀|명|男女|A|men and women|*남녀* 노소|men and women of all ages|*남녀* 평등|gender equality|*남녀* 관계|relationship between man and woman|audio/row49_chunk1.wav|audio/row49_chunk2.wav|audio/row49_chunk3.wav
+50|1077|맑다01|형||A|to be clear/pure|날씨가 *맑다*|the weather is clear|*맑은* 공기|fresh air|*맑은* 물|clear water|audio/row50_chunk1.wav|audio/row50_chunk2.wav|audio/row50_chunk3.wav
+51|1116|사장15|명|社長|A|boss/president|우리 회사의 *사장*|our company's president|*사장*님을 뵙다|to see the boss|*사장*실|CEO's office|audio/row51_chunk1.wav|audio/row51_chunk2.wav|audio/row51_chunk3.wav
+52|1120|그렇지만|부||A|but/however|*그렇지만* 사실은|but the truth is|*그렇지만* 이미 늦었어|but it's already late|덥다. *그렇지만* 즐거워|It's hot. But I'm happy.|audio/row52_chunk1.wav|audio/row52_chunk2.wav|audio/row52_chunk3.wav
+53|1163|계시다|동||A|to be/stay (honorific)|선생님이 *계시다*|the teacher is there|집에 *계세요*|stay at home (honorific)|건강히 *계십시오*|stay healthy (formal)|audio/row53_chunk1.wav|audio/row53_chunk2.wav|audio/row53_chunk3.wav
+54|1189|가볍다|형||A|to be light|가방이 *가볍다*|the bag is light|*가벼운* 마음|a light heart|발걸음이 *가볍다*|steps are light|audio/row54_chunk1.wav|audio/row54_chunk2.wav|audio/row54_chunk3.wav
+55|1224|자전거|명|自轉車|A|bicycle|*자전거*를 타다|to ride a bicycle|*자전거* 여행|bicycle trip|두 발 *자전거*|two-wheeled bicycle|audio/row55_chunk1.wav|audio/row55_chunk2.wav|audio/row55_chunk3.wav
+56|1230|목01|명||A|neck / throat|*목*이 아프다|throat hurts|*목*이 마르다|to be thirsty|*목*을 돌리다|to turn one's neck|audio/row56_chunk1.wav|audio/row56_chunk2.wav|audio/row56_chunk3.wav
+57|1239|피우다01|동||A|to light / to smoke|담배를 *피우다*|to smoke a cigarette|불을 *피우다*|to light a fire|모닥불을 *피우다*|to light a campfire|audio/row57_chunk1.wav|audio/row57_chunk2.wav|audio/row57_chunk3.wav
+58|1249|교통01|명|交通|A|transportation / traffic|대중*교통*|public transportation|*교통* 사고|traffic accident|*교통*이 편리하다|transportation is convenient|audio/row58_chunk1.wav|audio/row58_chunk2.wav|audio/row58_chunk3.wav
+59|1263|불다01|동|바람이 ~|A|to blow|바람이 *불다*|the wind blows|피리를 *불다*|to play the flute|풍선을 *불다*|to blow up a balloon|audio/row59_chunk1.wav|audio/row59_chunk2.wav|audio/row59_chunk3.wav
+60|1325|장소05|명|場所|A|place / location|약속 *장소*|meeting place|*장소*를 정하다|to decide a place|안전한 *장소*|safe place|audio/row60_chunk1.wav|audio/row60_chunk2.wav|audio/row60_chunk3.wav
+61|1334|적다01|동|답을 ~|A|to write down|이름을 *적다*|to write down a name|메모를 *적다*|to write a memo|수첩에 *적어두다*|to jot down in a notebook|audio/row61_chunk1.wav|audio/row61_chunk2.wav|audio/row61_chunk3.wav
+62|1488|인사01|명|人士|A|public figure / personage|유명 *인사*|celebrity / famous person|주요 *인사*|key figure|사회 *인사*|public figure|audio/row62_chunk1.wav|audio/row62_chunk2.wav|audio/row62_chunk3.wav
+63|1517|박물관|명|博物館|A|museum|*박물관*에 가다|to go to a museum|역사 *박물관*|history museum|국립 *박물관*|national museum|audio/row63_chunk1.wav|audio/row63_chunk2.wav|audio/row63_chunk3.wav
+64|1522|어서01|부||A|quickly / please|*어서* 오세요|welcome / come in quickly|*어서* 먹어라|eat quickly|*어서* 들어오세요|please come in|audio/row64_chunk1.wav|audio/row64_chunk2.wav|audio/row64_chunk3.wav
+65|1598|남쪽|명|南-|A|south|*남쪽* 지방|southern region|*남쪽*으로 가다|to go south|따뜻한 *남쪽*|warm south|audio/row65_chunk1.wav|audio/row65_chunk2.wav|audio/row65_chunk3.wav
+66|1619|부인01|명|夫人|A|wife / Mrs.|선생님의 *부인*|teacher's wife|사장님 *부인*|boss's wife|그의 *부인*|his wife|audio/row66_chunk1.wav|audio/row66_chunk2.wav|audio/row66_chunk3.wav
+67|1663|바람01|의|눈이 오는 ~에|A|because of (result)|늦잠을 자는 *바람에*|because I overslept|비가 오는 *바람에*|because it rained|서두르는 *바람에*|because I rushed|audio/row67_chunk1.wav|audio/row67_chunk2.wav|audio/row67_chunk3.wav
+68|1708|교회02|명|敎會|A|church|*교회*에 다니다|to go to church|*교회* 종소리|church bell ringing|일요일엔 *교회*에|to church on Sunday|audio/row68_chunk1.wav|audio/row68_chunk2.wav|audio/row68_chunk3.wav
+69|1714|화06|명|~를 내다|A|anger|*화*가 나다|to be angry|*화*를 내다|to express anger|*화*가 풀리다|anger is relieved|audio/row69_chunk1.wav|audio/row69_chunk2.wav|audio/row69_chunk3.wav
+70|1732|도서관|명|圖書館|A|library|학교 *도서관*|school library|*도서관*에서 빌리다|to borrow from a library|*도서관* 열람실|library reading room|audio/row70_chunk1.wav|audio/row70_chunk2.wav|audio/row70_chunk3.wav
+71|1745|지하|명|地下|A|basement|*지하* 주차장|underground parking lot|*지하* 일 층|basement level 1|*지하* 상가|underground shopping mall|audio/row71_chunk1.wav|audio/row71_chunk2.wav|audio/row71_chunk3.wav
+72|1781|사무실|명|事務室|A|office|*사무실* 가구|office furniture|개인 *사무실*|private office|*사무실*에 출근하다|to go to the office|audio/row72_chunk1.wav|audio/row72_chunk2.wav|audio/row72_chunk3.wav
+73|1862|잡지|명|雜誌|A|magazine|패션 *잡지*|fashion magazine|*잡지*를 읽다|to read a magazine|월간 *잡지*|monthly magazine|audio/row73_chunk1.wav|audio/row73_chunk2.wav|audio/row73_chunk3.wav
+74|1867|댁01|명|宅|A|house (honorific)|선생님 *댁*|teacher's house|할머니 *댁*|grandmother's house|*댁*이 어디세요?|where is your home?|audio/row74_chunk1.wav|audio/row74_chunk2.wav|audio/row74_chunk3.wav
+75|1868|반갑다|형||A|to be glad|만나서 *반갑다*|glad to meet you|*반가운* 소식|welcome news|*반갑게* 맞이하다|to welcome gladly|audio/row75_chunk1.wav|audio/row75_chunk2.wav|audio/row75_chunk3.wav
+76|2179|북쪽|명|北-|A|north|*북쪽* 하늘|northern sky|*북쪽*으로 향하다|to head north|추운 *북쪽*|cold north|audio/row76_chunk1.wav|audio/row76_chunk2.wav|audio/row76_chunk3.wav
+77|2181|쇠고기|명||A|beef|*쇠고기*를 굽다|to grill beef|*쇠고기* 국|beef soup|*쇠고기* 스테이크|beef steak|audio/row77_chunk1.wav|audio/row77_chunk2.wav|audio/row77_chunk3.wav
+78|2329|경찰관|명|警察官|A|police officer|*경찰관*이 되다|to become a police officer|*경찰관* 아저씨|policeman|*경찰관*에게 신고하다|to report to a police officer|audio/row78_chunk1.wav|audio/row78_chunk2.wav|audio/row78_chunk3.wav
+79|2434|군인|명|軍人|A|soldier|*군인*이 되다|to become a soldier|늠름한 *군인*|gallant soldier|*군인* 아저씨|soldier mister|audio/row79_chunk1.wav|audio/row79_chunk2.wav|audio/row79_chunk3.wav
+80|2457|치마01|명||A|skirt|*치마*를 입다|to wear a skirt|짧은 *치마*|short skirt|긴 *치마*|long skirt|audio/row80_chunk1.wav|audio/row80_chunk2.wav|audio/row80_chunk3.wav
+81|2465|깎다|동||A|to cut / to peel / to discount|사과를 *깎다*|to peel an apple|머리를 *깎다*|to cut hair|값을 *깎다*|to cut the price|audio/row81_chunk1.wav|audio/row81_chunk2.wav|audio/row81_chunk3.wav
+82|2466|다리02|명|교량|A|bridge|*다리*를 건너다|to cross a bridge|큰 *다리*|big bridge|한강 *다리*|Han River bridge|audio/row82_chunk1.wav|audio/row82_chunk2.wav|audio/row82_chunk3.wav
+83|2534|운동장|명|運動場|A|playground|*운동장*에서 놀다|to play on the playground|넓은 *운동장*|wide playground|학교 *운동장*|school playground|audio/row83_chunk1.wav|audio/row83_chunk2.wav|audio/row83_chunk3.wav
+84|2569|동쪽|명|東-|A|east|*동쪽* 하늘|eastern sky|*동쪽*으로 가다|to go east|해 뜨는 *동쪽*|east where the sun rises|audio/row84_chunk1.wav|audio/row84_chunk2.wav|audio/row84_chunk3.wav
+85|2603|요즈음|명||A|these days|*요즈음* 날씨|the weather these days|*요즈음* 어때?|how are you these days?|*요즈음* 바빠요|I am busy lately|audio/row85_chunk1.wav|audio/row85_chunk2.wav|audio/row85_chunk3.wav
+86|2659|안경03|명|眼鏡|A|glasses|*안경*을 쓰다|to wear glasses|*안경*을 맞추다|to get glasses made|*안경*을 벗다|to take off glasses|audio/row86_chunk1.wav|audio/row86_chunk2.wav|audio/row86_chunk3.wav
+87|2705|구경01|명||A|sightseeing|꽃 *구경*|flower viewing|*구경*을 가다|to go sightseeing|사람 *구경*|people watching|audio/row87_chunk1.wav|audio/row87_chunk2.wav|audio/row87_chunk3.wav
+88|2803|생선|명|生鮮|A|fish|*생선*을 굽다|to grill fish|*생선* 찌개|fish stew|신선한 *생선*|fresh fish|audio/row88_chunk1.wav|audio/row88_chunk2.wav|audio/row88_chunk3.wav
+89|2812|지우다01|동|낙서를 ~|A|to erase|글씨를 *지우다*|to erase writing|화장을 *지우다*|to remove makeup|칠판을 *지웠다*|erased the blackboard|audio/row89_chunk1.wav|audio/row89_chunk2.wav|audio/row89_chunk3.wav
+90|2887|교과서|명|敎科書|A|textbook|수학 *교과서*|math textbook|*교과서*를 읽다|to read a textbook|*교과서* 위주로|based on textbooks|audio/row90_chunk1.wav|audio/row90_chunk2.wav|audio/row90_chunk3.wav
+91|2932|식탁|명|食卓|A|dining table|*식탁*을 차리다|to set the table|*식탁*에 앉다|to sit at the table|나무 *식탁*|wooden dining table|audio/row91_chunk1.wav|audio/row91_chunk2.wav|audio/row91_chunk3.wav
+92|2970|안되다01|동|공부가 ~|A|to not work out|일이 *안되다*|work is not going well|공부가 잘 *안된다*|studies aren't going well|얼굴이 *안됐네*|you look unwell|audio/row92_chunk1.wav|audio/row92_chunk2.wav|audio/row92_chunk3.wav
+93|3152|서쪽|명|西-|A|west|*서쪽* 바다|western sea|*서쪽*으로 지다|to set in the west|*서쪽* 하늘|western sky|audio/row93_chunk1.wav|audio/row93_chunk2.wav|audio/row93_chunk3.wav
+94|3287|여학생|명|女學生|A|female student|고등학교 *여학생*|high school girl|친절한 *여학생*|kind female student|*여학생* 교복|female student uniform|audio/row94_chunk1.wav|audio/row94_chunk2.wav|audio/row94_chunk3.wav
+95|3703|연필|명|鉛筆|A|pencil|*연필*로 쓰다|to write with a pencil|*연필*을 깎다|to sharpen a pencil|진한 *연필*|dark pencil|audio/row95_chunk1.wav|audio/row95_chunk2.wav|audio/row95_chunk3.wav
+96|3707|운전02|명|運轉|A|driving|음주 *운전*|drunk driving|*운전* 면허증|driver's license|*운전*을 배우다|to learn driving|audio/row96_chunk1.wav|audio/row96_chunk2.wav|audio/row96_chunk3.wav
+97|3808|목욕|명|沐浴|A|bath|*목욕*을 하다|to take a bath|*목욕* 가방|bath bag|매일 *목욕*해요|taking a bath every day|audio/row97_chunk1.wav|audio/row97_chunk2.wav|audio/row97_chunk3.wav
+98|3894|친절하다|형|親切-|A|to be kind|사람들이 *친절하다*|people are kind|*친절한* 안내|kind guidance|*친절하게* 대하다|to treat kindly|audio/row98_chunk1.wav|audio/row98_chunk2.wav|audio/row98_chunk3.wav
+99|3924|먹다02|보|잊어 ~|A|to do (auxiliary)|잊어 *먹다*|to completely forget|빌려 *먹다*|to borrow (and consume)|욕을 얻어 *먹다*|to be cursed at|audio/row99_chunk1.wav|audio/row99_chunk2.wav|audio/row99_chunk3.wav
+100|4142|여권02|명|旅券|A|passport|*여권*을 만들다|to make a passport|*여권* 사진|passport photo|*여권* 만료|passport expiration|audio/row100_chunk1.wav|audio/row100_chunk2.wav|audio/row100_chunk3.wav
+101|4143|열쇠|명||A|key|방 *열쇠*|room key|*열쇠*로 열다|to open with a key|차 *열쇠*|car key|audio/row101_chunk1.wav|audio/row101_chunk2.wav|audio/row101_chunk3.wav
+102|4776|기숙사|명|寄宿舍|A|dormitory|학교 *기숙사*|school dorm|*기숙사* 생활|dorm life|*기숙사*에 살다|to live in a dorm|audio/row102_chunk1.wav|audio/row102_chunk2.wav|audio/row102_chunk3.wav
+103|4836|주소01|명|住所|A|address|집 *주소*|home address|*주소*를 쓰다|to write an address|*주소*가 바뀌다|the address has changed|audio/row103_chunk1.wav|audio/row103_chunk2.wav|audio/row103_chunk3.wav
+104|5088|달력|명|-曆|A|calendar|*달력*을 보다|to look at a calendar|탁상 *달력*|desk calendar|새해 *달력*|new year calendar|audio/row104_chunk1.wav|audio/row104_chunk2.wav|audio/row104_chunk3.wav
+105|5121|소풍02|명|逍風|A|picnic|가을 *소풍*|autumn picnic|*소풍*을 가다|to go on a picnic|*소풍* 도시락|picnic lunch box|audio/row105_chunk1.wav|audio/row105_chunk2.wav|audio/row105_chunk3.wav
+106|5201|똑바로|부||A|straight|*똑바로* 앉다|to sit up straight|*똑바로* 가다|to go straight|*똑바로* 서다|to stand straight|audio/row106_chunk1.wav|audio/row106_chunk2.wav|audio/row106_chunk3.wav
+107|5229|서점03|명|書店|A|bookstore|중고 *서점*|used bookstore|*서점*에서 살다|to live at the bookstore|대형 *서점*|large bookstore|audio/row107_chunk1.wav|audio/row107_chunk2.wav|audio/row107_chunk3.wav
+108|5452|경치02|명|景致|A|scenery|*경치*가 좋다|the scenery is good|아름다운 *경치*|beautiful scenery|*경치*를 구경하다|to see the sights|audio/row108_chunk1.wav|audio/row108_chunk2.wav|audio/row108_chunk3.wav
+109|5791|우체국|명|郵遞局|A|post office|*우체국*에 가다|to go to the post office|근처 *우체국*|nearby post office|*우체국* 택배|post office parcel service|audio/row109_chunk1.wav|audio/row109_chunk2.wav|audio/row109_chunk3.wav
+110|5883|대사관|명|大使館|A|embassy|한국 *대사관*|Korean Embassy|*대사관*에 가다|to go to the embassy|미국 *대사관*|US Embassy|audio/row110_chunk1.wav|audio/row110_chunk2.wav|audio/row110_chunk3.wav
+111|5966|정류장|명|停留場|A|bus stop|버스 *정류장*|bus stop|*정류장*에서 기다리다|to wait at the stop|다음 *정류장*|next stop|audio/row111_chunk1.wav|audio/row111_chunk2.wav|audio/row111_chunk3.wav
+112|6108|오래간만|명||A|long time|*오래간만*에 만나다|to meet after a long time|*오래간만*의 인사|greeting after a long time|*오래간만*이라 반갑다|glad because it's been a long time|audio/row112_chunk1.wav|audio/row112_chunk2.wav|audio/row112_chunk3.wav
+113|6878|잡수시다|동||A|to eat (honorific)|맛있게 *잡수시다*|to eat deliciously|많이 *잡수세요*|please eat a lot|저녁을 *잡수셨어요*?|have you eaten dinner?|audio/row113_chunk1.wav|audio/row113_chunk2.wav|audio/row113_chunk3.wav
+114|7129|초대06|명|招待|A|invitation|*초대*를 받다|to receive an invitation|생일 *초대*|birthday invitation|*초대*에 감사하다|to thank for the invitation|audio/row114_chunk1.wav|audio/row114_chunk2.wav|audio/row114_chunk3.wav
+115|7270|사전22|명|辭典|A|dictionary|전자 *사전*|electronic dictionary|*사전*을 찾다|to look up in a dictionary|국어 *사전*|Korean dictionary|audio/row115_chunk1.wav|audio/row115_chunk2.wav|audio/row115_chunk3.wav
+116|7649|치약|명|齒藥|A|toothpaste|*치약*을 짜다|to squeeze toothpaste|매운 *치약*|spicy toothpaste|*치약*과 칫솔|toothpaste and toothbrush|audio/row116_chunk1.wav|audio/row116_chunk2.wav|audio/row116_chunk3.wav
+117|8329|노란색|명|-色|A|yellow|*노란색* 옷|yellow clothes|*노란색* 꽃|yellow flower|*노란색*으로 칠하다|to paint in yellow|audio/row117_chunk1.wav|audio/row117_chunk2.wav|audio/row117_chunk3.wav
+118|8589|칫솔|명|齒-|A|toothbrush|*칫솔*을 바꾸다|to change a toothbrush|부드러운 *칫솔*|soft toothbrush|*칫솔*에 치약을 짜다|to squeeze toothpaste onto a toothbrush|audio/row118_chunk1.wav|audio/row118_chunk2.wav|audio/row118_chunk3.wav
+119|8672|공중전화|명|公衆電話|A|public phone|*공중전화* 박스|public phone booth|*공중전화*를 걸다|to make a call from a public phone|추억의 *공중전화*|nostalgic public phone|audio/row119_chunk1.wav|audio/row119_chunk2.wav|audio/row119_chunk3.wav
+120|8809|세탁기|명|洗濯機|A|washing machine|*세탁기*를 돌리다|to run the washing machine|드럼 *세탁기*|drum-style washing machine|*세탁기*가 고장 나다|the washing machine is broken|audio/row120_chunk1.wav|audio/row120_chunk2.wav|audio/row120_chunk3.wav
+121|9466|공휴일|명|公休日|A|public holiday|법정 *공휴일*|statutory holiday|*공휴일*은 쉽니다|closed on public holidays|내일은 *공휴일*이다|tomorrow is a public holiday|audio/row121_chunk1.wav|audio/row121_chunk2.wav|audio/row121_chunk3.wav
+122|9548|마흔|수||A|forty|나이 *마흔*|forty years old|*마흔* 명의 학생|forty students|*마흔* 살|forty years old|audio/row122_chunk1.wav|audio/row122_chunk2.wav|audio/row122_chunk3.wav
+123|10274|청바지|명|靑-|A|jeans|*청바지*를 입다|to wear jeans|낡은 *청바지*|worn-out jeans|편한 *청바지*|comfortable jeans|audio/row123_chunk1.wav|audio/row123_chunk2.wav|audio/row123_chunk3.wav
+124|10833|칠판|명|漆板|A|blackboard|*칠판*을 닦다|to erase the blackboard|*칠판*에 쓰다|to write on the blackboard|*칠판*을 보다|to look at the blackboard|audio/row124_chunk1.wav|audio/row124_chunk2.wav|audio/row124_chunk3.wav
+125|11421|지우개|명||A|eraser|*지우개*로 지우다|to erase with an eraser|부드러운 *지우개*|soft eraser|*지우개* 똥|eraser crumbs|audio/row125_chunk1.wav|audio/row125_chunk2.wav|audio/row125_chunk3.wav
+126|12580|서른|수||A|thirty|*서른* 살|thirty years old|나이 *서른*|the age of thirty|*서른* 명|thirty people|audio/row126_chunk1.wav|audio/row126_chunk2.wav|audio/row126_chunk3.wav
+127|12818|장미05|명|薔薇|A|rose|빨간 *장미*|red rose|*장미* 한 송이|a single rose|*장미* 꽃다발|bouquet of roses|audio/row127_chunk1.wav|audio/row127_chunk2.wav|audio/row127_chunk3.wav
+128|12965|파란색|명|-색|A|blue color|*파란색* 바다|blue sea|*파란색* 셔츠|blue shirt|*파란색*으로 그리다|to draw in blue|audio/row128_chunk1.wav|audio/row128_chunk2.wav|audio/row128_chunk3.wav
+129|13584|여든|수||A|eighty|나이 *여든*|eighty years old|*여든* 살|eighty years old|*여든* 명|eighty people|audio/row129_chunk1.wav|audio/row129_chunk2.wav|audio/row129_chunk3.wav
+130|13695|일흔|수||A|seventy|나이 *일흔*|seventy years old|*일흔* 살|seventy years old|*일흔* 명|seventy people|audio/row130_chunk1.wav|audio/row130_chunk2.wav|audio/row130_chunk3.wav
+131|20886|사탕02|명|沙糖|A|candy|달콤한 *사탕*|sweet candy|*사탕*을 먹다|to eat candy|*사탕* 한 봉지|a bag of candy|audio/row131_chunk1.wav|audio/row131_chunk2.wav|audio/row131_chunk3.wav
+132|21340|예순|수||A|sixty|나이 *예순*|sixty years old|*예순* 살|sixty years old|*예순* 명|sixty people|audio/row132_chunk1.wav|audio/row132_chunk2.wav|audio/row132_chunk3.wav
+133|27846|쉰|수||A|fifty|나이 *쉰*|fifty years old|*쉰* 살|fifty years old|*쉰* 명|fifty people|audio/row133_chunk1.wav|audio/row133_chunk2.wav|audio/row133_chunk3.wav
+134|49265|아흔|수||A|ninety|*아흔* 살|ninety years old|*아흔* 명|ninety people|나이 *아흔*|ninety years of age|audio/row134_chunk1.wav|audio/row134_chunk2.wav|audio/row134_chunk3.wav
+135||경복궁|고|景福宮|A|Gyeongbokgung Palace|*경복궁* 나들이|outing to Gyeongbokgung|*경복궁*에 가다|to go to Gyeongbokgung|*경복궁* 근정전|Geunjeongjeon of Gyeongbokgung|audio/row135_chunk1.wav|audio/row135_chunk2.wav|audio/row135_chunk3.wav
+136||설악산|고|雪嶽山|A|Seoraksan Mountain|*설악산* 등산|climbing Seoraksan|가을 *설악산*|Seoraksan in autumn|*설악산* 국립공원|Seoraksan National Park|audio/row136_chunk1.wav|audio/row136_chunk2.wav|audio/row136_chunk3.wav
+137|24|대하다02|동|對-|B|to treat / to face|사람을 *대하다*|to treat a person|문제를 *대하는* 태도|attitude toward a problem|나를 따뜻하게 *대하다*|to treat me warmly|audio/row137_chunk1.wav|audio/row137_chunk2.wav|audio/row137_chunk3.wav
+138|42|사회07|명|社會|B|society|한국 *사회*|Korean society|*사회* 문제|social issues|*사회*에 나가다|to go out into society|audio/row138_chunk1.wav|audio/row138_chunk2.wav|audio/row138_chunk3.wav
+139|65|경우03|명|境遇|B|case / situation|비가 올 *경우*|in case of rain|그런 *경우*가 많다|there are many such cases|이런 *경우*에는|in this case|audio/row139_chunk1.wav|audio/row139_chunk2.wav|audio/row139_chunk3.wav
+140|72|자신01|명|自身|B|oneself|*자신*이 없다|to lack confidence|*자신*을 믿다|to believe in oneself|*자신*의 일|one's own work|audio/row140_chunk1.wav|audio/row140_chunk2.wav|audio/row140_chunk3.wav
+141|73|문화01|명|文化|B|culture|전통 *문화*|traditional culture|*문화* 차이|cultural difference|*문화* 생활|cultural life|audio/row141_chunk1.wav|audio/row141_chunk2.wav|audio/row141_chunk3.wav
+142|78|통하다|동|通-|B|to communicate / to pass|말이 *통하다*|to understand each other|공기가 *통하다*|to be well-ventilated|영어로 *통했다*|communicated in English|audio/row142_chunk1.wav|audio/row142_chunk2.wav|audio/row142_chunk3.wav
+143|86|정도11|명|程度|B|degree / about|어느 *정도*|to some degree|한 달 *정도*|about a month|심할 *정도*로|to an extreme degree|audio/row143_chunk1.wav|audio/row143_chunk2.wav|audio/row143_chunk3.wav
+144|110|의하다01|동|依-|B|to be due to / based on|법에 *의하다*|to be according to the law|소문에 *의하면*|according to rumors|조사에 *의한* 결과|results based on the survey|audio/row144_chunk1.wav|audio/row144_chunk2.wav|audio/row144_chunk3.wav
+145|111|시대02|명|時代|B|era / age|조선 *시대*|Joseon dynasty era|평화로운 *시대*|a peaceful era|*시대*가 변하다|the times are changing|audio/row145_chunk1.wav|audio/row145_chunk2.wav|audio/row145_chunk3.wav
+146|113|이러하다|형||B|to be like this|사정이 *이러하다*|the situation is like this|*이러한* 이유로|for this reason|세상은 *이러해요*|the world is like this|audio/row146_chunk1.wav|audio/row146_chunk2.wav|audio/row146_chunk3.wav
+147|126|자기04|대|自己|B|oneself|*자기* 소개|self-introduction|*자기* 주도|self-directed|*자기*밖에 모르다|to care only for oneself|audio/row147_chunk1.wav|audio/row147_chunk2.wav|audio/row147_chunk3.wav
+148|128|대통령|명|大統領|B|president|*대통령* 선거|presidential election|한국 *대통령*|South Korean president|*대통령*이 되다|to become president|audio/row148_chunk1.wav|audio/row148_chunk2.wav|audio/row148_chunk3.wav
+149|129|가지04|의|한 ~|B|kind / sort / type|여러 *가지*|various kinds|한 *가지* 일|one type of work|세 *가지* 색|three kinds of colors|audio/row149_chunk1.wav|audio/row149_chunk2.wav|audio/row149_chunk3.wav
+150|141|국가01|명|國家|B|nation / state|*국가* 안보|national security|선진 *국가*|developed nation|*국가* 대표|national representative|audio/row150_chunk1.wav|audio/row150_chunk2.wav|audio/row150_chunk3.wav
+151|146|여성01|명|女性|B|woman / female|*여성*복 매장|women's clothing store|현대 *여성*|modern woman|*여성*의 권리|women's rights|audio/row151_chunk1.wav|audio/row151_chunk2.wav|audio/row151_chunk3.wav
+152|152|관계05|명|關係|B|relationship / connection|인간 *관계*|human relations|상관 *관계*|correlation|*관계*가 깊다|to be deeply related|audio/row152_chunk1.wav|audio/row152_chunk2.wav|audio/row152_chunk3.wav
+153|160|나타나다|동||B|to appear / to emerge|효과가 *나타나다*|for effects to show|앞에 *나타나다*|to appear in front|증상이 *나타났다*|symptoms appeared|audio/row153_chunk1.wav|audio/row153_chunk2.wav|audio/row153_chunk3.wav
+154|162|지역03|명|地域|B|region / area|서울 *지역*|Seoul area|낙후된 *지역*|underdeveloped region|특수 *지역*|special area|audio/row154_chunk1.wav|audio/row154_chunk2.wav|audio/row154_chunk3.wav
+155|164|모습01|명||B|appearance / figure|옛 *모습*|old appearance|웃는 *모습*|the way (one) looks when laughing|*모습*을 드러내다|to reveal oneself|audio/row155_chunk1.wav|audio/row155_chunk2.wav|audio/row155_chunk3.wav
+156|177|뿐01|의||B|only / just|너*뿐*이야|it's only you|그*뿐*만 아니라|not only that|소문일 *뿐*이다|it's just a rumor|audio/row156_chunk1.wav|audio/row156_chunk2.wav|audio/row156_chunk3.wav
+157|198|교육|명|敎育|B|education|의무 *교육*|compulsory education|*교육* 제도|education system|아이를 *교육하다*|to educate a child|audio/row157_chunk1.wav|audio/row157_chunk2.wav|audio/row157_chunk3.wav
+158|200|경제04|명|經濟|B|economy|*경제* 성장|economic growth|가정 *경제*|household economy|*경제*가 어렵다|the economy is struggling|audio/row158_chunk1.wav|audio/row158_chunk2.wav|audio/row158_chunk3.wav
+159|211|결과02|명|結果|B|result / outcome|시험 *결과*|exam results|노력의 *결과*|result of effort|*결과*를 기다리다|to wait for the result|audio/row159_chunk1.wav|audio/row159_chunk2.wav|audio/row159_chunk3.wav
+160|230|밝히다|동||B|to reveal / to light up|사실을 *밝히다*|to reveal the truth|방을 환하게 *밝히다*|to light up a room|입장을 *밝혔다*|revealed one's position|audio/row160_chunk1.wav|audio/row160_chunk2.wav|audio/row160_chunk3.wav
+161|234|정치03|명|政治|B|politics|*정치* 경제|politics and economy|*정치*에 참여하다|to participate in politics|*정치*가 혼란스럽다|politics are chaotic|audio/row161_chunk1.wav|audio/row161_chunk2.wav|audio/row161_chunk3.wav
+162|235|국민|명|國民|B|citizen / the people|대한민국 *국민*|Korean citizen|*국민*의 의무|duty of the citizens|전 *국민*의 관심|interest of the whole nation|audio/row162_chunk1.wav|audio/row162_chunk2.wav|audio/row162_chunk3.wav
+163|239|연구03|명|硏究|B|research / study|학술 *연구*|academic research|*연구*를 진행하다|to conduct research|*연구* 결과|research results|audio/row163_chunk1.wav|audio/row163_chunk2.wav|audio/row163_chunk3.wav
+164|247|짓다01|동||B|to build / to make|집을 *짓다*|to build a house|미소를 *짓다*|to make a smile|밥을 *지었다*|made rice|audio/row164_chunk1.wav|audio/row164_chunk2.wav|audio/row164_chunk3.wav
+165|248|또한|부||B|also / furthermore|*또한* 기쁜 소식|also good news|가난하고 *또한* 아프다|to be poor and also sick|편리하며 *또한* 빠르다|convenient and also fast|audio/row165_chunk1.wav|audio/row165_chunk2.wav|audio/row165_chunk3.wav
+166|250|또는|부||B|or|연필 *또는* 볼펜|pencil or ballpoint pen|월요일 *또는* 화요일|Monday or Tuesday|사랑 *또는* 우정|love or friendship|audio/row166_chunk1.wav|audio/row166_chunk2.wav|audio/row166_chunk3.wav
+167|258|세상01|명|世上|B|world / society|*세상* 밖으로|out into the world|*세상*에 이런 일이|how can this happen in the world|힘든 *세상*|a difficult world|audio/row167_chunk1.wav|audio/row167_chunk2.wav|audio/row167_chunk3.wav
+168|267|즉01|부|卽|B|in other words / namely|일주일, *즉* 칠일|one week, namely seven days|*즉* 말하자면|in other words|*즉* 다시 말해|that is to say|audio/row168_chunk1.wav|audio/row168_chunk2.wav|audio/row168_chunk3.wav
+169|272|문학01|명|文學|B|literature|한국 *문학*|Korean literature|*문학* 소녀|literary girl|현대 *문학*|modern literature|audio/row169_chunk1.wav|audio/row169_chunk2.wav|audio/row169_chunk3.wav
+170|275|지방05|명|地方|B|region / countryside|*지방* 자치|local autonomy|*지방*으로 내려가다|to go down to the provinces|강원도 *지방*|Gangwon-do region|audio/row170_chunk1.wav|audio/row170_chunk2.wav|audio/row170_chunk3.wav
+171|281|환경02|명|環境|B|environment|자연 *환경*|natural environment|*환경* 보호|environmental protection|주거 *환경*|living environment|audio/row171_chunk1.wav|audio/row171_chunk2.wav|audio/row171_chunk3.wav
+172|286|자체02|명|自體|B|itself|문제 *자체*|the problem itself|*자체* 제작|produced in-house|그 *자체*로 아름답다|beautiful in itself|audio/row172_chunk1.wav|audio/row172_chunk2.wav|audio/row172_chunk3.wav
+173|294|변화|명|變化|B|change|심경의 *변화*|change of heart|*변화*를 시도하다|to try a change|날씨의 *변화*|change in weather|audio/row173_chunk1.wav|audio/row173_chunk2.wav|audio/row173_chunk3.wav
+174|301|관하다02|동|關-|B|to concern / related to|정치에 *관한* 책|book about politics|사건에 *관하여*|regarding the case|이에 *관해* 말하다|to speak about this|audio/row174_chunk1.wav|audio/row174_chunk2.wav|audio/row174_chunk3.wav
+175|304|나누다|동||B|to divide / to share|음식을 *나누다*|to share food|대화를 *나누었다*|exchanged conversation|반으로 *나누다*|to divide in half|audio/row175_chunk1.wav|audio/row175_chunk2.wav|audio/row175_chunk3.wav
+176|308|중심01|명|中心|B|center / core|마을 *중심*|village center|*중심* 인물|central figure|*중심*을 잡다|to find one's balance|audio/row176_chunk1.wav|audio/row176_chunk2.wav|audio/row176_chunk3.wav
+177|309|활동02|명|活動|B|activity|봉사 *활동*|volunteer activity|*활동*이 왕성하다|to be very active|경제 *활동*|economic activity|audio/row177_chunk1.wav|audio/row177_chunk2.wav|audio/row177_chunk3.wav
+178|312|관심01|명|關心|B|interest|*관심*을 끌다|to attract interest|*관심*이 없다|to have no interest|많은 *관심* 부탁드려요|please give us much interest|audio/row178_chunk1.wav|audio/row178_chunk2.wav|audio/row178_chunk3.wav
+179|313|역시01|부|亦是|B|as expected / also|*역시* 최고다|as expected, (it's) the best|너 *역시* 마찬가지야|you too are the same|*역시* 어렵네|it's difficult as expected|audio/row179_chunk1.wav|audio/row179_chunk2.wav|audio/row179_chunk3.wav
+180|315|애02|명|아이|B|kid / child|*애*가 울다|a kid is crying|우리 *애*|my kid|*애*를 키우다|to raise a child|audio/row180_chunk1.wav|audio/row180_chunk2.wav|audio/row180_chunk3.wav
+181|316|광고02|명|廣告|B|advertisement|TV *광고*|TV commercial|*광고*를 내다|to place an ad|과장 *광고*|exaggerated advertising|audio/row181_chunk1.wav|audio/row181_chunk2.wav|audio/row181_chunk3.wav
+182|317|나다01|보||B|to end up (aux)|죽고 *나다*|to have died|끝나고 *나서*|after it's over|다 먹고 *나면*|once I finish eating|audio/row182_chunk1.wav|audio/row182_chunk2.wav|audio/row182_chunk3.wav
+183|319|정신12|명|精神|B|spirit / mind|*정신* 건강|mental health|*정신*을 차리다|to collect one's senses|시대 *정신*|spirit of the times|audio/row183_chunk1.wav|audio/row183_chunk2.wav|audio/row183_chunk3.wav
+184|320|이르다01|동|도착하다|B|to reach / to arrive|정상에 *이르다*|to reach the summit|결론에 *이르렀다*|reached a conclusion|목적지에 *이르다*|to arrive at a destination|audio/row184_chunk1.wav|audio/row184_chunk2.wav|audio/row184_chunk3.wav
+185|322|이루다01|동||B|to achieve / to form|꿈을 *이루다*|to achieve a dream|가족을 *이루다*|to start a family|성공을 *이루었다*|achieved success|audio/row185_chunk1.wav|audio/row185_chunk2.wav|audio/row185_chunk3.wav
+186|326|두다01|보||B|to do (aux)|먹어 *두다*|to eat beforehand|알아 *두세요*|please keep in mind|적어 *두다*|to write down for later|audio/row186_chunk1.wav|audio/row186_chunk2.wav|audio/row186_chunk3.wav
+187|328|기술01|명|技術|B|technology / skill|과학 *기술*|science and technology|운전 *기술*|driving skill|*기술*을 배우다|to learn a technique|audio/row187_chunk1.wav|audio/row187_chunk2.wav|audio/row187_chunk3.wav
+188|329|전체01|명|全體|B|whole / entire|학급 *전체*|the whole class|*전체* 회의|full meeting|*전체*적인 분위기|overall atmosphere|audio/row188_chunk1.wav|audio/row188_chunk2.wav|audio/row188_chunk3.wav
+189|331|얻다01|동||B|to get / to gain|정보를 *얻다*|to get information|용기를 *얻었다*|gained courage|허락을 *얻다*|to get permission|audio/row189_chunk1.wav|audio/row189_chunk2.wav|audio/row189_chunk3.wav
+190|334|민족|명|民族|B|ethnic group / nation|한*민족*|the Korean people|*민족* 예술|folk art|*민족* 대이동|mass migration of the nation|audio/row190_chunk1.wav|audio/row190_chunk2.wav|audio/row190_chunk3.wav
+191|335|간10|의|間. 서울과 부산 ~|B|between / during|부부 *간*|between husband and wife|장기간 *간*|for a long period|서울과 부산 *간*|between Seoul and Busan|audio/row191_chunk1.wav|audio/row191_chunk2.wav|audio/row191_chunk3.wav
+192|336|조사30|명|調査|B|investigation / survey|실태 *조사*|investigation of the actual state|*조사*를 받다|to be under investigation|만족도 *조사*|satisfaction survey|audio/row192_chunk1.wav|audio/row192_chunk2.wav|audio/row192_chunk3.wav
+193|340|그대로|부||B|as it is|있는 *그대로*|just as it is|말한 *그대로*|exactly as said|*그대로* 멈춰라|stop right there|audio/row193_chunk1.wav|audio/row193_chunk2.wav|audio/row193_chunk3.wav
+194|343|줄04|의|방법|B|how to / way|할 *줄* 알다|to know how to do|갈 *줄* 몰랐어|didn't know (I) would go|수영할 *줄* 안다|knows how to swim|audio/row194_chunk1.wav|audio/row194_chunk2.wav|audio/row194_chunk3.wav
+195|345|년대|의|年代|B|era / the 's (years)|1990*년대*|the 1990s|80*년대* 패션|80s fashion|각 *년대*별|by each decade|audio/row195_chunk1.wav|audio/row195_chunk2.wav|audio/row195_chunk3.wav
+196|346|과학|명|과학|B|science|*과학* 기술|science and technology|*과학*적인 방법|scientific method|*과학* 잡지|science magazine|audio/row196_chunk1.wav|audio/row196_chunk2.wav|audio/row196_chunk3.wav
+197|359|이루어지다|동||B|to consist of / to be achieved|꿈이 *이루어지다*|dreams come true|삼위로 *이루어지다*|to consist of three parts|합의가 *이루어졌다*|an agreement was reached|audio/row197_chunk1.wav|audio/row197_chunk2.wav|audio/row197_chunk3.wav
+198|363|적03|의||B|time / occasion|어릴 *적*|when (I) was young|그럴 *적*마다|every time that happens|갈 *적*에|when going|audio/row198_chunk1.wav|audio/row198_chunk2.wav|audio/row198_chunk3.wav
+199|364|터02|의||B|plan / expectation|가려던 *터*에|was just about to go|먹을 *터*이지|must be going to eat|그럴 *터*이다|it is expected to be so|audio/row199_chunk1.wav|audio/row199_chunk2.wav|audio/row199_chunk3.wav
+200|387|바라보다|동||B|to look at / to watch|바다를 *바라보다*|to look out at the sea|물끄러미 *바라봤다*|stared blankly|희망을 *바라보다*|to look toward hope|audio/row200_chunk1.wav|audio/row200_chunk2.wav|audio/row200_chunk3.wav
+201|391|대부분|명|大部分|B|most / majority|학생 *대부분*|most of the students|*대부분*의 사람|most people|*대부분*이 찬성하다|the majority agrees|audio/row201_chunk1.wav|audio/row201_chunk2.wav|audio/row201_chunk3.wav
+202|396|표정03|명|表情|B|expression / look|밝은 *표정*|bright expression|*표정*이 어둡다|to have a dark look|무표정한 *표정*|blank expression|audio/row202_chunk1.wav|audio/row202_chunk2.wav|audio/row202_chunk3.wav
+203|398|일부02|명|一部|B|part / portion|주민의 *일부*|some of the residents|*일부* 지역|certain areas|금액의 *일부*|part of the amount|audio/row203_chunk1.wav|audio/row203_chunk2.wav|audio/row203_chunk3.wav
+204|403|고개01|명|~를 돌리다|B|head / neck|*고개*를 숙이다|to bow one's head|*고개*를 끄덕이다|to nod|*고개*를 돌리다|to turn one's head|audio/row204_chunk1.wav|audio/row204_chunk2.wav|audio/row204_chunk3.wav
+205|404|성격02|명|性格|B|personality / character|*성격*이 급하다|to be short-tempered|밝은 *성격*|bright personality|*성격* 차이|personality difference|audio/row205_chunk1.wav|audio/row205_chunk2.wav|audio/row205_chunk3.wav
+206|406|세기03|명|世紀|B|century|21*세기*|21st century|수*세기* 동안|for several centuries|*세기*의 대결|match of the century|audio/row206_chunk1.wav|audio/row206_chunk2.wav|audio/row206_chunk3.wav
+207|407|세우다01|동||B|to set up / to stop|계획을 *세우다*|to make a plan|차를 *세우다*|to stop the car|기록을 *세웠다*|set a record|audio/row207_chunk1.wav|audio/row207_chunk2.wav|audio/row207_chunk3.wav
+208|411|현재02|부|現在|B|currently|*현재* 진행 중|currently in progress|*현재*까지의 상황|situation until now|*현재* 살고 있는|currently living|audio/row208_chunk1.wav|audio/row208_chunk2.wav|audio/row208_chunk3.wav
+209|416|발전01|명|發展|B|development|경제 *발전*|economic development|기술의 *발전*|development of technology|*발전*을 거듭하다|to keep developing|audio/row209_chunk1.wav|audio/row209_chunk2.wav|audio/row209_chunk3.wav
+210|419|향하다|동|向-|B|to head toward|서울로 *향하다*|to head toward Seoul|남쪽을 *향해*|toward the south|성공을 *향한* 길|the road toward success|audio/row210_chunk1.wav|audio/row210_chunk2.wav|audio/row210_chunk3.wav
+211|420|관련|명|關聯|B|relation / connection|업무 *관련*|work-related|*관련*이 있다|to have a connection|*관련* 내용을 확인하다|to check related details|audio/row211_chunk1.wav|audio/row211_chunk2.wav|audio/row211_chunk3.wav
+212|422|각01|관|各|B|each / every|*각* 부서|each department|*각* 나라의 문화|culture of each country|*각* 가정에|to every household|audio/row212_chunk1.wav|audio/row212_chunk2.wav|audio/row212_chunk3.wav
+213|425|분위기|명|雰圍氣|B|atmosphere / mood|좋은 *분위기*|good atmosphere|*분위기*가 밝다|the mood is bright|카페 *분위기*|cafe atmosphere|audio/row213_chunk1.wav|audio/row213_chunk2.wav|audio/row213_chunk3.wav
+214|426|그러하다|형||B|to be so|사정이 *그러하다*|the situation is so|*그러한* 사실|such a fact|항상 *그러하지* 않다|it is not always so|audio/row214_chunk1.wav|audio/row214_chunk2.wav|audio/row214_chunk3.wav
+215|427|자기04|명|自己|B|oneself|*자기* 주관|one's own opinion|*자기* 발전을 위해|for self-development|*자기* 일을 하다|to do one's own work|audio/row215_chunk1.wav|audio/row215_chunk2.wav|audio/row215_chunk3.wav
+216|430|우선02|부|于先|B|first of all|*우선* 먹자|let's eat first|*우선* 급한 불|first, the urgent matter|무엇보다 *우선*|first of all|audio/row216_chunk1.wav|audio/row216_chunk2.wav|audio/row216_chunk3.wav
+217|433|낳다01|동||B|to give birth|아기를 *낳다*|to give birth to a baby|알을 *낳다*|to lay an egg|결과를 *낳다*|to produce a result|audio/row217_chunk1.wav|audio/row217_chunk2.wav|audio/row217_chunk3.wav
+218|435|정보06|명|情報|B|information|유익한 *정보*|useful information|*정보*를 얻다|to get information|개인 *정보*|personal information|audio/row218_chunk1.wav|audio/row218_chunk2.wav|audio/row218_chunk3.wav
+219|436|열리다02|동|문이 ~|B|to be opened|문이 *열리다*|the door opens|창문이 *열려* 있다|the window is open|행사가 *열리다*|the event is held|audio/row219_chunk1.wav|audio/row219_chunk2.wav|audio/row219_chunk3.wav
+220|443|역할|명|役割|B|role|중요한 *역할*|important role|*역할*을 맡다|to take on a role|주인공 *역할*|role of the protagonist|audio/row220_chunk1.wav|audio/row220_chunk2.wav|audio/row220_chunk3.wav
+221|447|국내02|명|國內|B|domestic / within the country|*국내* 시장|domestic market|*국내* 여행|domestic travel|*국내*외 정세|domestic and international situation|audio/row221_chunk1.wav|audio/row221_chunk2.wav|audio/row221_chunk3.wav
+222|452|예08|명|例|B|example|*예*를 들다|to give an example|*예*외적인 경우|exceptional case|좋은 *예*|a good example|audio/row222_chunk1.wav|audio/row222_chunk2.wav|audio/row222_chunk3.wav
+223|458|나서다|동||B|to step forward / to set out|앞에 *나서다*|to step forward|길을 *나서다*|to set out on a journey|문제를 해결하러 *나섰다*|stepped forward to solve the problem|audio/row223_chunk1.wav|audio/row223_chunk2.wav|audio/row223_chunk3.wav
+224|459|흐르다01|동||B|to flow / to pass|강물이 *흐르다*|river water flows|시간이 *흐르다*|time passes|눈물이 *흐르다*|tears flow|audio/row224_chunk1.wav|audio/row224_chunk2.wav|audio/row224_chunk3.wav
+225|468|조건02|명|條件|B|condition|계약 *조건*|contract conditions|필수 *조건*|essential condition|*조건*을 제시하다|to propose conditions|audio/row225_chunk1.wav|audio/row225_chunk2.wav|audio/row225_chunk3.wav
+226|476|넘다01|동||B|to cross over / to exceed|산을 *넘다*|to cross a mountain|백 명을 *넘다*|to exceed a hundred people|담을 *넘다*|to climb over a wall|audio/row226_chunk1.wav|audio/row226_chunk2.wav|audio/row226_chunk3.wav
+227|483|가능성|명|可能性|B|possibility|*가능성*이 있다|there is a possibility|희박한 *가능성*|slim possibility|성공 *가능성*|possibility of success|audio/row227_chunk1.wav|audio/row227_chunk2.wav|audio/row227_chunk3.wav
+228|484|방향01|명|方向|B|direction|*방향*을 돌리다|to turn direction|반대 *방향*|opposite direction|진행 *방향*|direction of progress|audio/row228_chunk1.wav|audio/row228_chunk2.wav|audio/row228_chunk3.wav
+229|485|대회02|명|大會|B|competition / meeting|운동 *대회*|sports competition|*대회*에 참가하다|to participate in a competition|전국 *대회*|national competition|audio/row229_chunk1.wav|audio/row229_chunk2.wav|audio/row229_chunk3.wav
+230|491|움직이다|동||B|to move|몸을 *움직이다*|to move one's body|천천히 *움직여요*|moving slowly|마음을 *움직이다*|to touch one's heart|audio/row230_chunk1.wav|audio/row230_chunk2.wav|audio/row230_chunk3.wav
+231|494|노력01|명|努力|B|effort|*노력*을 하다|to make an effort|끊임없는 *노력*|ceaseless effort|*노력*이 결실을 맺다|effort bears fruit|audio/row231_chunk1.wav|audio/row231_chunk2.wav|audio/row231_chunk3.wav
+232|496|전혀01|부|全-|B|not at all|*전혀* 모르다|to not know at all|*전혀* 다르다|to be completely different|*전혀* 상관없다|to not matter at all|audio/row232_chunk1.wav|audio/row232_chunk2.wav|audio/row232_chunk3.wav
+233|498|단체02|명|團體|B|group / organization|시민 *단체*|civic group|*단체* 행동|group action|*단체* 손님|group of guests|audio/row233_chunk1.wav|audio/row233_chunk2.wav|audio/row233_chunk3.wav
+234|500|알려지다|동||B|to become known|세상에 *알려지다*|to be known to the world|이름이 *알려지다*|the name became famous|잘 *알려진* 사실|well-known fact|audio/row234_chunk1.wav|audio/row234_chunk2.wav|audio/row234_chunk3.wav
+235|501|가능하다|형|可能-|B|to be possible|이용이 *가능하다*|use is possible|*가능한* 빨리|as soon as possible|실현 *가능한*|feasible|audio/row235_chunk1.wav|audio/row235_chunk2.wav|audio/row235_chunk3.wav
+236|502|능력02|명|能力|B|ability / capability|업무 *능력*|work ability|*능력*이 뛰어나다|to have great ability|*능력*을 발휘하다|to show one's capability|audio/row236_chunk1.wav|audio/row236_chunk2.wav|audio/row236_chunk3.wav
+237|503|주장하다01|동|主張-|B|to insist / to claim|권리를 *주장하다*|to claim rights|강력히 *주장했다*|strongly insisted|자기 의견을 *주장하다*|to assert one's opinion|audio/row237_chunk1.wav|audio/row237_chunk2.wav|audio/row237_chunk3.wav
+238|504|자식01|명|子息|B|children / offspring|*자식* 농사|raising children|*자식*을 기르다|to raise children|금쪽같은 *자식*|precious child|audio/row238_chunk1.wav|audio/row238_chunk2.wav|audio/row238_chunk3.wav
+239|505|돌리다04|동|팽이를 ~|B|to turn / to spin|고개를 *돌리다*|to turn one's head|팽이를 *돌리다*|to spin a top|시선을 *돌리다*|to turn one's gaze|audio/row239_chunk1.wav|audio/row239_chunk2.wav|audio/row239_chunk3.wav
+240|508|모으다|동||B|to gather / to collect|돈을 *모으다*|to save money|사람을 *모으다*|to gather people|우표를 *모으다*|to collect stamps|audio/row240_chunk1.wav|audio/row240_chunk2.wav|audio/row240_chunk3.wav
+241|509|자료03|명|資料|B|data / material|참고 *자료*|reference material|*자료*를 찾다|to look for data|조사 *자료*|survey data|audio/row241_chunk1.wav|audio/row241_chunk2.wav|audio/row241_chunk3.wav
+242|516|제품02|명|製品|B|product|신*제품* 출시|launch of new product|전자 *제품*|electronic products|*제품*을 홍보하다|to promote a product|audio/row242_chunk1.wav|audio/row242_chunk2.wav|audio/row242_chunk3.wav
+243|520|사업04|명|事業|B|business / enterprise|*사업*을 시작하다|to start a business|개인 *사업*|private business|*사업* 계획|business plan|audio/row243_chunk1.wav|audio/row243_chunk2.wav|audio/row243_chunk3.wav
+244|523|지난해|명||B|last year|*지난해* 여름|last year's summer|*지난해* 말|end of last year|*지난해*와 비교하다|to compare with last year|audio/row244_chunk1.wav|audio/row244_chunk2.wav|audio/row244_chunk3.wav
+245|524|표현|명|表現|B|expression|감정 *표현*|expression of emotion|*표현*을 잘하다|to be good at expressing|말이나 *표현*|words or expressions|audio/row245_chunk1.wav|audio/row245_chunk2.wav|audio/row245_chunk3.wav
+246|528|젊다|형||B|to be young|나이가 *젊다*|to be young|*젊은* 시절|youthful days|생각이 *젊다*|to have a young mindset|audio/row246_chunk1.wav|audio/row246_chunk2.wav|audio/row246_chunk3.wav
+247|529|동시02|명|同時|B|the same time|*동시* 상영|simultaneous screening|*동시*에 일어나다|to happen at the same time|*동시* 통역|simultaneous interpretation|audio/row247_chunk1.wav|audio/row247_chunk2.wav|audio/row247_chunk3.wav
+248|532|순간03|명|瞬間|B|moment / instant|결정적인 *순간*|decisive moment|그 *순간*에|at that moment|찰나의 *순간*|a split second|audio/row248_chunk1.wav|audio/row248_chunk2.wav|audio/row248_chunk3.wav
+249|533|전쟁|명|戰爭|B|war|*전쟁*이 나다|a war breaks out|말 *전쟁*|war of words|*전쟁*을 막다|to prevent war|audio/row249_chunk1.wav|audio/row249_chunk2.wav|audio/row249_chunk3.wav
+250|545|마찬가지|명||B|the same|나도 *마찬가지*야|I am the same|어디나 *마찬가지*다|it's the same everywhere|어제와 *마찬가지*로|same as yesterday|audio/row250_chunk1.wav|audio/row250_chunk2.wav|audio/row250_chunk3.wav
+251|549|과거03|명|過去|B|past|*과거*의 일|thing of the past|*과거*를 잊다|to forget the past|화려한 *과거*|glamorous past|audio/row251_chunk1.wav|audio/row251_chunk2.wav|audio/row251_chunk3.wav
+252|553|현대01|명|現代|B|modern times|*현대* 사회|modern society|*현대* 미술|modern art|*현대*적인 디자인|modern design|audio/row252_chunk1.wav|audio/row252_chunk2.wav|audio/row252_chunk3.wav
+253|555|살펴보다|동||B|to examine / to look around|꼼꼼히 *살펴보다*|to examine thoroughly|주위를 *살펴봤다*|looked around the surroundings|서류를 *살펴보다*|to look through documents|audio/row253_chunk1.wav|audio/row253_chunk2.wav|audio/row253_chunk3.wav
+254|557|차이|명|差異|B|difference|온도 *차이*|temperature difference|*차이*가 크다|the difference is big|생각의 *차이*|difference in thought|audio/row254_chunk1.wav|audio/row254_chunk2.wav|audio/row254_chunk3.wav
+255|559|시절01|명|時節|B|days / time / season|학생 *시절*|student days|어린 *시절*|childhood days|좋았던 *시절*|the good old days|audio/row255_chunk1.wav|audio/row255_chunk2.wav|audio/row255_chunk3.wav
+256|565|작가01|명|作家|B|writer / author|소설 *작가*|novel writer|인기 *작가*|popular author|*작가*가 되다|to become a writer|audio/row256_chunk1.wav|audio/row256_chunk2.wav|audio/row256_chunk3.wav
+257|566|효과01|명|效果|B|effect|광고 *효과*|advertising effect|*효과*가 좋다|to be effective|부작용 *효과*|side effect|audio/row257_chunk1.wav|audio/row257_chunk2.wav|audio/row257_chunk3.wav
+258|567|불교|명|佛敎|B|Buddhism|*불교* 사원|Buddhist temple|한국의 *불교*|Korean Buddhism|*불교* 신자|Buddhist believer|audio/row258_chunk1.wav|audio/row258_chunk2.wav|audio/row258_chunk3.wav
+259|568|끌다|동||B|to pull / to attract|가트를 *끌다*|to pull a cart|관심을 *끌다*|to attract interest|시간을 *끌다*|to stall for time|audio/row259_chunk1.wav|audio/row259_chunk2.wav|audio/row259_chunk3.wav
+260|580|마치03|부||B|as if|*마치* 꿈같다|as if it were a dream|*마치* 영화처럼|just like a movie|*마치* 아는 것처럼|as if knowing|audio/row260_chunk1.wav|audio/row260_chunk2.wav|audio/row260_chunk3.wav
+261|583|바라다01|동||B|to hope / to wish|합격을 *바라다*|to hope to pass|행복하길 *바래요*|I hope you are happy|간절히 *바라다*|to wish earnestly|audio/row261_chunk1.wav|audio/row261_chunk2.wav|audio/row261_chunk3.wav
+262|584|강하다02|형|强-|B|to be strong|바람이 *강하다*|the wind is strong|*강한* 의지|strong will|정신력이 *강하다*|to be mentally strong|audio/row262_chunk1.wav|audio/row262_chunk2.wav|audio/row262_chunk3.wav
+263|587|최고02|명|最高|B|the best / peak|*최고* 기록|best record|기분이 *최고*다|to feel great|*최고*의 품질|the best quality|audio/row263_chunk1.wav|audio/row263_chunk2.wav|audio/row263_chunk3.wav
+264|588|나타내다|동||B|to express / to show|뜻을 *나타내다*|to express a meaning|수치로 *나타내다*|to show in numbers|슬픔을 *나타내다*|to show sadness|audio/row264_chunk1.wav|audio/row264_chunk2.wav|audio/row264_chunk3.wav
+265|603|법01|명|法|B|law|*법*을 지키다|to obey the law|*법*대로 해라|do it by the law|*법*에 어긋나다|to go against the law|audio/row265_chunk1.wav|audio/row265_chunk2.wav|audio/row265_chunk3.wav
+266|604|소설03|명|小說|B|novel|단편 *소설*|short story|*소설*을 쓰다|to write a novel|연애 *소설*|romance novel|audio/row266_chunk1.wav|audio/row266_chunk2.wav|audio/row266_chunk3.wav
+267|607|질서03|명|秩序|B|order / discipline|*질서*를 지키다|to keep order|사회 *질서*|social order|공공 *질서*|public order|audio/row267_chunk1.wav|audio/row267_chunk2.wav|audio/row267_chunk3.wav
+268|609|담다01|동|넣다|B|to put in / to contain|그릇에 *담다*|to put in a bowl|진심을 *담다*|to put one's heart into|카메라에 *담다*|to capture on camera|audio/row268_chunk1.wav|audio/row268_chunk2.wav|audio/row268_chunk3.wav
+269|611|시민|명|市民|B|citizen|서울 *시민*|Seoul citizen|*시민*의 의식|civic consciousness|보통 *시민*|ordinary citizen|audio/row269_chunk1.wav|audio/row269_chunk2.wav|audio/row269_chunk3.wav
+270|612|회장07|명|會長|B|chairman / president|학생회 *회장*|student council president|그룹 *회장*님|group chairman|*회장*으로 선출되다|to be elected as president|audio/row270_chunk1.wav|audio/row270_chunk2.wav|audio/row270_chunk3.wav
+271|619|제대로|부||B|properly|*제대로* 하다|to do properly|*제대로* 먹다|to eat properly|말이 *제대로* 안 나와|cannot speak properly|audio/row271_chunk1.wav|audio/row271_chunk2.wav|audio/row271_chunk3.wav
+272|621|던지다|동||B|to throw|공을 *던지다*|to throw a ball|질문을 *던지다*|to pose a question|시선을 *던지다*|to cast a look|audio/row272_chunk1.wav|audio/row272_chunk2.wav|audio/row272_chunk3.wav
+273|623|공간05|명|空間|B|space|개인 *공간*|personal space|*공간*을 차지하다|to occupy space|생활 *공간*|living space|audio/row273_chunk1.wav|audio/row273_chunk2.wav|audio/row273_chunk3.wav
+274|627|벌이다|동||B|to start / to open|잔치를 *벌이다*|to hold a feast|사업을 *벌이다*|to start a business|싸움을 *벌이다*|to start a fight|audio/row274_chunk1.wav|audio/row274_chunk2.wav|audio/row274_chunk3.wav
+275|631|강조하다|동|强調-|B|to emphasize|중요성을 *강조하다*|to emphasize importance|반복해서 *강조했다*|emphasized repeatedly|실천을 *강조하다*|to emphasize practice|audio/row275_chunk1.wav|audio/row275_chunk2.wav|audio/row275_chunk3.wav
+276|633|맡다01|동|담임을 ~|B|to take charge of|일을 *맡다*|to take charge of work|책임을 *맡다*|to take responsibility|역할을 *맡았다*|took on a role|audio/row276_chunk1.wav|audio/row276_chunk2.wav|audio/row276_chunk3.wav
+277|635|한편|부|-便|B|on the other hand / meanwhile|*한편*으로는 걱정이다|on one hand, I'm worried|*한편* 그 시각에|meanwhile at that time|*한편* 다른 의견은|on the other hand, another opinion is|audio/row277_chunk1.wav|audio/row277_chunk2.wav|audio/row277_chunk3.wav
+278|637|기자05|명|記者|B|reporter|신문 *기자*|newspaper reporter|방송 *기자*|broadcast reporter|*기자* 회견|press conference|audio/row278_chunk1.wav|audio/row278_chunk2.wav|audio/row278_chunk3.wav
+279|641|주로01|부|主-|B|mostly / mainly|*주로* 집에서|mostly at home|*주로* 이용하는|mainly used|*주로* 먹는 음식|food mainly eaten|audio/row279_chunk1.wav|audio/row279_chunk2.wav|audio/row279_chunk3.wav
+280|642|훨씬|부||B|much more|*훨씬* 좋다|to be much better|*훨씬* 빠르다|to be much faster|*훨씬* 더 크게|much bigger|audio/row280_chunk1.wav|audio/row280_chunk2.wav|audio/row280_chunk3.wav
+281|645|통일02|명|統一|B|unification|조국 *통일*|unification of the fatherland|*통일*을 이루다|to achieve unification|의견 *통일*|unification of opinions|audio/row281_chunk1.wav|audio/row281_chunk2.wav|audio/row281_chunk3.wav
+282|646|들어서다|동||B|to enter / to step in|방에 *들어서다*|to step into the room|건물이 *들어서다*|a building is built|입구에 *들어서다*|to enter the entrance|audio/row282_chunk1.wav|audio/row282_chunk2.wav|audio/row282_chunk3.wav
+283|658|차례01|명|次例|B|turn / order / time|내 *차례*|my turn|여러 *차례*|several times|*차례*를 기다리다|to wait for one's turn|audio/row283_chunk1.wav|audio/row283_chunk2.wav|audio/row283_chunk3.wav
+284|659|군05|명|軍|B|military / army|*군* 복무|military service|*군*에 가다|to go into the military|공*군* 소속|belonging to the Air Force|audio/row284_chunk1.wav|audio/row284_chunk2.wav|audio/row284_chunk3.wav
+285|662|재산|명|財産|B|property / wealth|개인 *재산*|personal property|*재산*을 모으다|to accumulate wealth|막대한 *재산*|huge fortune|audio/row285_chunk1.wav|audio/row285_chunk2.wav|audio/row285_chunk3.wav
+286|666|약간|부|若干|B|slightly|*약간* 늦다|to be slightly late|*약간*의 차이|a slight difference|소금을 *약간* 넣다|to add a bit of salt|audio/row286_chunk1.wav|audio/row286_chunk2.wav|audio/row286_chunk3.wav
+287|668|요구하다|동|要求-|B|to demand|사과를 *요구하다*|to demand an apology|권리를 *요구하다*|to demand rights|대책을 *요구하고* 있다|are demanding measures|audio/row287_chunk1.wav|audio/row287_chunk2.wav|audio/row287_chunk3.wav
+288|678|기간07|명|期間|B|period|시험 *기간*|exam period|일정한 *기간*|a fixed period|*기간*이 만료되다|the period has expired|audio/row288_chunk1.wav|audio/row288_chunk2.wav|audio/row288_chunk3.wav
+289|680|일으키다|동||B|to cause / to raise|문제를 *일으키다*|to cause a problem|사고를 *일으키다*|to cause an accident|아이를 *일으키다*|to help a child up|audio/row289_chunk1.wav|audio/row289_chunk2.wav|audio/row289_chunk3.wav
+290|685|공장02|명|工場|B|factory|자동차 *공장*|car factory|*공장*을 가동하다|to operate a factory|*공장* 근로자|factory worker|audio/row290_chunk1.wav|audio/row290_chunk2.wav|audio/row290_chunk3.wav
+291|687|즐기다01|동||B|to enjoy|음악을 *즐기다*|to enjoy music|여가를 *즐기다*|to enjoy one's leisure|게임은 *즐거워요*|games are fun to enjoy|audio/row291_chunk1.wav|audio/row291_chunk2.wav|audio/row291_chunk3.wav
+292|688|지02|의|만난 ~ 오래되다|B|since|떠난 *지* 일 년|a year since leaving|이사 온 *지* 얼마 안 됐다|not long since moving in|먹은 *지* 오래되다|it's been a long time since eating|audio/row292_chunk1.wav|audio/row292_chunk2.wav|audio/row292_chunk3.wav
+293|690|변하다|동|變-|B|to change|색이 *변하다*|color changes|마음이 *변했다*|one's mind has changed|세상이 *변하고* 있다|the world is changing|audio/row293_chunk1.wav|audio/row293_chunk2.wav|audio/row293_chunk3.wav
+294|693|아무리|부||B|no matter how|*아무리* 바빠도|no matter how busy|*아무리* 생각해도|no matter how much I think|*아무리* 멀어도|no matter how far|audio/row294_chunk1.wav|audio/row294_chunk2.wav|audio/row294_chunk3.wav
+295|695|맞추다01|동||B|to adjust / to match|시계를 *맞추다*|to set/adjust a clock|답을 *맞추다*|to check answers|입을 *맞추다*|to kiss / to align stories|audio/row295_chunk1.wav|audio/row295_chunk2.wav|audio/row295_chunk3.wav
+296|700|막다01|동||B|to block / to prevent|길을 *막다*|to block the road|바람을 *막다*|to block the wind|유행을 *막을* 수 없다|cannot prevent the trend|audio/row296_chunk1.wav|audio/row296_chunk2.wav|audio/row296_chunk3.wav
+297|707|늘|부||B|always|*늘* 고마워|always thankful|*늘* 그 자리에|always in that spot|*늘* 하던 대로|always as usual|audio/row297_chunk1.wav|audio/row297_chunk2.wav|audio/row297_chunk3.wav
+298|709|전국03|명|全國|B|nationwide|*전국* 각지|all over the country|*전국* 대회|nationwide competition|*전국*적으로 비|rain nationwide|audio/row298_chunk1.wav|audio/row298_chunk2.wav|audio/row298_chunk3.wav
+299|711|마치다02|동||B|to finish|일을 *마치다*|to finish work|수업을 *마쳤다*|finished class|모든 과정을 *마치다*|to complete the entire course|audio/row299_chunk1.wav|audio/row299_chunk2.wav|audio/row299_chunk3.wav
+300|715|가정06|명|家庭|B|home / family|화목한 *가정*|harmonious family|*가정* 방문|home visit|*가정*을 꾸리다|to start a family|audio/row300_chunk1.wav|audio/row300_chunk2.wav|audio/row300_chunk3.wav
+301|717|빠지다02|동|물에 ~|B|to fall into|물에 *빠지다*|to fall into water|함정에 *빠졌다*|fell into a trap|사랑에 *빠지다*|to fall in love|audio/row301_chunk1.wav|audio/row301_chunk2.wav|audio/row301_chunk3.wav
+302|721|오늘날|명||B|today / nowadays|*오늘날*의 사회|today's society|*오늘날*에 이르러|reaching the present day|*오늘날*의 과학 기술|science and technology of today|audio/row302_chunk1.wav|audio/row302_chunk2.wav|audio/row302_chunk3.wav
+303|723|농업|명|農業|B|agriculture|*농업* 종사자|agricultural worker|*농업* 생산량|agricultural production|전통적인 *농업*|traditional agriculture|audio/row303_chunk1.wav|audio/row303_chunk2.wav|audio/row303_chunk3.wav
+304|725|식04|의|式|B|style / way|한국 *식*|Korean style|옛날 *식*|old-fashioned way|이런 *식*으로|in this way|audio/row304_chunk1.wav|audio/row304_chunk2.wav|audio/row304_chunk3.wav
+305|726|의견01|명|意見|B|opinion|*의견*을 나누다|to share opinions|개인적인 *의견*|personal opinion|*의견*이 다르다|to have different opinions|audio/row305_chunk1.wav|audio/row305_chunk2.wav|audio/row305_chunk3.wav
+306|730|표현하다|동|表現-|B|to express|말로 *표현하다*|to express in words|감정을 *표현했다*|expressed emotions|그림으로 *표현하다*|to express through a drawing|audio/row306_chunk1.wav|audio/row306_chunk2.wav|audio/row306_chunk3.wav
+307|739|경기11|명|競技|B|match / game|축구 *경기*|soccer match|*경기*에서 이기다|to win a game|*경기*를 관람하다|to watch a match|audio/row307_chunk1.wav|audio/row307_chunk2.wav|audio/row307_chunk3.wav
+308|740|목적03|명|目的|B|purpose|방문 *목적*|purpose of visit|*목적*이 분명하다|the purpose is clear|공부할 *목적*으로|with the purpose of studying|audio/row308_chunk1.wav|audio/row308_chunk2.wav|audio/row308_chunk3.wav
+309|741|태도03|명|態度|B|attitude|긍정적인 *태도*|positive attitude|*태도*가 나쁘다|to have a bad attitude|삶에 대한 *태도*|attitude toward life|audio/row309_chunk1.wav|audio/row309_chunk2.wav|audio/row309_chunk3.wav
+310|743|주위02|명|周圍|B|surroundings / around|집 *주위*|around the house|*주위*가 시끄럽다|the surroundings are noisy|*주위* 사람들의 시선|the eyes of people around|audio/row310_chunk1.wav|audio/row310_chunk2.wav|audio/row310_chunk3.wav
+311|746|발생하다|동|發生-|B|to occur|사건이 *발생하다*|an incident occurs|화재가 *발생했다*|a fire broke out|문제가 *발생할* 수 있다|problems may occur|audio/row311_chunk1.wav|audio/row311_chunk2.wav|audio/row311_chunk3.wav
+312|749|어쩌다01|동||B|to happen to / by chance|*어쩌다가* 만났다|met by chance|*어쩌면* 좋을까|what should I do|*어쩌다* 보니 그렇게 됐다|it just happened that way|audio/row312_chunk1.wav|audio/row312_chunk2.wav|audio/row312_chunk3.wav
+313|751|각각01|부|各各|B|each / respectively|*각각* 다르다|to be each different|*각각* 한 개씩|one of each|*각각*의 장단점|pros and cons of each|audio/row313_chunk1.wav|audio/row313_chunk2.wav|audio/row313_chunk3.wav
+314|758|책임|명|責任|B|responsibility|*책임*을 지다|to take responsibility|무거운 *책임*|heavy responsibility|*책임*이 막중하다|responsibility is great|audio/row314_chunk1.wav|audio/row314_chunk2.wav|audio/row314_chunk3.wav
+315|761|심하다|형|甚-|B|to be severe|정도가 *심하다*|the degree is severe|*심한* 장난|severe prank|기침이 *심해요*|the cough is severe|audio/row315_chunk1.wav|audio/row315_chunk2.wav|audio/row315_chunk3.wav
+316|767|자라다01|동|커지다|B|to grow|무럭무럭 *자라다*|to grow quickly|꿈을 먹고 *자란다*|growing up with dreams|키가 많이 *자랐네*|you've grown tall|audio/row316_chunk1.wav|audio/row316_chunk2.wav|audio/row316_chunk3.wav
+317|769|구체적|명|具體的|B|concrete / specific|*구체적*인 계획|specific plan|*구체적*으로 설명하다|to explain specifically|내용이 *구체적*이다|the content is concrete|audio/row317_chunk1.wav|audio/row317_chunk2.wav|audio/row317_chunk3.wav
+318|770|기회03|명|機會|B|opportunity|좋은 *기회*|good opportunity|*기회*를 놓치다|to miss an opportunity|마지막 *기회*|last chance|audio/row318_chunk1.wav|audio/row318_chunk2.wav|audio/row318_chunk3.wav
+319|773|지구04|명|地球|B|Earth|*지구* 온난화|global warming|*지구*를 지키다|to protect the Earth|*지구* 한 바퀴|around the Earth|audio/row319_chunk1.wav|audio/row319_chunk2.wav|audio/row319_chunk3.wav
+320|775|소비자|명|消費者|B|consumer|*소비자* 고발|consumer report|*소비자* 보호|consumer protection|현명한 *소비자*|wise consumer|audio/row320_chunk1.wav|audio/row320_chunk2.wav|audio/row320_chunk3.wav
+321|779|기준03|명|基準|B|standard / criteria|선발 *기준*|selection criteria|*기준*에 맞다|to meet the standard|*기준*을 세우다|to set a standard|audio/row321_chunk1.wav|audio/row321_chunk2.wav|audio/row321_chunk3.wav
+322|780|말11|의|末|B|end|학기 *말*|end of the semester|이번 달 *말*|end of this month|세기 *말*|end of the century|audio/row322_chunk1.wav|audio/row322_chunk2.wav|audio/row322_chunk3.wav
+323|781|반드시|부||B|surely / certainly|*반드시* 성공하다|to surely succeed|*반드시* 오세요|be sure to come|*반드시* 필요한 것|absolutely necessary thing|audio/row323_chunk1.wav|audio/row323_chunk2.wav|audio/row323_chunk3.wav
+324|787|받아들이다|동||B|to accept|사실을 *받아들이다*|to accept the fact|제안을 *받아들였다*|accepted the proposal|문화를 *받아들이다*|to embrace a culture|audio/row324_chunk1.wav|audio/row324_chunk2.wav|audio/row324_chunk3.wav
+325|791|꺼내다|동||B|to take out|돈을 *꺼내다*|to take out money|말을 *꺼내다*|to bring up a topic|주머니에서 *꺼냈다*|took out from the pocket|audio/row325_chunk1.wav|audio/row325_chunk2.wav|audio/row325_chunk3.wav
+326|792|노동자|명|勞動者|B|worker / laborer|외국인 *노동자*|foreign worker|*노동자*의 권리|rights of workers|육체 *노동자*|manual laborer|audio/row326_chunk1.wav|audio/row326_chunk2.wav|audio/row326_chunk3.wav
+327|793|동네|명|洞-|B|neighborhood|우리 *동네*|my neighborhood|*동네* 한 바퀴|around the neighborhood|*동네* 사람들|neighbors|audio/row327_chunk1.wav|audio/row327_chunk2.wav|audio/row327_chunk3.wav
+328|795|완전히|부|完全-|B|completely|*완전히* 잊다|to completely forget|*완전히* 달라지다|to become completely different|*완전히* 망했다|to be completely ruined|audio/row328_chunk1.wav|audio/row328_chunk2.wav|audio/row328_chunk3.wav
+329|797|전하다|동|傳-|B|to deliver / to tell|소식을 *전하다*|to deliver news|안부를 *전해* 줘|say hello (deliver regards)|뜻을 *전하다*|to convey a meaning|audio/row329_chunk1.wav|audio/row329_chunk2.wav|audio/row329_chunk3.wav
+330|800|맞다02|동|손님을 ~|B|to greet / to welcome|손님을 *맞다*|to greet a guest|새해를 *맞다*|to welcome the new year|공항에서 *맞이하다*|to meet at the airport|audio/row330_chunk1.wav|audio/row330_chunk2.wav|audio/row330_chunk3.wav
+331|803|정하다03|동|定-|B|to decide / to set|날짜를 *정하다*|to set a date|규칙을 *정했다*|set the rules|마음을 *정하다*|to make up one's mind|audio/row331_chunk1.wav|audio/row331_chunk2.wav|audio/row331_chunk3.wav
+332|808|대중02|명|大衆|B|the public|*대중* 교통|public transportation|*대중* 문화|popular culture|*대중*의 인기|popularity among the public|audio/row332_chunk1.wav|audio/row332_chunk2.wav|audio/row332_chunk3.wav
+333|809|늘어나다|동||B|to increase / to stretch|인구가 *늘어나다*|population increases|체중이 *늘어났다*|weight increased|시간이 *늘어나다*|time is extended|audio/row333_chunk1.wav|audio/row333_chunk2.wav|audio/row333_chunk3.wav
+334|815|각종|명|各種|B|various kinds|*각종* 사고|various accidents|*각종* 행사|various events|*각종* 비타민|various vitamins|audio/row334_chunk1.wav|audio/row334_chunk2.wav|audio/row334_chunk3.wav
+335|816|빛|명||B|light|햇*빛*|sunlight|달*빛*|moonlight|희망의 *빛*|light of hope|audio/row335_chunk1.wav|audio/row335_chunk2.wav|audio/row335_chunk3.wav
+336|823|현재02|명|現在|B|the present|*현재*와 과거|the present and the past|*현재*에 충실하다|to be faithful to the present|*현재* 시각|current time|audio/row336_chunk1.wav|audio/row336_chunk2.wav|audio/row336_chunk3.wav
+337|826|발견하다01|동|發見-|B|to discover|신대륙을 *발견하다*|to discover a new continent|재능을 *발견했다*|discovered talent|오류를 *발견하다*|to find an error|audio/row337_chunk1.wav|audio/row337_chunk2.wav|audio/row337_chunk3.wav
+338|829|특징|명|特徵|B|characteristic|지리적 *특징*|geographical features|*특징*이 뚜렷하다|characteristics are distinct|개인적 *특징*|personal characteristic|audio/row338_chunk1.wav|audio/row338_chunk2.wav|audio/row338_chunk3.wav
+339|831|선수05|명|選手|B|athlete / player|축구 *선수*|soccer player|국가대표 *선수*|national team player|*선수* 보호 차원|for the sake of protecting players|audio/row339_chunk1.wav|audio/row339_chunk2.wav|audio/row339_chunk3.wav
+340|833|마련하다|동||B|to prepare / to arrange|돈을 *마련하다*|to raise money|자리를 *마련했다*|arranged a seat/spot|대책을 *마련하다*|to prepare measures|audio/row340_chunk1.wav|audio/row340_chunk2.wav|audio/row340_chunk3.wav
+341|836|주제04|명|主題|B|topic / theme|토론 *주제*|discussion topic|연구 *주제*|research theme|*주제* 파악|understanding the core theme|audio/row341_chunk1.wav|audio/row341_chunk2.wav|audio/row341_chunk3.wav
+342|842|기본|명|基本|B|basis / basic|*기본* 예절|basic etiquette|*기본*에 충실하다|to stick to the basics|*기본* 원칙|basic principle|audio/row342_chunk1.wav|audio/row342_chunk2.wav|audio/row342_chunk3.wav
+343|846|감정06|명|感情|B|emotion / feeling|*감정* 조절|emotional control|*감정*이 풍부하다|to be very emotional|부정적인 *감정*|negative emotion|audio/row343_chunk1.wav|audio/row343_chunk2.wav|audio/row343_chunk3.wav
+344|849|인기01|명|人氣|B|popularity|*인기* 가수|popular singer|*인기*가 많다|to be very popular|*인기*를 끌다|to gain popularity|audio/row344_chunk1.wav|audio/row344_chunk2.wav|audio/row344_chunk3.wav
+345|867|달리다04|동|말을 ~|B|to run|빨리 *달리다*|to run fast|운동장을 *달렸다*|ran on the playground|앞만 보고 *달리다*|to run looking only forward|audio/row345_chunk1.wav|audio/row345_chunk2.wav|audio/row345_chunk3.wav
+346|869|이전03|명|以前|B|before / previous|사고 *이전*|before the accident|일주일 *이전*|more than a week ago|그 *이전*의 삶|life before that|audio/row346_chunk1.wav|audio/row346_chunk2.wav|audio/row346_chunk3.wav
+347|876|시키다01|동||B|to make (someone do) / to order|일을 *시키다*|to make (someone) work|심부름을 *시켰다*|ordered an errand|커피를 *시키다*|to order coffee|audio/row347_chunk1.wav|audio/row347_chunk2.wav|audio/row347_chunk3.wav
+348|878|국제02|명|國際|B|international|*국제* 공항|international airport|*국제* 관계|international relations|*국제* 전화|international call|audio/row348_chunk1.wav|audio/row348_chunk2.wav|audio/row348_chunk3.wav
+349|881|전통06|명|傳統|B|tradition|*전통* 문화|traditional culture|*전통*을 잇다|to carry on a tradition|*전통* 의상|traditional clothing|audio/row349_chunk1.wav|audio/row349_chunk2.wav|audio/row349_chunk3.wav
+350|882|기르다|동||B|to raise / to grow|꽃을 *기르다*|to grow flowers|강아지를 *기르다*|to raise a puppy|능력을 *길렀다*|developed/grew an ability|audio/row350_chunk1.wav|audio/row350_chunk2.wav|audio/row350_chunk3.wav
+351|885|조사하다12|동|調査-|B|to investigate|원인을 *조사하다*|to investigate the cause|철저히 *조사했다*|investigated thoroughly|실태를 *조사하다*|to survey the actual condition|audio/row351_chunk1.wav|audio/row351_chunk2.wav|audio/row351_chunk3.wav
+352|886|커다랗다|형||B|to be huge|*커다란* 나무|huge tree|구멍이 *커다랗다*|the hole is huge|*커다랗게* 웃다|to laugh loudly|audio/row352_chunk1.wav|audio/row352_chunk2.wav|audio/row352_chunk3.wav
+353|890|시인10|명|詩人|B|poet|유명한 *시인*|famous poet|*시인*이 되다|to become a poet|서정 *시인*|lyric poet|audio/row353_chunk1.wav|audio/row353_chunk2.wav|audio/row353_chunk3.wav
+354|892|외04|의|外|B|except / other than|그 *외*의 것|things other than that|예상 *외*|unexpected|전공 *외* 과목|subjects outside the major|audio/row354_chunk1.wav|audio/row354_chunk2.wav|audio/row354_chunk3.wav
+355|896|줄이다|동||B|to reduce / to shorten|비용을 *줄이다*|to reduce costs|거리를 *줄였다*|shortened the distance|말수를 *줄이다*|to talk less|audio/row355_chunk1.wav|audio/row355_chunk2.wav|audio/row355_chunk3.wav
+356|898|가격03|명|價格|B|price|*가격*이 오르다|price rises|*가격*을 깎다|to cut the price|저렴한 *가격*|low price|audio/row356_chunk1.wav|audio/row356_chunk2.wav|audio/row356_chunk3.wav
+357|899|달라지다|동||B|to change / to vary|세상이 *달라지다*|the world changes|태도가 *달라졌다*|attitude has changed|어제와 *달라진* 모습|appearance different from yesterday|audio/row357_chunk1.wav|audio/row357_chunk2.wav|audio/row357_chunk3.wav
+358|904|통신01|명|通信|B|communication|정보 *통신*|information communication|*통신* 수단|means of communication|*통신*이 끊기다|communication is cut off|audio/row358_chunk1.wav|audio/row358_chunk2.wav|audio/row358_chunk3.wav
+359|910|기계07|명|機械|B|machine|세탁 *기계*|washing machine|*기계*를 고치다|to fix a machine|*기계*처럼 일하다|to work like a machine|audio/row359_chunk1.wav|audio/row359_chunk2.wav|audio/row359_chunk3.wav
+360|911|모양02|의|模樣|B|appearance / likely to|비가 올 *모양*이다|it looks like it will rain|아픈 *모양*이야|it seems (he) is sick|모르는 *모양*이네|it seems you don't know|audio/row360_chunk1.wav|audio/row360_chunk2.wav|audio/row360_chunk3.wav
+361|913|아나운서|명|announcer|B|announcer / news anchor|뉴스 *아나운서*|news anchor|*아나운서*가 꿈이다|dream of being an announcer|유명한 *아나운서*|famous announcer|audio/row361_chunk1.wav|audio/row361_chunk2.wav|audio/row361_chunk3.wav
+362|916|펴다|동||B|to unfold / to spread|책을 *펴다*|to open a book|허리를 *펴다*|to straighten one's back|날개를 *펴다*|to spread wings|audio/row362_chunk1.wav|audio/row362_chunk2.wav|audio/row362_chunk3.wav
+363|921|종교|명|宗敎|B|religion|*종교*가 있나요?|do you have a religion?|*종교*적인 이유|religious reasons|*종교*의 자유|freedom of religion|audio/row363_chunk1.wav|audio/row363_chunk2.wav|audio/row363_chunk3.wav
+364|924|자연스럽다|형|自然-|B|to be natural|*자연스러운* 연기|natural acting|말투가 *자연스럽다*|way of speaking is natural|*자연스럽게* 행동하다|to act naturally|audio/row364_chunk1.wav|audio/row364_chunk2.wav|audio/row364_chunk3.wav
+365|927|돌다|동||B|to turn / to spin|바퀴가 *돌다*|wheels turn|동네를 한 바퀴 *돌다*|to go around the neighborhood|머리가 *돌다*|to feel dizzy|audio/row365_chunk1.wav|audio/row365_chunk2.wav|audio/row365_chunk3.wav
+366|936|혹은|부|或-|B|or / or else|사과 *혹은* 배|apples or pears|오늘 *혹은* 내일|today or tomorrow|전화 *혹은* 문자|phone call or text|audio/row366_chunk1.wav|audio/row366_chunk2.wav|audio/row366_chunk3.wav
+367|942|편09|의|篇|B|volume (counter for books/films)|영화 한 *편*|one movie|논문 여러 *편*|several papers|시 한 *편*|one poem|audio/row367_chunk1.wav|audio/row367_chunk2.wav|audio/row367_chunk3.wav
+368|944|노력하다01|동|努力-|B|to strive / to try hard|열심히 *노력하다*|to try hard|성공하려고 *노력했다*|strove to succeed|*노력하는* 사람|person who makes an effort|audio/row368_chunk1.wav|audio/row368_chunk2.wav|audio/row368_chunk3.wav
+369|945|보호01|명|保護|B|protection|환경 *보호*|environmental protection|아동 *보호*|child protection|*보호*를 받다|to be protected|audio/row369_chunk1.wav|audio/row369_chunk2.wav|audio/row369_chunk3.wav
+370|948|한편|명|-便|B|one side / one way|*한편*의 이야기|one story|마음 *한편*이 아프다|one side of my heart hurts|영화 한 *편*|one film|audio/row370_chunk1.wav|audio/row370_chunk2.wav|audio/row370_chunk3.wav
+371|951|이웃|명||B|neighbor|*이웃* 사촌|close neighbor (like family)|*이웃*집 사람|the person next door|*이웃*을 돕다|to help neighbors|audio/row371_chunk1.wav|audio/row371_chunk2.wav|audio/row371_chunk3.wav
+372|953|공동02|명|共同|B|joint / community|*공동* 주택|community housing|*공동*으로 관리하다|to manage jointly|*공동* 목표|joint goal|audio/row372_chunk1.wav|audio/row372_chunk2.wav|audio/row372_chunk3.wav
+373|954|까닭|명||B|reason / cause|그럴 *까닭*이 없다|no reason for that|무슨 *까닭*인지|for some reason|모르는 *까닭*에|because (I) don't know|audio/row373_chunk1.wav|audio/row373_chunk2.wav|audio/row373_chunk3.wav
+374|960|소녀02|명|少女|B|girl|어린 *소녀*|young girl|*소녀* 같은 감성|girl-like sensitivity|열일곱 살 *소녀*|seventeen-year-old girl|audio/row374_chunk1.wav|audio/row374_chunk2.wav|audio/row374_chunk3.wav
+375|961|지나가다|동||B|to pass by|차들이 *지나가다*|cars pass by|시간이 *지나갔다*|time has passed|그냥 *지나가지* 마세요|please don't just pass by|audio/row375_chunk1.wav|audio/row375_chunk2.wav|audio/row375_chunk3.wav
+376|963|상품03|명|商品|B|product / prize|인기 *상품*|popular product|*상품*을 타다|to win a prize|*상품*권|gift certificate|audio/row376_chunk1.wav|audio/row376_chunk2.wav|audio/row376_chunk3.wav
+377|966|훌륭하다|형||B|to be excellent / great|*훌륭한* 사람|great person|경치가 *훌륭하다*|the view is magnificent|성적이 *훌륭하네요*|the grades are excellent|audio/row377_chunk1.wav|audio/row377_chunk2.wav|audio/row377_chunk3.wav
+378|973|종류02|명|種類|B|kind / type|여러 *종류*|various types|꽃의 *종류*|types of flowers|*종류*별로 분류하다|to classify by type|audio/row378_chunk1.wav|audio/row378_chunk2.wav|audio/row378_chunk3.wav
+379|980|키우다|동||B|to raise / to grow|아이를 *키우다*|to raise a child|꿈을 *키우다*|to nurture a dream|덩치를 *키웠다*|built up one's physique|audio/row379_chunk1.wav|audio/row379_chunk2.wav|audio/row379_chunk3.wav
+380|981|눕다01|동||B|to lie down|침대에 *눕다*|to lie on the bed|잠시 *누워* 쉬다|to lie down and rest for a bit|바닥에 *누웠다*|lied on the floor|audio/row380_chunk1.wav|audio/row380_chunk2.wav|audio/row380_chunk3.wav
+381|982|발달하다|동|發達-|B|to develop / to advance|근육이 *발달하다*|muscles develop|정신이 *발달했다*|mind has developed|교통이 *발달한* 도시|city with developed transport|audio/row381_chunk1.wav|audio/row381_chunk2.wav|audio/row381_chunk3.wav
+382|983|발전하다01|동|發展-|B|to progress / to develop|경제가 *발전하다*|economy develops|관계가 *발전했다*|relationship progressed|크게 *발전하는* 중|developing significantly|audio/row382_chunk1.wav|audio/row382_chunk2.wav|audio/row382_chunk3.wav
+383|985|죽음01|명||B|death|갑작스러운 *죽음*|sudden death|*죽음*을 두려워하다|to fear death|삶과 *죽음*|life and death|audio/row383_chunk1.wav|audio/row383_chunk2.wav|audio/row383_chunk3.wav
+384|986|고통|명|苦痛|B|pain / suffering|*고통*을 느끼다|to feel pain|심한 *고통*|severe suffering|*고통*에서 벗어나다|to escape from pain|audio/row384_chunk1.wav|audio/row384_chunk2.wav|audio/row384_chunk3.wav
+385|989|듯이01|의||B|as if|비가 오*듯이*|as if it's raining|보*듯이* 알다|to know just by looking|미친 *듯이* 달리다|to run like crazy|audio/row385_chunk1.wav|audio/row385_chunk2.wav|audio/row385_chunk3.wav
+386|990|어울리다|동||B|to match / to hang out|옷이 잘 *어울리다*|clothes match well|친구들과 *어울리다*|to hang out with friends|분위기에 *어울리게*|matching the atmosphere|audio/row386_chunk1.wav|audio/row386_chunk2.wav|audio/row386_chunk3.wav
+387|999|예정02|명|豫定|B|schedule / plan|출발 *예정*|scheduled departure|*예정*대로 진행하다|to proceed as planned|*예정*보다 늦다|later than scheduled|audio/row387_chunk1.wav|audio/row387_chunk2.wav|audio/row387_chunk3.wav
+388|1004|흔히|부||B|commonly / often|*흔히* 있는 일|common occurrence|*흔히* 말하기를|as is often said|*흔히* 볼 수 있다|can be commonly seen|audio/row388_chunk1.wav|audio/row388_chunk2.wav|audio/row388_chunk3.wav
+389|1011|느껴지다|동||B|to be felt|추위가 *느껴지다*|to feel the cold|사랑이 *느껴졌다*|love was felt|슬프게 *느껴지다*|to feel sad|audio/row389_chunk1.wav|audio/row389_chunk2.wav|audio/row389_chunk3.wav
+390|1015|전문08|명|專門|B|specialty / professional|*전문* 분야|field of expertise|*전문* 지식|professional knowledge|*전문*으로 다루다|to handle professionally|audio/row390_chunk1.wav|audio/row390_chunk2.wav|audio/row390_chunk3.wav
+391|1016|정확하다01|형|正確-|B|to be accurate|*정확한* 시간|accurate time|발음이 *정확하다*|pronunciation is accurate|*정확하게* 계산하다|to calculate accurately|audio/row391_chunk1.wav|audio/row391_chunk2.wav|audio/row391_chunk3.wav
+392|1019|등01|명|신체의 일부|B|back (body part)|*등*이 가렵다|back is itchy|*등*을 돌리다|to turn one's back|*등*에 업다|to carry on one's back|audio/row392_chunk1.wav|audio/row392_chunk2.wav|audio/row392_chunk3.wav
+393|1023|찾아오다|동||B|to visit / to come over|집으로 *찾아오다*|to visit the house|손님이 *찾아왔다*|a guest came over|봄이 *찾아오다*|spring arrives|audio/row393_chunk1.wav|audio/row393_chunk2.wav|audio/row393_chunk3.wav
+394|1033|결정하다01|동|決定-|B|to decide|진로를 *결정하다*|to decide on a career|혼자 *결정했다*|decided alone|빨리 *결정하세요*|please decide quickly|audio/row394_chunk1.wav|audio/row394_chunk2.wav|audio/row394_chunk3.wav
+395|1034|경영02|명|經營|B|management / operation|기업 *경영*|business management|*경영*학과|department of business|*경영*을 맡다|to take over management|audio/row395_chunk1.wav|audio/row395_chunk2.wav|audio/row395_chunk3.wav
+396|1038|숲01|명||B|forest / woods|깊은 *숲*|deep forest|*숲*길을 걷다|to walk in the forest|*숲*이 우거지다|the forest is thick|audio/row396_chunk1.wav|audio/row396_chunk2.wav|audio/row396_chunk3.wav
+397|1039|없어지다|동||B|to disappear / to be gone|물건이 *없어지다*|the item is gone|통증이 *없어졌다*|the pain disappeared|기회가 *없어지다*|to lose an opportunity|audio/row397_chunk1.wav|audio/row397_chunk2.wav|audio/row397_chunk3.wav
+398|1042|떠오르다|동||B|to rise / to come to mind|해공에 *떠오르다*|to rise in the sky|좋은 생각이 *떠오르다*|a good idea comes to mind|얼굴이 *떠올랐다*|a face came to mind|audio/row398_chunk1.wav|audio/row398_chunk2.wav|audio/row398_chunk3.wav
+399|1044|미치다02|동|닿다|B|to reach / to influence|영향을 *미치다*|to influence|손이 *미치지* 않는 곳|place out of reach|기대에 *미치다*|to meet expectations|audio/row399_chunk1.wav|audio/row399_chunk2.wav|audio/row399_chunk3.wav
+400|1045|새벽01|명||B|dawn / early morning|*새벽* 공기|dawn air|*새벽*까지 일하다|to work until dawn|*새벽*에 일어나다|to wake up at dawn|audio/row400_chunk1.wav|audio/row400_chunk2.wav|audio/row400_chunk3.wav
+401|1047|얼른02|부||B|quickly / right away|*얼른* 와라|come quickly|*얼른* 먹어|eat up right away|*얼른* 대답해|answer quickly|audio/row401_chunk1.wav|audio/row401_chunk2.wav|audio/row401_chunk3.wav
+402|1048|임금03|명|賃金|B|wage / pay|최저 *임금*|minimum wage|*임금* 협상|wage negotiation|*임금*을 올리다|to raise wages|audio/row402_chunk1.wav|audio/row402_chunk2.wav|audio/row402_chunk3.wav
+403|1051|무섭다|형||B|to be scary|귀신이 *무섭다*|scared of ghosts|*무서운* 영화|scary movie|밤길이 *무서워요*|night roads are scary|audio/row403_chunk1.wav|audio/row403_chunk2.wav|audio/row403_chunk3.wav
+404|1052|직장05|명|職場|B|workplace|*직장* 상사|workplace boss|*직장*을 구하다|to look for a job|*직장* 생활|working life|audio/row404_chunk1.wav|audio/row404_chunk2.wav|audio/row404_chunk3.wav
+405|1053|참다|동||B|to endure / to hold back|웃음을 *참다*|to hold back laughter|화가 나도 *참다*|to endure despite anger|꾹 *참았다*|held it back firmly|audio/row405_chunk1.wav|audio/row405_chunk2.wav|audio/row405_chunk3.wav
+406|1057|서양|명|西洋|B|the West / Western|*서양* 역사|Western history|*서양* 음식|Western food|*서양* 사람들|Westerners|audio/row406_chunk1.wav|audio/row406_chunk2.wav|audio/row406_chunk3.wav
+407|1058|주요01|명|主要|B|major / main|*주요* 원인|main cause|*주요* 인물|major figure|*주요* 도시|major cities|audio/row407_chunk1.wav|audio/row407_chunk2.wav|audio/row407_chunk3.wav
+408|1059|지나치다|형||B|to be excessive|농담이 *지나치다*|the joke is too much|*지나친* 운동|excessive exercise|욕심이 *지나쳐요*|greed is excessive|audio/row408_chunk1.wav|audio/row408_chunk2.wav|audio/row408_chunk3.wav
+409|1067|공연02|명|公演|B|performance / show|연극 *공연*|theater performance|*공연*을 보다|to see a show|무료 *공연*|free performance|audio/row409_chunk1.wav|audio/row409_chunk2.wav|audio/row409_chunk3.wav
+410|1069|내놓다|동||B|to put out / to release|물건을 밖에 *내놓다*|to put items outside|신제품을 *내놓았다*|released a new product|의견을 *내놓다*|to put forward an opinion|audio/row410_chunk1.wav|audio/row410_chunk2.wav|audio/row410_chunk3.wav
+411|1070|떼다01|동||B|to detach / to take off|스티커를 *떼다*|to peel off a sticker|눈을 *떼지* 마|don't take your eyes off|영수증을 *떼었다*|detached a receipt|audio/row411_chunk1.wav|audio/row411_chunk2.wav|audio/row411_chunk3.wav
+412|1072|속도01|명|速度|B|speed|*속도*를 줄이다|to slow down|빠른 *속도*|fast speed|*속도* 제한|speed limit|audio/row412_chunk1.wav|audio/row412_chunk2.wav|audio/row412_chunk3.wav
+413|1073|심각하다02|형|深刻-|B|to be serious|문제가 *심각하다*|the problem is serious|*심각한* 표정|serious look|상황이 *심각해요*|the situation is serious|audio/row413_chunk1.wav|audio/row413_chunk2.wav|audio/row413_chunk3.wav
+414|1075|계속되다02|동|繼續-|B|to continue|비가 *계속되다*|the rain continues|전쟁이 *계속되었다*|the war continued|토론이 *계속되는* 중|the discussion is continuing|audio/row414_chunk1.wav|audio/row414_chunk2.wav|audio/row414_chunk3.wav
+415|1078|소년01|명|少年|B|boy|어린 *소년*|young boy|시골 *소년*|country boy|*소년*의 꿈|a boy's dream|audio/row415_chunk1.wav|audio/row415_chunk2.wav|audio/row415_chunk3.wav
+416|1079|소식04|명|消息|B|news / word|기쁜 *소식*|good news|*소식*을 듣다|to hear news|*소식*이 없다|no word (from someone)|audio/row416_chunk1.wav|audio/row416_chunk2.wav|audio/row416_chunk3.wav
+417|1086|노인01|명|老人|B|elderly person|동네 *노인*|village elder|*노인* 문제|elderly issues|*노인*을 공경하다|to respect the elderly|audio/row417_chunk1.wav|audio/row417_chunk2.wav|audio/row417_chunk3.wav
+418|1087|벌다02|동|돈을 ~|B|to earn / to make (money)|돈을 *벌다*|to earn money|생활비를 *벌었다*|earned living expenses|많이 *벌고* 싶다|want to earn a lot|audio/row418_chunk1.wav|audio/row418_chunk2.wav|audio/row418_chunk3.wav
+419|1092|결정01|명|決定|B|decision|*결정*을 내리다|to make a decision|중요한 *결정*|important decision|*결정*을 미루다|to postpone a decision|audio/row419_chunk1.wav|audio/row419_chunk2.wav|audio/row419_chunk3.wav
+420|1098|썰다01|동||B|to slice / to chop|고기를 *썰다*|to slice meat|채소를 *썰었다*|chopped vegetables|칼로 *썰다*|to slice with a knife|audio/row420_chunk1.wav|audio/row420_chunk2.wav|audio/row420_chunk3.wav
+421|1105|업무02|명|業務|B|business / work|*업무*를 보다|to do work|공식 *업무*|official business|*업무* 시간|work hours|audio/row421_chunk1.wav|audio/row421_chunk2.wav|audio/row421_chunk3.wav
+422|1108|청소년|명|靑少年|B|youth / teenager|*청소년*기|adolescence|*청소년* 할인|teenager discount|*청소년*을 위한 캠프|camp for youth|audio/row422_chunk1.wav|audio/row422_chunk2.wav|audio/row422_chunk3.wav
+423|1111|이기다01|동|적에게 ~|B|to win / to beat|경기에서 *이기다*|to win the game|적을 *이겼다*|beat the enemy|자신을 *이기다*|to overcome oneself|audio/row423_chunk1.wav|audio/row423_chunk2.wav|audio/row423_chunk3.wav
+424|1113|취하다01|동|取-|B|to take / to adopt|조치를 *취하다*|to take measures|태도를 *취했다*|adopted an attitude|휴식을 *취하다*|to take a rest|audio/row424_chunk1.wav|audio/row424_chunk2.wav|audio/row424_chunk3.wav
+425|1127|그러므로|부||B|therefore|비가 온다. *그러므로*...|It's raining. Therefore...|*그러므로* 취소했다|therefore, (I) canceled it|*그러므로* 주의가 필요하다|therefore, caution is needed|audio/row425_chunk1.wav|audio/row425_chunk2.wav|audio/row425_chunk3.wav
+426|1128|포함하다02|동|包含-|B|to include|세금을 *포함하다*|to include tax|전부를 *포함했다*|included everything|나를 *포함하여* 다섯 명|five people including me|audio/row426_chunk1.wav|audio/row426_chunk2.wav|audio/row426_chunk3.wav
+427|1134|만약|명|萬若|B|if / in case|*만약*의 사태|emergency situation|*만약* 비가 오면|if it happens to rain|*만약*에 대비하다|"to prepare for the ""if"""|audio/row427_chunk1.wav|audio/row427_chunk2.wav|audio/row427_chunk3.wav
+428|1135|바르다03|형|굽은 데가 없다|B|to be straight / upright|자세가 *바르다*|posture is straight|*바른* 생활|upright living|마음씨가 *바르다*|to be right-minded|audio/row428_chunk1.wav|audio/row428_chunk2.wav|audio/row428_chunk3.wav
+429|1137|숨01|명||B|breath|*숨*을 쉬다|to breathe|*숨*이 차다|to be out of breath|*숨*을 죽이다|to hold one's breath|audio/row429_chunk1.wav|audio/row429_chunk2.wav|audio/row429_chunk3.wav
+430|1138|행사01|명|行事|B|event / function|축제 *행사*|festival event|*행사*를 열다|to hold an event|학교 *행사*|school function|audio/row430_chunk1.wav|audio/row430_chunk2.wav|audio/row430_chunk3.wav
+431|1146|판단|명|判斷|B|judgment|올바른 *판단*|correct judgment|*판단*을 내리다|to make a judgment|*판단*이 서다|to come to a judgment|audio/row431_chunk1.wav|audio/row431_chunk2.wav|audio/row431_chunk3.wav
+432|1147|해결하다|동|解決-|B|to solve|문제를 *해결하다*|to solve a problem|갈등을 *해결했다*|resolved the conflict|스스로 *해결해라*|solve it yourself|audio/row432_chunk1.wav|audio/row432_chunk2.wav|audio/row432_chunk3.wav
+433|1149|계속하다03|동|繼續-|B|to continue|공부를 *계속하다*|to continue studying|행진을 *계속했다*|continued the march|말을 *계속해* 보세요|please keep speaking|audio/row433_chunk1.wav|audio/row433_chunk2.wav|audio/row433_chunk3.wav
+434|1150|그치다|동||B|to stop|비가 *그치다*|the rain stops|울음을 *그치다*|to stop crying|웃음이 *그치지* 않다|laughter doesn't stop|audio/row434_chunk1.wav|audio/row434_chunk2.wav|audio/row434_chunk3.wav
+435|1152|너무나|부||B|so / too|*너무나* 감사하다|to be so grateful|*너무나* 아름다운 풍경|such a beautiful scenery|*너무나* 보고 싶다|to miss someone so much|audio/row435_chunk1.wav|audio/row435_chunk2.wav|audio/row435_chunk3.wav
+436|1153|높이다|동||B|to raise / to heighten|목소리를 *높이다*|to raise one's voice|효율을 *높였다*|increased efficiency|가치를 *높이다*|to heighten the value|audio/row436_chunk1.wav|audio/row436_chunk2.wav|audio/row436_chunk3.wav
+437|1159|막02|부|마구|B|carelessly / at random|*막* 사용하다|to use carelessly|*막* 던지다|to throw at random|*막* 말하지 마라|don't speak without thinking|audio/row437_chunk1.wav|audio/row437_chunk2.wav|audio/row437_chunk3.wav
+438|1161|수출03|명|輸出|B|export|*수출* 품목|export items|*수출*을 늘리다|to increase exports|자동차 *수출*|car exports|audio/row438_chunk1.wav|audio/row438_chunk2.wav|audio/row438_chunk3.wav
+439|1166|자르다01|동||B|to cut|머리를 *자르다*|to cut hair|종이를 *자르다*|to cut paper|관계를 *잘랐다*|cut off a relationship|audio/row439_chunk1.wav|audio/row439_chunk2.wav|audio/row439_chunk3.wav
+440|1167|데리다|동||B|to take / to bring (person)|아이를 *데려오다*|to bring a child|강아지를 *데리고* 가다|to go with a dog|나를 *데려가* 줘|please take me with you|audio/row440_chunk1.wav|audio/row440_chunk2.wav|audio/row440_chunk3.wav
+441|1169|무척01|부||B|very / extremely|*무척* 기쁘다|to be very happy|*무척* 힘들었다|it was extremely hard|*무척* 아끼는 옷|clothes (I) cherish very much|audio/row441_chunk1.wav|audio/row441_chunk2.wav|audio/row441_chunk3.wav
+442|1172|옳다01|형||B|to be right / correct|*옳은* 일|the right thing|판단이 *옳다*|the judgment is correct|그 말이 *옳아요*|those words are right|audio/row442_chunk1.wav|audio/row442_chunk2.wav|audio/row442_chunk3.wav
+443|1173|원래01|명|元來|B|originally / by nature|*원래* 모습|original appearance|*원래* 성격|original personality|*원래*부터 알고 있었다|knew it from the beginning|audio/row443_chunk1.wav|audio/row443_chunk2.wav|audio/row443_chunk3.wav
+444|1175|최초|명|最初|B|the first|*최초* 발견자|the first discoverer|세계 *최초*|the world's first|*최초*의 기록|the first record|audio/row444_chunk1.wav|audio/row444_chunk2.wav|audio/row444_chunk3.wav
+445|1179|뿌리|명||B|root|깊은 *뿌리*|deep roots|*뿌리*를 내리다|to take root|나무 *뿌리*|tree roots|audio/row445_chunk1.wav|audio/row445_chunk2.wav|audio/row445_chunk3.wav
+446|1180|수입02|명|輸入|B|import|*수입* 자동차|imported car|원자재 *수입*|import of raw materials|*수입*을 금지하다|to ban imports|audio/row446_chunk1.wav|audio/row446_chunk2.wav|audio/row446_chunk3.wav
+447|1181|초03|의|初|B|beginning / early|학기 *초*|beginning of the semester|이십 세기 *초*|early 20th century|오월 *초*|early May|audio/row447_chunk1.wav|audio/row447_chunk2.wav|audio/row447_chunk3.wav
+448|1187|직원03|명|職員|B|employee / staff|회사 *직원*|company employee|신입 *직원*|new staff member|*직원*을 채용하다|to hire employees|audio/row448_chunk1.wav|audio/row448_chunk2.wav|audio/row448_chunk3.wav
+449|1192|상대04|명|相對|B|opponent / partner|결혼 *상대*|marriage partner|*상대* 팀|opponent team|*상대*를 존중하다|to respect the other person|audio/row449_chunk1.wav|audio/row449_chunk2.wav|audio/row449_chunk3.wav
+450|1196|가득01|부|~ 차다|B|full / to the brim|*가득* 담다|to fill up|희망이 *가득*하다|to be full of hope|교실에 *가득* 찬 학생들|students filling the classroom|audio/row450_chunk1.wav|audio/row450_chunk2.wav|audio/row450_chunk3.wav
+451|1200|장군04|명|將軍|B|general / admiral|이순신 *장군*|General Yi Sun-sin|용감한 *장군*|brave general|*장군*이 지휘하다|the general commands|audio/row451_chunk1.wav|audio/row451_chunk2.wav|audio/row451_chunk3.wav
+452|1201|무역02|명|貿易|B|trade|자유 *무역*|free trade|*무역*을 하다|to trade|*무역* 회사|trading company|audio/row452_chunk1.wav|audio/row452_chunk2.wav|audio/row452_chunk3.wav
+453|1206|쳐다보다|동||B|to look at / to gaze|거울을 *쳐다보다*|to look in the mirror|나를 *쳐다봤다*|gazed at me|하늘을 *쳐다보다*|to look up at the sky|audio/row453_chunk1.wav|audio/row453_chunk2.wav|audio/row453_chunk3.wav
+454|1207|충분히|부|充分-|B|sufficiently / enough|*충분히* 설명하다|to explain sufficiently|*충분히* 자다|to sleep enough|*충분히* 이해해요|I understand perfectly|audio/row454_chunk1.wav|audio/row454_chunk2.wav|audio/row454_chunk3.wav
+455|1208|대15|의|臺|B|unit (counter for machines)|차 세 *대*|three cars|에어컨 한 *대*|one air conditioner|기계 몇 *대*|several machines|audio/row455_chunk1.wav|audio/row455_chunk2.wav|audio/row455_chunk3.wav
+456|1209|신체02|명|身體|B|body|*신체* 검사|physical examination|*신체*의 일부|part of the body|건강한 *신체*|healthy body|audio/row456_chunk1.wav|audio/row456_chunk2.wav|audio/row456_chunk3.wav
+457|1213|집안01|명||B|household / family|*집안* 일|housework|우리 *집안*|our family|*집안*이 화목하다|the family is harmonious|audio/row457_chunk1.wav|audio/row457_chunk2.wav|audio/row457_chunk3.wav
+458|1214|배경01|명|背景|B|background|역사적 *배경*|historical background|사진 *배경*|photo background|성장 *배경*|upbringing background|audio/row458_chunk1.wav|audio/row458_chunk2.wav|audio/row458_chunk3.wav
+459|1217|단순하다|형|單純-|B|to be simple|*단순한* 구조|simple structure|생각이 *단순하다*|to be simple-minded|*단순하게* 생각하다|to think simply|audio/row459_chunk1.wav|audio/row459_chunk2.wav|audio/row459_chunk3.wav
+460|1220|빠지다01|동|머리가 ~|B|to fall out / to be missing|머리가 *빠지다*|hair falls out|못이 *빠졌다*|the nail came out|단추가 *빠지다*|a button is missing|audio/row460_chunk1.wav|audio/row460_chunk2.wav|audio/row460_chunk3.wav
+461|1227|푸르다|형||B|to be blue / green|*푸른* 하늘|blue sky|*푸른* 들판|green field|눈이 *푸르다*|eyes are blue|audio/row461_chunk1.wav|audio/row461_chunk2.wav|audio/row461_chunk3.wav
+462|1228|걔|불|그 아이|B|that kid / he / she|*걔*는 누구야?|Who is that kid?|*걔*랑 친해|I'm close with him/her|*걔*가 그랬어|He/she did that|audio/row462_chunk1.wav|audio/row462_chunk2.wav|audio/row462_chunk3.wav
+463|1234|흔들다|동||B|to shake / to wave|손을 *흔들다*|to wave one's hand|꼬리를 *흔들다*|to wag a tail|몸을 *흔들었다*|shook one's body|audio/row463_chunk1.wav|audio/row463_chunk2.wav|audio/row463_chunk3.wav
+464|1235|기초06|명|基礎|B|foundation / basic|*기초* 지식|basic knowledge|*기초*가 튼튼하다|the foundation is strong|*기초*를 닦다|to lay the foundation|audio/row464_chunk1.wav|audio/row464_chunk2.wav|audio/row464_chunk3.wav
+465|1243|부족하다|형|不足-|B|to be insufficient|잠이 *부족하다*|to lack sleep|실력이 *부족하다*|to lack skill|경험이 *부족해요*|experience is insufficient|audio/row465_chunk1.wav|audio/row465_chunk2.wav|audio/row465_chunk3.wav
+466|1246|진행되다|동|進行-|B|to proceed / to progress|회의가 *진행되다*|the meeting is proceeding|순조롭게 *진행되었다*|progressed smoothly|공사가 *진행되는* 중|the construction is underway|audio/row466_chunk1.wav|audio/row466_chunk2.wav|audio/row466_chunk3.wav
+467|1252|법01|의|法|B|way / bound to|그럴 *법*하다|to be likely/plausible|이기기 마련인 *법*|bound to win|잊기 마련인 *법*|bound to forget|audio/row467_chunk1.wav|audio/row467_chunk2.wav|audio/row467_chunk3.wav
+468|1254|오랜|관||B|long-time / for a long time|*오랜* 친구|long-time friend|*오랜* 시간|long time|*오랜* 기다림|long wait|audio/row468_chunk1.wav|audio/row468_chunk2.wav|audio/row468_chunk3.wav
+469|1255|젊은이|명||B|youth / young person|건강한 *젊은이*|healthy youth|*젊은이*들의 유행|trends among young people|*젊은이*답게 살다|to live like a young person|audio/row469_chunk1.wav|audio/row469_chunk2.wav|audio/row469_chunk3.wav
+470|1259|과제04|명|課題|B|task / assignment|어려운 *과제*|difficult task|*과제*를 제출하다|to submit an assignment|당면한 *과제*|immediate task|audio/row470_chunk1.wav|audio/row470_chunk2.wav|audio/row470_chunk3.wav
+471|1261|기록하다|동|記錄-|B|to record|점수를 *기록하다*|to record the score|매일 *기록했다*|recorded every day|일기에 *기록하다*|to record in a diary|audio/row471_chunk1.wav|audio/row471_chunk2.wav|audio/row471_chunk3.wav
+472|1262|다가오다|동||B|to approach / to come closer|추석이 *다가오다*|Chuseok is approaching|가까이 *다가왔다*|came closer|기회가 *다가오다*|an opportunity approaches|audio/row472_chunk1.wav|audio/row472_chunk2.wav|audio/row472_chunk3.wav
+473|1266|종합|명|綜合|B|synthesis / general|*종합* 병원|general hospital|*종합* 점수|overall score|*종합*해서 판단하다|to synthesize and judge|audio/row473_chunk1.wav|audio/row473_chunk2.wav|audio/row473_chunk3.wav
+474|1269|개발하다|동|開發-|B|to develop|기술을 *개발하다*|to develop technology|신제품을 *개발했다*|developed a new product|재능을 *개발하다*|to develop talent|audio/row474_chunk1.wav|audio/row474_chunk2.wav|audio/row474_chunk3.wav
+475|1271|떨다01|동||B|to tremble / to shake|추위에 *떨다*|to tremble with cold|목소리를 *떨다*|voice trembles|겁에 *떨었다*|shook with fear|audio/row475_chunk1.wav|audio/row475_chunk2.wav|audio/row475_chunk3.wav
+476|1278|자유롭다|형|自由-|B|to be free|사고가 *자유롭다*|thought is free|*자유로운* 영혼|free spirit|*자유롭게* 이용하다|to use freely|audio/row476_chunk1.wav|audio/row476_chunk2.wav|audio/row476_chunk3.wav
+477|1279|적극적|명|積極적|B|active / proactive|*적극적*인 참여|active participation|*적극적*으로 돕다|to help proactively|성격이 *적극적*이다|personality is proactive|audio/row477_chunk1.wav|audio/row477_chunk2.wav|audio/row477_chunk3.wav
+478|1280|판매|명|販賣|B|sale / selling|*판매* 가격|selling price|*판매*를 중단하다|to stop sales|인기리에 *판매* 중|on sale with great popularity|audio/row478_chunk1.wav|audio/row478_chunk2.wav|audio/row478_chunk3.wav
+479|1283|길이01|명||B|length|치마 *길이*|skirt length|*길이*를 재다|to measure the length|*길이*가 길다|the length is long|audio/row479_chunk1.wav|audio/row479_chunk2.wav|audio/row479_chunk3.wav
+480|1285|점차02|부|漸次|B|gradually|*점차* 나아지다|to get gradually better|*점차* 늘어나다|to increase gradually|*점차* 잊혀 가다|to be gradually forgotten|audio/row480_chunk1.wav|audio/row480_chunk2.wav|audio/row480_chunk3.wav
+481|1286|톤01|의|ton|B|ton (unit)|오 *톤* 트럭|five-ton truck|수천 *톤*의 쓰레기|thousands of tons of trash|무게가 일 *톤*이다|weight is one ton|audio/row481_chunk1.wav|audio/row481_chunk2.wav|audio/row481_chunk3.wav
+482|1288|관련되다|동|關聯-|B|to be related|범죄와 *관련되다*|to be related to a crime|*관련된* 서류|related documents|직접 *관련되어* 있다|to be directly related|audio/row482_chunk1.wav|audio/row482_chunk2.wav|audio/row482_chunk3.wav
+483|1290|나머지|명||B|the rest / remainder|*나머지* 공부|extra study (remainder)|*나머지* 돈|the rest of the money|*나머지*는 나중에|the rest later|audio/row483_chunk1.wav|audio/row483_chunk2.wav|audio/row483_chunk3.wav
+484|1298|미래02|명|未來|B|future|*미래*의 꿈|future dream|밝은 *미래*|bright future|*미래*를 준비하다|to prepare for the future|audio/row484_chunk1.wav|audio/row484_chunk2.wav|audio/row484_chunk3.wav
+485|1302|인구01|명|人口|B|population|세계 *인구*|world population|*인구*가 감소하다|population decreases|도시 *인구*|city population|audio/row485_chunk1.wav|audio/row485_chunk2.wav|audio/row485_chunk3.wav
+486|1303|기대하다|동|期待-|B|to expect / to look forward to|성공을 *기대하다*|to expect success|내일을 *기대했다*|looked forward to tomorrow|너무 *기대하지* 마|don't expect too much|audio/row486_chunk1.wav|audio/row486_chunk2.wav|audio/row486_chunk3.wav
+487|1308|흘리다|동||B|to spill / to shed|눈물을 *흘리다*|to shed tears|땀을 *흘렸다*|sweated|침을 *흘리다*|to drool|audio/row487_chunk1.wav|audio/row487_chunk2.wav|audio/row487_chunk3.wav
+488|1310|주인공|명|主人公|B|protagonist / hero|소설의 *주인공*|protagonist of the novel|오늘의 *주인공*|hero of today|영화 *주인공*|movie lead|audio/row488_chunk1.wav|audio/row488_chunk2.wav|audio/row488_chunk3.wav
+489|1311|당연하다01|형|當然-|B|to be natural / obvious|*당연한* 결과|obvious result|성공은 *당연하다*|success is natural|질문은 *당연해요*|it's natural to ask questions|audio/row489_chunk1.wav|audio/row489_chunk2.wav|audio/row489_chunk3.wav
+490|1313|따로|부||B|separately|*따로* 계산하다|to pay separately|*따로* 챙기다|to pack separately|*따로* 보관하다|to store separately|audio/row490_chunk1.wav|audio/row490_chunk2.wav|audio/row490_chunk3.wav
+491|1320|당장02|명|當場|B|right now / immediately|*당장* 나가라|get out right now|*당장* 필요한 것|thing needed immediately|*당장*은 어렵다|it's difficult for now|audio/row491_chunk1.wav|audio/row491_chunk2.wav|audio/row491_chunk3.wav
+492|1321|무렵|의||B|around the time|해 질 *무렵*|around sunset|퇴근할 *무렵*|around the time of leaving work|어릴 *무렵*|around the time (I) was young|audio/row492_chunk1.wav|audio/row492_chunk2.wav|audio/row492_chunk3.wav
+493|1323|사물10|명|事物|B|object / thing|주변의 *사물*|surrounding objects|*사물*을 관찰하다|to observe objects|무생물 *사물*|inanimate object|audio/row493_chunk1.wav|audio/row493_chunk2.wav|audio/row493_chunk3.wav
+494|1324|일반적|명|一般的|B|general|*일반적*인 특징|general characteristic|*일반적*으로 쓰이다|to be used generally|생각이 *일반적*이다|the thought is common/general|audio/row494_chunk1.wav|audio/row494_chunk2.wav|audio/row494_chunk3.wav
+495|1326|곱다02|형|아름답다|B|to be beautiful / soft|마음씨가 *곱다*|to have a kind heart|색깔이 *곱다*|the color is beautiful|*고운* 목소리|soft/pretty voice|audio/row495_chunk1.wav|audio/row495_chunk2.wav|audio/row495_chunk3.wav
+496|1327|바닥01|명||B|floor / bottom|방 *바닥*|room floor|*바닥*에 앉다|to sit on the floor|신발 *바닥*|sole of a shoe|audio/row496_chunk1.wav|audio/row496_chunk2.wav|audio/row496_chunk3.wav
+497|1330|생각되다|동||B|to be considered / to be thought|중요하다고 *생각되다*|to be considered important|사실로 *생각되었다*|was thought to be a fact|위험하다고 *생각되는* 곳|place considered dangerous|audio/row497_chunk1.wav|audio/row497_chunk2.wav|audio/row497_chunk3.wav
+498|1333|심다01|동||B|to plant|나무를 *심다*|to plant a tree|꽃을 *심었다*|planted flowers|희망을 *심어주다*|to plant hope|audio/row498_chunk1.wav|audio/row498_chunk2.wav|audio/row498_chunk3.wav
+499|1341|견디다|동||B|to endure / to bear|추위를 *견디다*|to endure the cold|고통을 *견뎠다*|bore the pain|끝까지 *견디다*|to endure until the end|audio/row499_chunk1.wav|audio/row499_chunk2.wav|audio/row499_chunk3.wav
+500|1342|기사10|명|記事|B|article / report|신문 *기사*|newspaper article|*기사*를 읽다|to read a report|특종 *기사*|scoop/exclusive article|audio/row500_chunk1.wav|audio/row500_chunk2.wav|audio/row500_chunk3.wav
+501|1348|뿌리다|동||B|to sprinkle / to spray|향수를 *뿌리다*|to spray perfume|씨를 *뿌렸다*|sowed seeds|소금을 *뿌리다*|to sprinkle salt|audio/row501_chunk1.wav|audio/row501_chunk2.wav|audio/row501_chunk3.wav
+502|1354|어쩌면|부||B|maybe / perhaps|*어쩌면* 사실일지 몰라|maybe it's true|*어쩌면* 그렇게 예뻐?|how can you be so pretty?|*어쩌면* 좋을까|what should I do?|audio/row502_chunk1.wav|audio/row502_chunk2.wav|audio/row502_chunk3.wav
+503|1363|아까|부||B|a while ago|*아까* 만났다|met a while ago|*아까* 한 말|what (I) said earlier|*아까*보다 낫다|better than before|audio/row503_chunk1.wav|audio/row503_chunk2.wav|audio/row503_chunk3.wav
+504|1364|알맞다|형||B|to be suitable / fit|용도에 *알맞다*|to be fit for the use|*알맞은* 크기|suitable size|격식에 *알맞게*|fittingly for the formality|audio/row504_chunk1.wav|audio/row504_chunk2.wav|audio/row504_chunk3.wav

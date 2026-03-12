@@ -3,9 +3,9 @@
 # dependencies = [
 #     "qwen-tts",
 #     "soundfile",
-#     "torch @ https://download.pytorch.org/whl/cu121/torch-2.5.1%2Bcu121-cp312-cp312-win_amd64.whl",
-#     "torchvision @ https://download.pytorch.org/whl/cu121/torchvision-0.20.1%2Bcu121-cp312-cp312-win_amd64.whl",
-#     "torchaudio @ https://download.pytorch.org/whl/cu121/torchaudio-2.5.1%2Bcu121-cp312-cp312-win_amd64.whl",
+#     "torch @ https://download.pytorch.org/whl/cu121/torch-2.5.1%2Bcu121-cp312-cp312-linux_x86_64.whl",
+#     "torchvision @ https://download.pytorch.org/whl/cu121/torchvision-0.20.1%2Bcu121-cp312-cp312-linux_x86_64.whl",
+#     "torchaudio @ https://download.pytorch.org/whl/cu121/torchaudio-2.5.1%2Bcu121-cp312-cp312-linux_x86_64.whl",
 # ]
 # ///
 import os
@@ -68,7 +68,9 @@ def main():
             audio_paths = []
             
             supported_speakers = model.get_supported_speakers()
-            speaker_choice = "Yunseong" if "Yunseong" in supported_speakers else ("Eunji" if "Eunji" in supported_speakers else supported_speakers[0])
+            # We use 3 different voices for each word's chunks. "sohee" is the native Korean voice.
+            # "aiden" (male) and "vivian" (female) are english voices but speak fluent native Korean seamlessly.
+            speaker_choices = ["sohee", "aiden", "vivian"]
             
             for chunk_idx, col_idx in enumerate([7, 9, 11]):
                 chunk_kor = clean_chunk(row[col_idx])
@@ -76,6 +78,8 @@ def main():
                 if not chunk_kor.strip():
                     audio_paths.append("")
                     continue
+                
+                speaker_choice = speaker_choices[chunk_idx % len(speaker_choices)]
                 
                 audio_filename = f"row{row_idx+1}_chunk{chunk_idx+1}.wav"
                 audio_filepath = os.path.join(args.audio_dir, audio_filename)
