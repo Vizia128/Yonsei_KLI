@@ -1,0 +1,7 @@
+.env
+topik-anki.toml
+output/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
